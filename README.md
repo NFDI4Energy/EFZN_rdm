@@ -6,11 +6,9 @@ Version:  1.0
 language: en
 license:  http://creativecommons.org/licenses/by/4.0/
 
-mode:     Presentation
-
 narrator: US English Female
 
-logo:     ![efzn-logo](/img/efzn-logo.png)
+icon:   img/efzn-logo.png
 
 script: https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
         https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
@@ -32,19 +30,21 @@ link:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 
 ## <a name="rdm"></a> What is Research Data Management?
-[Lifecycle]: img/DataLifecycle.png  "The Research Data Lifecycle"
+
+
+![Lifecycle](img/DataLifecycle.png "The Research Data Lifecycle")
 
 ### Case Study 
 
 In early 2020, the COVID-19 disease, caused by the coronavirus SARS-CoV2, broke out globally, which led to the closure of many shops and businesses for quarantine reasons. The result, especially in the USA, was a large number of unemployed people who urgently needed money for their next rent payment, food or other expenses. As a consequence, the government decided to set up a relief package for anyone who registers as unemployed - but why didn't the money get to the people?
+
 The reason for this was the overload of critical systems on which COBOL is still running. COBOL is a programming language that was developed in the late 1950s to control commercial applications. From today's perspective, the programming language is very outdated and no longer taught in the training of programmers. That is why there was no personnel to take care of the systems when they collapsed. Unfortunately, many applications with the outdated programming language are still running in the business sector. 
 
->**Exercise**: Suggest two possible process changes that could have prevented the outcome of the scenario:
+> **Exercise**: Suggest two possible process changes that could have prevented the outcome of the scenario:
 
-[[There are several solutions possible: Existing systems should be questioned, since requirements can change and established habits can lead to problems from today's perspective. For example, at some point data might no longer be able to be called up or might exist in formats that are increasingly difficult to be processed. A thorough documentation of the programs might also help in some cases to rebuild them in other languages. For timely relief, the administration called out to retired COBOL programmers to ]]
-
-
-Source: [FDM Thüringen: Scarytales](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
+> There are several solutions possible: Existing systems should be questioned, since requirements can change and established habits can lead to problems from today's perspective. For example, at some point data might no longer be able to be called up or might exist in formats that are increasingly difficult to be processed. A thorough documentation of the programs might also help in some cases to rebuild them in other languages. For timely relief, the administration called out to retired COBOL programmers to 
+>
+> Source: [FDM Thüringen: Scarytales](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
 
 While maybe not as critical for society at large, scientists can face similar problem when trying to access old data or programs that were written for other purposes but are know needed for the current tasks: Data are insufficiently labeled, have been overwritten, commercial computer programs have been discontinued or process details have not been recorded.
 
@@ -78,11 +78,14 @@ Open Science strives to to make scientific research and its dissemination **acce
 Source: https://en.wikipedia.org/wiki/Open_science 
 
 
->**Research Question**: Is there an Open Science or Research Data Policy at your institution?
-What is its scope? What is regulated and how?
-If not: 
-Would you like to have a Research Data Policy?
-What content should it have?
+> **Research Question**:
+> Is there an Open Science or Research Data Policy at your institution?
+> 
+> What is its scope? What is regulated and how?
+>
+> If not: 
+> Would you like to have a Research Data Policy?
+> What content should it have?
 
 For our 
 
@@ -98,25 +101,26 @@ This is the main idea behind the FAIR principles. The acronym stands for
 * Re-Usable
 
 
->**Exercise**: Look closely at the graph to identify which measures especially apply to your area of work and data types you are using.
+> **Exercise**:
+> Look closely at the graph to identify which measures especially apply to your area of work and data types you are using.
 
-![FAIR Guiding Principles](img/FAIR.png)
-Source: https://www.go-fair.org/fair-principles/ 
+![FAIR Guiding Principles](img/FAIR.png "Source: https://www.go-fair.org/fair-principles/")
 
 
 > **Quiz**: What can you do to make your data FAIRer?    
-
-[[X]] use Creative-Commons or GNU Licenses
-[[ ]] keep processing details undisclosed
-[[ ]] ensure access security 
-[[X]] create detailed Metadata    
-[[X]] ensure long-term accessibility in repositories
+>
+> [[X]] use Creative-Commons or GNU Licenses
+> [[ ]] keep processing details undisclosed
+> [[ ]] ensure access security 
+> [[X]] create detailed Metadata    
+> [[X]] ensure long-term accessibility in repositories
 
 
 ---
 
 
 ## <a name="dmp"></a> Data Management Plan
+
 The **Data Management Plan (DMP)** contains all information that describes and documents sufficiently the collection, processing, storage, archiving and publication of research data within a research project.  
 
 Many public funding organizations require a DMP prior to granting funds for research projects, thus making DMPs an integral part of the scientific process, especially in data-intensive research fields such as the energy sector.
@@ -133,11 +137,7 @@ Many public funding organizations require a DMP prior to granting funds for rese
 
 A Data Manage
 
-<iframe width="640" height="390" 
-    src="https://www.youtube.com/watch?v=GRNsLTQGjCo" 
-    frameborder="0" allowfullscreen></iframe>
- Ghent University Data Stewards (2020): Knowledge clip: Data Management Plans (DMPs). Available at: https://www.youtube.com/watch?v=GRNsLTQGjCo. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)
-
+!?[Ghent University Data Stewards (2020)](https://www.youtube.com/watch?v=GRNsLTQGjCo "Data Management Plans (DMPs) [^GhentUniversity]")
 
 There are several tools available that can be helpful in the creation of a DMP (see [Tools and Strategies](#tools) for some examples). In our example, we will work with **RDMO**, a tool that can be used collaboratively and exports into different formats. 
 
@@ -148,11 +148,13 @@ https://rdmo.forschungsdaten.info/
 | :--------- | :--------- | :--------- |
 | Item 1     | Item 2     | Item 3     |
 
->**Exercise**: Choose a questionnaire that you want to follow. Start by filling in your project details.
+> **Exercise**:
+> Choose a questionnaire that you want to follow. Start by filling in your project details.
 
 Congratulations! You have started your first DMP!
 
----
+
+[^GhentUniversity]: Ghent University Data Stewards (2020): Knowledge clip: Data Management Plans (DMPs). Available at: https://www.youtube.com/watch?v=GRNsLTQGjCo. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 ## <a name="tools"></a> Tools and Strategies
 
@@ -182,13 +184,25 @@ Congratulations! You have started your first DMP!
 ---
 
 ## <a name="sources"></a> Sources: 
-* Maxi Kindling, Peter Schirmbacher, Elena Simukovic: Forschungsdatenmanagement an Hochschulen: das Beispiel der Humboldt-Universität zu Berlin. LIBREAS. Library Ideas, 23 (2013). https://doi.org/10.18452/9041.
 
-* Biernacka, Katarzyna; Maik Bierwirth; Petra Buchholz, Dominika Dolzycka; Kerstin Helbig; JannaNeumann; Carolin Odebrecht; Cord Wiljes and Ulrike Wuttke: Train-the-Trainer Concept on Research Data Management. Version 3.0. Berlin, 2020. https://doi.org/10.5281/zenodo.4071471
+* Maxi Kindling, Peter Schirmbacher, Elena Simukovic:
+  Forschungsdatenmanagement an Hochschulen:
+  das Beispiel der Humboldt-Universität zu Berlin.
+  LIBREAS.
+  Library Ideas, 23 (2013).
+  https://doi.org/10.18452/9041
 
-* FAIR Guiding Principles: https://www.go-fair.org/
+* Biernacka, Katarzyna; Maik Bierwirth; Petra Buchholz, Dominika Dolzycka; Kerstin Helbig; JannaNeumann; Carolin Odebrecht; Cord Wiljes and Ulrike Wuttke:
+  Train-the-Trainer Concept on Research Data Management.
+  Version 3.0.
+  Berlin, 2020.
+  https://doi.org/10.5281/zenodo.4071471
 
-* UK Data Service: https://ukdataservice.ac.uk/learning-hub/research-data-management/ 
+* FAIR Guiding Principles:
+  https://www.go-fair.org/
+
+* UK Data Service:
+  https://ukdataservice.ac.uk/learning-hub/research-data-management/ 
 
 
 [![CC BY 4.0][cc-by-image]][cc-by]  This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by]. 
