@@ -113,12 +113,16 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 ## <a name="fair"></a> Make it FAIR
 
 ### Open Science
-
+--{{1}}--
 Open Science strives to to make scientific research and its dissemination **accessible to all levels of society**. It encompasses practices such as publishing open research, campaigning for open access, encouraging scientists to practice **open-notebook science** (such as openly sharing data and code), broader dissemination and engagement in science and generally making it easier to publish, access and communicate scientific knowledge. 
 
 Source: https://en.wikipedia.org/wiki/Open_science 
 
-
+<!-- --{{2}}--
+Research Question: Is there an Open Science or Research Data Policy at your institution?
+What is its scope? What is regulated and how? If not: Would you like to have a Research Data Policy? What content should it have?
+-->
+{{2}}
 > **Research Question**:
 > 
 >Is there an Open Science or Research Data Policy at your institution?
@@ -134,8 +138,7 @@ For our
 ### FAIR Guiding Principles
 
 --{{1}}--
-> "As open as possible, as closed as necessary" 
-
+"As open as possible, as closed as necessary" 
 This is the main idea behind the FAIR principles. The acronym stands for
 
 * Findable
@@ -143,17 +146,20 @@ This is the main idea behind the FAIR principles. The acronym stands for
 * Interoperable
 * Re-Usable
 
---{{1}}--
+{{2}}
 > **Exercise**: Look closely at the graph to identify which measures especially apply to your area of work and data types you are using.
 
-{{1}}![FAIR Guiding Principles](img/FAIR.png "Source: https://www.go-fair.org/fair-principles/")
+{{2}}![FAIR Guiding Principles](img/FAIR.png "Source: https://www.go-fair.org/fair-principles/")
 
-<!-- --{{1}}--
-Dieser ganze Absatz wird nur vorgelesen, taucht
-aber im Textbuch-Modus nicht auf!
+<!-- --{{2}}--
+The FAIR Guiding Principles in detail:
+1. To make data findable, you should assign unique and persistent identifiers, that stay active. Also, provide extensive and useful metadata - avoid acronyms, for example. You should also use common repositories. You can find a list on Re3data.com. For the energy sector, we recommend the Open Energy Platform.
+2. Accessible data use stanrdized communications protocol such as HTTP or FTP. Make sure anyone with a computer and internet connection can access at least the metadata. Your (meta)data should be long-term accessible. For sensitive data, you may use authentification routines.
+3. In order to achieve interoperability, use a formal, accessible, shared and boradly applicable language. Also, use tools and software that are FAIR themselves. Cross-reference your data and metadata.
+4. Re-usable data is described by as much information as possible, such as process details. Clearly describe data usage licenses. Be transparent about data provenance and know and meet your own community's data standards.
 -->
 
---{{2}}--
+{{3}}
 > **Quiz**: What can you do to make your data FAIRer?    
 >
 > [[X]] use Creative-Commons or GNU Licenses
@@ -163,13 +169,11 @@ aber im Textbuch-Modus nicht auf!
 > [[X]] ensure long-term accessibility in repositories
 
 
----
-
-
 ## <a name="dmp"></a> Data Management Plan
 
 [^GhentUniversity]: Ghent University Data Stewards (2020): Knowledge clip: Data Management Plans (DMPs). Available at: https://www.youtube.com/watch?v=GRNsLTQGjCo. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)^
 
+--{{1}}--
  The **Data Management Plan (DMP)** contains all information that describes and documents sufficiently the collection, processing, storage, archiving and publication of research data within a research project.  
 
 >**Exercise**: Watch the following video and answer the questions.
@@ -177,9 +181,10 @@ aber im Textbuch-Modus nicht auf!
 !?[Ghent University Data Stewards (2020)](https://www.youtube.com/watch?v=GRNsLTQGjCo "Data Management Plans (DMPs) [^GhentUniversity]")
 --> enter interactive h5p Video link with questions in it
 
+--{{2}}--
 Many public funding organizations require a DMP prior to granting funds for research projects, thus making DMPs an integral part of the scientific process, especially in data-intensive research fields such as the energy sector.
 
-
+{{3}}
 | Funder | Plan demanded? | Content | Updates? |
 |:-------|:--------------------------|:--------|:---------------|
 |Horizon Europe| Data Management Plan|see [Horizon Europe Online Manual](https://op.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/9570017e-cd82-11eb-ac72-01aa75ed71a1)|Yes|
@@ -192,13 +197,19 @@ Many public funding organizations require a DMP prior to granting funds for rese
 ## <a name="tools"></a> Tools and Strategies
 
 ### Tools
+
+--{{1}}--
 You can create a DMP in a simple Excel-Sheet or use various format templates or tools.
-
-| Header 1   | Header 2   | Header 3   |
-| :--------- | :--------- | :--------- |
-| Item 1     | Item 2     | Item 3     |
-
 In many tools, you can choose a set of questions that you want to have included in your DMP. Some are focused on data and data formats, other focus on the project structure. If you want to take a look at an example DMP, you can look [here](https://cloud.uol.de/f/7510018536).
+
+<!-- --{{2}}--
+DMP Task: Now it is time to start your DMP! Choose a tool and a set of questions that you want to work with and enter your basic project parameters:
+1. Title and Research Question
+2. Project Partners and Institutions
+Depending on your settings, you can add other details required by the respective questionnaire. 
+
+Congratulations! You have started your first DMP!
+-->
 
 > **DMP Task**:
 > 
@@ -207,7 +218,6 @@ In many tools, you can choose a set of questions that you want to have included 
 >2. Project Partners and Institutions
 >
 >Depending on your settings, you can add other details required by the respective questionnaire. 
-
 
 Congratulations! You have started your first DMP!
 
@@ -218,43 +228,34 @@ You should start early to decide which license you would like to put
 
 ---
 ### Data Types 
-
+--{{1}}--
 Depending on your field of expertise, there will be different data types relevant to your work. In your DMP, you can specify individual datasets and name their identifiers, file size, origin and so forth.
-
 Simulations and software programmes are a special case. Here, not only the resulting datasets are of scientific value but also the programmes, algorithms and settings leading up to the data. ...
-
 The data types you choose to publish have consequences for your Research Data Management in regard to the "Accessible", "Interoperable" and "Re-Usable" Criteria of the FAIR Guidelines.
 
+--{{2}}--
 **1. Accessible**  
 --> Make sure that (meta)data are long-term accessible
 
 The amount of memory space needed for long-term, save storage may vary greatly between data types. For example, if your reasearch data consist  of high-resolution images of potential wind turbine sites, memory space needed for backup and repositories will be much higher than a handful .csv files with projected power loads.
 
+--{{2}}--
 **2. Interoperable**
 --> Use tools and software that are FAIR themselves
 Try to remember the idea of "as open as possible, as closed as necessary.": Strive to choose, where possible, programs and data types that are open and FAIR. For example, do not describe your processing details in a .pdf file, but rather use a .txt-file that can be read and edited with various programs.
 
+--{{2}}--
 **3. Re-Usable**
 --> know and meet community standards
 As the expert in your own field, you are the one to decide here: which data types are most likely to be found, easily re-used and shared in your scientific community? If these are "closed", you could provide two files: one that adheres to the common standards and a more open alternative that promotes the idea of open science. 
 
-                   Text file formats
-100 |    DotS
-    |                 ***
-  p |               *     *
-  e | r r r r r r r*r r r r*r r r r r r r
-  r |             *         *
-  c |            *           *
-  e | B B B B B * B B B B B B * B B B B B
-  n |         *                 *
-  t | *  * *                       * *  *
-    +------------------------------------
-    
+<!-- --{{3}}--
+Exercise: Make a list of the data types commonly used in your working group and their "FAIR value".
+-->
 
 > **Exercise:**
 > 
 > Make a list of the data types commonly used in your working group and their "FAIR value". Use the criteria in the table below.
-
 
 
 | FAIR value|	Machine Readability	| Human Readability	| Long-time Stability|	Metadata   | Example|
@@ -264,17 +265,19 @@ As the expert in your own field, you are the one to decide here: which data type
 |moderate	| proprietary standard format   | with open software (reliably?) convertible to higher class| 	relatively new format	| some important ones (e.g. units) are included | MATLAB file|
 |bad	| self-developed reading software| no|	newly developed	| no information    | |
 
+Source: translated and adapted from [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/), [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 
-Source: translated and adapted from [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/) , [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+<!-- --{{3}}--
+DMP Task: If you already know datasets that you will be (re-)using or producing, enter them in your DMP as thoroughly as you can at this point. 
+If you do not know your datasets yet, enter one or two dummy datasets and follow the respective questionnaire to get an idea of the amount of detail required in the DMP.
+-->
 
 >**DMP Task**: 
 >
 > If you already know datasets that you will be (re-)using or producing, enter them in your DMP as thoroughly as you can at this point. 
 >
 > If you do not know your datasets yet, enter one or two "dummy" datasets and follow the respective questionnaire to get an idea of the amount of detail required in the DMP.
-
-
 
 
 ## <a name="Infrastructure"></a> Infrastructure
@@ -295,7 +298,8 @@ Source: translated and adapted from [forschungsdaten.info](https://forschungsdat
 
 ## <a name="congrats"></a> Congratulations
 
----
+
+Did you find all clues and solve all puzzles? Then you can enter the resulting letters in the box below to see if you are a DMP-Champion!
 
 ## <a name="sources"></a> Sources: 
 
