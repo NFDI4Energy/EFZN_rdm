@@ -39,9 +39,9 @@ There are three possible ways to work with this course:
 <iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=19" width="660" height="1292" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe><script src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### LiaScript 
-A quick word on the course format. The course is written in [Markdown]() and implemented in [LiaScript](). 
+A quick word on the course format. The course is written in [Markdown](https://de.wikipedia.org/wiki/Markdown) and implemented in [LiaScript](https://liascript.github.io/). 
 
-You can switch between textbook mode, presentation mode and slides. You may choose to have the course read aloud to you by clicking on the symbol on the bottom of the page in presentation mode. If you want to adapt the course for your own use, you may do so by going on [GitHub](https://github.com/FlourBerry/EFZN_RDM) and opening a branch of your own or downloading individual files. 
+In the upper right corner, you can switch between textbook mode, presentation mode and slides. You may choose to have the course read aloud to you by clicking on the symbol on the bottom of the page in presentation mode. If you want to adapt the course for your own use, you may do so by going on [GitHub](https://github.com/FlourBerry/EFZN_RDM) and opening a branch of your own or downloading individual files. 
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -55,12 +55,14 @@ You can switch between textbook mode, presentation mode and slides. You may choo
 {{1}}
 In early 2020, the COVID-19 disease, caused by the coronavirus SARS-CoV2, broke out globally, which led to the closure of many shops and businesses for quarantine reasons. The result, especially in the USA, was a large number of unemployed people who urgently needed money for their next rent payment, food or other expenses. As a consequence, the government decided to set up a relief package for anyone who registers as unemployed - but why didn't the money get to the people?
 
+{{1}}
 The reason for this was the overload of critical systems on which COBOL is still running. COBOL is a programming language that was developed in the late 1950s to control commercial applications. From today's perspective, the programming language is very outdated and no longer taught in the training of programmers. That is why there was no personnel to take care of the systems when they collapsed. Unfortunately, many applications with the outdated programming language are still running in the business sector. 
 
+{{1}}
 Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
 
-
->**Exercise**: Suggest two possible process changes that could have prevented the outcome of the scenario:
+{{1}}
+>__Exercise:__ Suggest two possible process changes that could have prevented the outcome of the scenario:
 
 {{2}}
 > There are several solutions possible: Existing systems should be questioned, since requirements can change and established habits can lead to problems from today's perspective. For example, at some point data might no longer be able to be called up or might exist in formats that are increasingly difficult to be processed. A thorough documentation of the programs might also help in some cases to rebuild them in other languages. For timely relief, the administration called out to retired COBOL programmers to work on the issues.
@@ -71,6 +73,7 @@ While maybe not as critical for society at large, scientists can face similar pr
 {{3}}
 **Research Data Management** (RDM) aims to break this dynamic by ensuring a sustainable and coherent strategy for all data types throughout the research process, enabling researchers to store, access and re-use their own work effectively and safely and opening their findings worldwide to improve on cross-disciplinary collaboration, monitoring and replication.
 
+{{3}}
 RDM includes all activities associated with
 
 * processing
@@ -130,6 +133,7 @@ For our
 
 ### FAIR Guiding Principles
 
+--{{1}}--
 > "As open as possible, as closed as necessary" 
 
 This is the main idea behind the FAIR principles. The acronym stands for
@@ -139,7 +143,7 @@ This is the main idea behind the FAIR principles. The acronym stands for
 * Interoperable
 * Re-Usable
 
-{{1}}
+--{{1}}--
 > **Exercise**: Look closely at the graph to identify which measures especially apply to your area of work and data types you are using.
 
 {{1}}![FAIR Guiding Principles](img/FAIR.png "Source: https://www.go-fair.org/fair-principles/")
@@ -149,7 +153,7 @@ Dieser ganze Absatz wird nur vorgelesen, taucht
 aber im Textbuch-Modus nicht auf!
 -->
 
-{{2}}
+--{{2}}--
 > **Quiz**: What can you do to make your data FAIRer?    
 >
 > [[X]] use Creative-Commons or GNU Licenses
@@ -230,9 +234,6 @@ The amount of memory space needed for long-term, save storage may vary greatly b
 --> Use tools and software that are FAIR themselves
 Try to remember the idea of "as open as possible, as closed as necessary.": Strive to choose, where possible, programs and data types that are open and FAIR. For example, do not describe your processing details in a .pdf file, but rather use a .txt-file that can be read and edited with various programs.
 
-**graph that shows the spectrum of openness in data types**
-
-
 **3. Re-Usable**
 --> know and meet community standards
 As the expert in your own field, you are the one to decide here: which data types are most likely to be found, easily re-used and shared in your scientific community? If these are "closed", you could provide two files: one that adheres to the common standards and a more open alternative that promotes the idea of open science. 
@@ -265,7 +266,7 @@ As the expert in your own field, you are the one to decide here: which data type
 
 
 
-Source: translated and adapted from [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/) , [CC-BY 4.0]()
+Source: translated and adapted from [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/) , [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 >**DMP Task**: 
 >
