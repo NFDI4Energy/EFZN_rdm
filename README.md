@@ -104,7 +104,7 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 
 ## Benefits of RDM
 
-!?[Testimonial_Niesse](img/Testimonial_Niesse.mp4 "Prof. Dr. Astrid Nieße explains how RDM has impacted her work")
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=e7272cc1-7e1a-409b-aff4-feb578a988a8&amp;version=1.3" title="Prof. Dr.-Ing. Astrid Niesse on RDM" width="950" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 You…
 
@@ -167,7 +167,7 @@ __... Show compliance with research obligations of your institution and funder:_
 
 -	simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
 
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=41f2f7c1-4c08-47ea-ad2c-ab63dd4e64e7&amp;version=1.12" title="Henrik Wagner on Research Data Management" width="400" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=41f2f7c1-4c08-47ea-ad2c-ab63dd4e64e7&amp;version=1.12" title="Henrik Wagner on Research Data Management" width="950" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 ## <a name="fair"></a> Open Science and RDM
 
@@ -228,7 +228,7 @@ The **Data Management Plan (DMP)** contains all information that describes and d
 
 >**Exercise**: Watch the following video and answer the questions.
 
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=fb5ac006-a355-41e5-bbaa-32a3ebd4e019&amp;version=1.3" title="Data Management Plan - Interactive Video" width="400" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=fb5ac006-a355-41e5-bbaa-32a3ebd4e019&amp;version=1.3" title="Data Management Plan - Interactive Video" width="950" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 Many public funding organizations require a DMP prior to granting funds for research projects, thus making DMPs an integral part of the scientific process, especially in data-intensive research fields such as the energy sector.
 
@@ -296,7 +296,7 @@ We recommend to use RDMO or DMPOnline due tu their broad spectrum of available q
 
 Congratulations! You have started your first DMP!
 
-<section>
+---
 
 __It`s Quiz Time!__
 
@@ -381,18 +381,21 @@ The following principles are typically followed:
 
 __It's Quiz Time!__
 1. What are some aspects of access security?
+
 [[x]] Privacy, integrity, availability, and controllability 
 [[]] Authentication, encryption, authorization, and auditing 
 [[]] Authentication, vulnerability assessment, encryption, and monitoring 
 [[]] Privacy, vulnerability assessment, authorization, and auditing
 
 2.	What is a recommended practice for password protection? 
+
 [[]] Use sequential characters on the keyboard for easy memorization 
 [[]] Use dictionary words to make passwords more secure
 [[x]] Use strong passwords with at least eight characters, including upper and lower case letters, special characters, and numbers
 [[]] Avoid using special characters and numbers in passwords
 
 3.	What is the purpose of access rights and role assignment? 
+
 [[x]] To limit access to sensitive data to authorized individuals only 
 [[]] To increase data availability for all users 
 [[]] To delegate data backup responsibilities to multiple individuals 
@@ -552,7 +555,7 @@ The 3-2-1 rule strives states that you are to create at least three copies of yo
 >
 > Which backup solutions does your institution offer? If they do not meet your requirements, calculate additional costs in order to include them in your project proposal.
 
-<section>
+---
 
 Archiving refers to the process of creating backups of selected data and storing it for long-term retention. It involves preserving important information, such as __final__ versions of documents or records, in a secure and accessible manner. 
 
@@ -565,46 +568,51 @@ There are various commercial providers for back-up and archiving solutions. Cons
 [[x]] Is the data readily available to you?
 [[x]] Does the service provider guarantee long-term storage?
 
-<section>
+---
 
 __It's Quiz Time__
+
 1. What are some risks that can lead to data loss?
+
 [[x]] Technical defects, catastrophes, theft, oblivion
 [[x]] Software updates, power outages, human error and viruses 
 [[x]] Natural disasters, software malfunctions, hardware upgrades
 [[x]] Data corruption, cyber attacks, accidental deletion, system crashes
 
 2. Which of the following is NOT a atretegy for data protection?
+
 [[]] Storage on university servers with automatic regular backup
 [[]] Backup of important files in a t least three copies on spatially separated storage media.
 [[]] Regularly backing up data and testing data recovery
 [[x]] deleting unnecessary files to save storage space
 
-2.	What are some physical protection measures for data? 
+3.	What are some physical protection measures for data? 
+
 [[]] FileVault, Bitlocker, dm-crypt
 [[]] Password protection, two-factor authentication, role assignment 
 [[x]] Lockable rooms, safes, data trustees 
 [[]] Regular data backups, firewall protection, antivirus software
 
-9.	Why is secure data handling important? 
+4.	Why is secure data handling important?
+
 [[x]] To prevent accidental data deletion 
 [[x]] To protect against data theft and misuse 
 [[]] To increase data storage capacity 
 [[]] To improve system performance and speed
 
-3. What is the recommended strategy for backup?
+5. What is the recommended strategy for backup?
+
 [[]] At least two copies of a file on two different media, one of which is decentralized 
 [[]] At least three copies of a file on three different media, one of which is decentralized 
 [[x]] At least three copies of a file on two different media, one of which is decentralized 
 [[]] At least two copies of a file on three different media, one of which is decentralized 
 
-4.	What is the difference between backup and archiving? 
+6.	What is the difference between backup and archiving?
+
 [[]]Backup is the storage of selected data for long-term storage, while archiving is the automatic backup of all data. 
 [[]]Backup involves making multiple copies of data, while archiving involves storing final versions only. 
 [[]] Backup is the protection against data theft, while archiving is the prevention of data misuse. 
 [[x]] Backup is the (semi)automatic backup of all data, while archiving is the backup of selected data for long-term storage.
-
-
 
 ---
 
