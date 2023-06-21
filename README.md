@@ -588,6 +588,7 @@ __It's Quiz Time__
 
 {{3}}
 1. What are some risks that can lead to data loss?
+{{3}}
 [[x]] Technical defects, catastrophes, theft, oblivion
 [[x]] Software updates, power outages, human error and viruses 
 [[x]] Natural disasters, software malfunctions, hardware upgrades
