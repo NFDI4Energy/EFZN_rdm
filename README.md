@@ -582,37 +582,37 @@ __It's Quiz Time__
 
 2. Which of the following is NOT a atretegy for data protection?
 
-[[]] Storage on university servers with automatic regular backup
-[[]] Backup of important files in a t least three copies on spatially separated storage media.
-[[]] Regularly backing up data and testing data recovery
+[[ ]] Storage on university servers with automatic regular backup
+[[ ]] Backup of important files in a t least three copies on spatially separated storage media.
+[[ ]] Regularly backing up data and testing data recovery
 [[x]] deleting unnecessary files to save storage space
 
 3.	What are some physical protection measures for data? 
 
-[[]] FileVault, Bitlocker, dm-crypt
-[[]] Password protection, two-factor authentication, role assignment 
+[[ ]] FileVault, Bitlocker, dm-crypt
+[[ ]] Password protection, two-factor authentication, role assignment 
 [[x]] Lockable rooms, safes, data trustees 
-[[]] Regular data backups, firewall protection, antivirus software
+[[ ]] Regular data backups, firewall protection, antivirus software
 
 4.	Why is secure data handling important?
 
 [[x]] To prevent accidental data deletion 
 [[x]] To protect against data theft and misuse 
-[[]] To increase data storage capacity 
-[[]] To improve system performance and speed
+[[ ]] To increase data storage capacity 
+[[ ]] To improve system performance and speed
 
 5. What is the recommended strategy for backup?
 
-[[]] At least two copies of a file on two different media, one of which is decentralized 
-[[]] At least three copies of a file on three different media, one of which is decentralized 
+[[ ]] At least two copies of a file on two different media, one of which is decentralized 
+[[ ]] At least three copies of a file on three different media, one of which is decentralized 
 [[x]] At least three copies of a file on two different media, one of which is decentralized 
-[[]] At least two copies of a file on three different media, one of which is decentralized 
+[[ ]] At least two copies of a file on three different media, one of which is decentralized 
 
 6.	What is the difference between backup and archiving?
 
-[[]]Backup is the storage of selected data for long-term storage, while archiving is the automatic backup of all data. 
-[[]]Backup involves making multiple copies of data, while archiving involves storing final versions only. 
-[[]] Backup is the protection against data theft, while archiving is the prevention of data misuse. 
+[[ ]]Backup is the storage of selected data for long-term storage, while archiving is the automatic backup of all data. 
+[[ ]]Backup involves making multiple copies of data, while archiving involves storing final versions only. 
+[[ ]] Backup is the protection against data theft, while archiving is the prevention of data misuse. 
 [[x]] Backup is the (semi)automatic backup of all data, while archiving is the backup of selected data for long-term storage.
 
 
