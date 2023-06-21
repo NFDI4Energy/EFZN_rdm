@@ -530,6 +530,8 @@ __Back-Up and Archiving__
 
 {{1-2}}
 Backup needs to be prepared by well-structured and named data. When naming files and folders, you should adhere to the following standards:
+
+{{1-2}}
 - Give comprehensive names 
 - Use uniform schemes 
 - Develop logical structure 
@@ -574,7 +576,6 @@ When archiving data, it is crucial to ensure its integrity. This means that the 
 
 {{2-3}}
 There are various commercial providers for back-up and archiving solutions. Consider the following questions before choosing one: 
-
 [[x]] Does it carry a seal for trustworthy long-term archives (e.g. CoreTrustSeal, nestor seal, DIN 31644)?
 [[x]] Does it fulfill your technical requirements?
 [[x]] Can you cover the expenses?
@@ -582,46 +583,45 @@ There are various commercial providers for back-up and archiving solutions. Cons
 [[x]] Does the service provider guarantee long-term storage?
 
 {{3}}
-
 __It's Quiz Time__
 
+{{3}}
 1. What are some risks that can lead to data loss?
-
 [[x]] Technical defects, catastrophes, theft, oblivion
 [[x]] Software updates, power outages, human error and viruses 
 [[x]] Natural disasters, software malfunctions, hardware upgrades
 [[x]] Data corruption, cyber attacks, accidental deletion, system crashes
 
+{{3}}
 2. Which of the following is NOT a atretegy for data protection?
-
 [[ ]] Storage on university servers with automatic regular backup
 [[ ]] Backup of important files in a t least three copies on spatially separated storage media.
 [[ ]] Regularly backing up data and testing data recovery
 [[x]] deleting unnecessary files to save storage space
 
+{{3}}
 3.	What are some physical protection measures for data? 
-
 [[ ]] FileVault, Bitlocker, dm-crypt
 [[ ]] Password protection, two-factor authentication, role assignment 
 [[x]] Lockable rooms, safes, data trustees 
 [[ ]] Regular data backups, firewall protection, antivirus software
 
+{{3}}
 4.	Why is secure data handling important?
-
 [[x]] To prevent accidental data deletion 
 [[x]] To protect against data theft and misuse 
 [[ ]] To increase data storage capacity 
 [[ ]] To improve system performance and speed
 
+{{3}}
 5. What is the recommended strategy for backup?
-
 [[ ]] At least two copies of a file on two different media, one of which is decentralized 
 [[ ]] At least three copies of a file on three different media, one of which is decentralized 
 [[x]] At least three copies of a file on two different media, one of which is decentralized 
 [[ ]] At least two copies of a file on three different media, one of which is decentralized 
 
+{{3}}
 6.	What is the difference between backup and archiving?
-
 [[ ]]Backup is the storage of selected data for long-term storage, while archiving is the automatic backup of all data. 
 [[ ]]Backup involves making multiple copies of data, while archiving involves storing final versions only. 
 [[ ]] Backup is the protection against data theft, while archiving is the prevention of data misuse. 
