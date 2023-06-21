@@ -515,61 +515,73 @@ __Checklist for FDM in simulation and software development:__
 
 
 ## <a name="Infrastructure"></a> Infrastructure
-
+--{{0}}--
 In this chapter, we will discuss how to handle your research data files both in handling and storage.
 
-
+{{0-1}}
 !?[NFDI 2023](https://www.youtube.com/watch?v=uJ01g9m8uE4 "Nationale Forschungsdaten Infrastruktur (NFDI)")
 
+{{0-1}}
 Source: Nationale Forschungsdaten Infrastruktur (NFDI) (2023): Available at: https://www.youtube.com/watch?v=uJ01g9m8uE4. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)
 
----
 
+{{1}}
 __Back-Up and Archiving__ 
 
+{{1-2}}
 Backup needs to be prepared by well-structured and named data. When naming files and folders, you should adhere to the following standards:
+- Give comprehensive names 
+- Use uniform schemes 
+- Develop logical structure 
+- Include Date in the following form: YYYYMMDD 
+- Avoid spaces and special characters 
 
-[[x]] Give comprehensive names 
-[[x]] Use uniform schemes 
-[[x]] Develop logical structure 
-[[x]] Include Date in the following form: YYYYMMDD 
-[[x]] Avoid spaces and special characters 
-
+{{1-2}}
 | DO   | DON'T   |
 | :--------- | :--------- |
 | 20230312_h2oSample1      | BDD extract_edited colored.jpg |
 | 20230315_location5_processed     | original.jpg|
 | 2018_weatherlogfiles     | table1_john(copy)  |
 
+--{{1}}--
 You should develop a back-up policy early on in your project, since later down the road it is very hard to re-structure established processes. 
 
+{{1-2}}
 A handy rule is the 3-2-1 rule: 
 
+{{1-2}}
 <a name="4"></a>![backup](img/Backupregel_CCBY4.jpg "3-2-1 Backupregel")
 
+{{1-2}}
 *Figure 8:* [I. Lang/Bearbeitung E. Böker](https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/): 3-2-1 Backupregel. Edited by A. Ahrens: Translation. Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
---{{2}}--
-The 3-2-1 rule strives states that you are to create at least three copies of your data, secure them on two different kinds of storage medium and make sure that one of those mediums is located off-site. This way, your data is protected from natural disaster, which will most likely only hit one location at a time, against accidental deletion and against deterioration of one kind of storage medium. For example, CDs have quite a long lifespan but CD drives as a reading device have become increasingly scarce.
+--{{1}}--
+The 3 2 1 rule states that you are to create at least three copies of your data, secure them on two different kinds of storage medium and make sure that one of those mediums is located off-site. This way, your data is protected from natural disaster, which will most likely only hit one location at a time, against accidental deletion and against deterioration of one kind of storage medium. For example, CDs have quite a long lifespan but CD drives as a reading device have become increasingly scarce.
 
+{{1-2}}
 > __Exercise__:
 >
 > Which backup solutions does your institution offer? If they do not meet your requirements, calculate additional costs in order to include them in your project proposal.
 
----
+{{2-3}}
+__Archiving__
 
+{{2-3}}
 Archiving refers to the process of creating backups of selected data and storing it for long-term retention. It involves preserving important information, such as __final__ versions of documents or records, in a secure and accessible manner. 
 
+{{2-3}}
 When archiving data, it is crucial to ensure its integrity. This means that the data remains unchanged and tamper-proof during the archival process and throughout its storage. Techniques such as checksums or digital signatures can be used to verify the integrity of archived data, providing assurance that it has not been altered or corrupted. An essential aspect of archiving is the ability to search and retrieve archived data efficiently. Implementing effective indexing, metadata tagging, and search capabilities enables users to locate and retrieve the required data without having to sift through vast amounts of archived content manually.
 
+{{2-3}}
 There are various commercial providers for back-up and archiving solutions. Consider the following questions before choosing one: 
+
 [[x]] Does it carry a seal for trustworthy long-term archives (e.g. CoreTrustSeal, nestor seal, DIN 31644)?
 [[x]] Does it fulfill your technical requirements?
 [[x]] Can you cover the expenses?
 [[x]] Is the data readily available to you?
 [[x]] Does the service provider guarantee long-term storage?
 
----
+{{3}}
 
 __It's Quiz Time__
 
