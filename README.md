@@ -242,7 +242,10 @@ Many public funding organizations require a DMP prior to granting funds for rese
 
 ## <a name="tools"></a> Tools
 
+{{0-1}}
 Tools can help you
+
+{{0-1}}
 -	to comply with data management requirements by providing guidance and templates for data management planning. They facilitate data sharing and preservation.
 
 -	to organize, analyze, and visualize your data in order to  make it easier to draw insights and conclusions from your research. Many research projects generate large and complex datasets that can be difficult to manage without the right tools.
@@ -253,6 +256,7 @@ Tools can help you
 
 -	to long-term preserve your data with backups, archives, and structured metadata.
 
+{{0-1}}
 __How?__ 
 The specific features and capabilities of research data management tools can vary widely depending on the tool and the intended use case.
 In general there are 6 steps:
@@ -263,28 +267,35 @@ In general there are 6 steps:
 5.	Collaborate and share your data
 6.	Preserve and archive your data
 
-
+{{0-1}}
 There is a wide range of tools for RDM, for example:
 
+{{0-1}}
 Tools for internal DM:
 -	https://www.coscine.de/
 -	https://www.indiscale.com/
 
+{{0-1}}
 Tools to share and register your research data:
 
+{{0-1}}
 - https://zenodo.org/
 - https://openenergy-platform.org/
 
+{{0-1}}
 Data Management Plan Tools:
 
+{{0-1}}
 -	[RDMO](https://rdmorganiser.github.io/en/)
 -	[DMPOnline](https://dmponline.dcc.ac.uk/)
 -	[DMPTooI](https://dmptool.org/)
 
+{{0-1}}
 You can also create a DMP in a simple Excel-Sheet.
 In the tools above, you can choose a set of questions that you want to have included in your DMP. If you want to take a look at an example DMP, you can look [here](https://cloud.uol.de/f/7510018536).
 We recommend to use RDMO or DMPOnline due tu their broad spectrum of available questionnaires.
 
+{{1-2}}
 > **DMP Task**:
 > 
 > Now it is time to start your DMP! Choose a **tool** and a set of **questions** that you want to work with and enter your basic project parameters:
@@ -293,12 +304,13 @@ We recommend to use RDMO or DMPOnline due tu their broad spectrum of available q
 >
 >Depending on your settings, you can add other details required by the respective questionnaire. 
 
+{{1-2}}
 Congratulations! You have started your first DMP!
 
----
+{{2}}
+**It`s Quiz Time!**
 
-__It`s Quiz Time!__
-
+{{2}}
 <iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen" title="Tools Quiz"></iframe><script src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Legal Aspects
@@ -330,6 +342,7 @@ __Step 1: Selecting License Features__
 First, you need to choose the specific conditions that you want to apply to your work.
 
 Here are the "building blocks" to consider:
+
 1.	__Attribution (BY):__ requires to give attribution to the creator.  
 
 2.	__ShareAlike (SA):__ If others use your work, they are required to share it under the same conditions that you specified.
@@ -349,6 +362,7 @@ You may also choose to give your work to the Public Domain and resign all rights
 __Step 2: Obtaining a License__
 
 When giving attribution to a Creative Commons-licensed work, it's important to follow certain guidelines. A useful mnemonic to remember is __TASL__, which represents the key elements to include:
+
 1.	Title: Include the name of the material if it has been provided. This helps to identify the specific work you are attributing.
 2.	Author: Clearly state the name of the person or entity that owns the material. This gives credit to the original creator of the work.
 3.	Source: Mention where you found the material. Provide the URL or hyperlink that directs others to the location where the work is hosted. This allows others to easily access the original source.
@@ -382,23 +396,23 @@ __It's Quiz Time!__
 1. What are some aspects of access security?
 
 [[x]] Privacy, integrity, availability, and controllability 
-[[]] Authentication, encryption, authorization, and auditing 
-[[]] Authentication, vulnerability assessment, encryption, and monitoring 
-[[]] Privacy, vulnerability assessment, authorization, and auditing
+[[ ]] Authentication, encryption, authorization, and auditing 
+[[ ]] Authentication, vulnerability assessment, encryption, and monitoring 
+[[ ]] Privacy, vulnerability assessment, authorization, and auditing
 
 2.	What is a recommended practice for password protection? 
 
-[[]] Use sequential characters on the keyboard for easy memorization 
-[[]] Use dictionary words to make passwords more secure
+[[ ]] Use sequential characters on the keyboard for easy memorization 
+[[ ]] Use dictionary words to make passwords more secure
 [[x]] Use strong passwords with at least eight characters, including upper and lower case letters, special characters, and numbers
-[[]] Avoid using special characters and numbers in passwords
+[[ ]] Avoid using special characters and numbers in passwords
 
 3.	What is the purpose of access rights and role assignment? 
 
 [[x]] To limit access to sensitive data to authorized individuals only 
-[[]] To increase data availability for all users 
-[[]] To delegate data backup responsibilities to multiple individuals 
-[[]] To restrict data access based on file formats
+[[ ]] To increase data availability for all users 
+[[ ]] To delegate data backup responsibilities to multiple individuals 
+[[ ]] To restrict data access based on file formats
 
 
 __Data Types__
@@ -450,7 +464,7 @@ Source: translated and adapted from [forschungsdaten.info](https://forschungsdat
 >
 > If you do not know your datasets yet, enter one or two "dummy" datasets and follow the respective questionnaire to get an idea of the amount of detail required in the DMP.
 
----
+
 
 __Software__
 
@@ -472,7 +486,6 @@ So, whether you plan to publish some, all or none of your self-developed softwar
 
   With journal publication of an article, corresponding software should be cited with version number and a persistent identifier such as a DOI. Choose a software archive with version control. Sometimes, timely open access is not possible. In this case, at least the algorithm used must be outlined completely. If the source code is not published, state the reason and potentially the time period until release.
 
----
 
 <a name="simulation"></a>  __Simulation__
 
@@ -489,6 +502,7 @@ models and their output makes it difficult to achieve the goals
 of open and FAIR data initiatives
 
 The following strategies may be applied when working with simulations: 
+
 - Analyze your project: does it focus on **knowledge** or **data production**? "Most scientific research projects are undertaken with the main goal of knowledge production (e.g., running an experiment with the goal of publishing research findings). Other projects are designed and undertaken with the specific goal of data production, that is, they produce data with the intention that those data will be used by others to support knowledge production research." [(Mullendore et. al. (2021))](https://doi.org/10.3389/fclim.2021.763420)
 -  Publish all elements relevant to the simulation, not just source code (see [Figure 3](#3)). 
 - Publish enough output data to evaluate and re-use your findings, but not all simulation runs
@@ -501,12 +515,12 @@ The following strategies may be applied when working with simulations:
 
 __Checklist for FDM in simulation and software development:__
 
-[[x]] Train yourself and your team in software development quality
-[[x]] State the purpose of each programme in a few words
-[[x]] Keep your software up to date with quality management
-[[x]] Keep the intention of every function clear (by naming or comments) 
-[[x]] Choose an appropriate license
-[[x]] Establish quality management in your simulation process
+- Train yourself and your team in software development quality
+- State the purpose of each programme in a few words
+- Keep your software up to date with quality management
+- Keep the intention of every function clear (by naming or comments) 
+- Choose an appropriate license
+- Establish quality management in your simulation process
 
 
 >**DMP Task**: 
@@ -565,7 +579,7 @@ The 3 2 1 rule states that you are to create at least three copies of your data,
 >
 > Which backup solutions does your institution offer? If they do not meet your requirements, calculate additional costs in order to include them in your project proposal.
 
-{{2-3}}
+{{2}}
 __Archiving__
 
 {{2-3}}
@@ -583,11 +597,12 @@ There are various commercial providers for back-up and archiving solutions. Cons
 - Is the data readily available to you?
 - Does the service provider guarantee long-term storage?
 
-{{3}}
+    {{3}}
 __It's Quiz Time__
 
 {{3}}
 1. What are some risks that can lead to data loss?
+
 {{3}}
 [[x]] Technical defects, catastrophes, theft, oblivion
 [[x]] Software updates, power outages, human error and viruses 
@@ -596,6 +611,8 @@ __It's Quiz Time__
 
 {{3}}
 2. Which of the following is NOT a atretegy for data protection?
+
+{{3}}
 [[ ]] Storage on university servers with automatic regular backup
 [[ ]] Backup of important files in a t least three copies on spatially separated storage media.
 [[ ]] Regularly backing up data and testing data recovery
@@ -603,6 +620,8 @@ __It's Quiz Time__
 
 {{3}}
 3.	What are some physical protection measures for data? 
+
+{{3}}
 [[ ]] FileVault, Bitlocker, dm-crypt
 [[ ]] Password protection, two-factor authentication, role assignment 
 [[x]] Lockable rooms, safes, data trustees 
@@ -610,6 +629,8 @@ __It's Quiz Time__
 
 {{3}}
 4.	Why is secure data handling important?
+
+{{3}}
 [[x]] To prevent accidental data deletion 
 [[x]] To protect against data theft and misuse 
 [[ ]] To increase data storage capacity 
@@ -617,6 +638,8 @@ __It's Quiz Time__
 
 {{3}}
 5. What is the recommended strategy for backup?
+
+{{3}}
 [[ ]] At least two copies of a file on two different media, one of which is decentralized 
 [[ ]] At least three copies of a file on three different media, one of which is decentralized 
 [[x]] At least three copies of a file on two different media, one of which is decentralized 
@@ -624,13 +647,15 @@ __It's Quiz Time__
 
 {{3}}
 6.	What is the difference between backup and archiving?
+
+{{3}}
 [[ ]]Backup is the storage of selected data for long-term storage, while archiving is the automatic backup of all data. 
 [[ ]]Backup involves making multiple copies of data, while archiving involves storing final versions only. 
 [[ ]] Backup is the protection against data theft, while archiving is the prevention of data misuse. 
 [[x]] Backup is the (semi)automatic backup of all data, while archiving is the backup of selected data for long-term storage.
 
 
-##<a name="meta"></a> Metadata
+## <a name="meta"></a> Metadata
 
 Well-structured metadata are of high value for re-users. Therefore, all four of the FAIR criteria stress their importance.
 
@@ -653,7 +678,6 @@ There are different types of metadata with varying functions:
 
 Bibliographic and administrative metadata can be standardized cross-disciplinary, while information on process details or content are often structured and described in a way highly specific to the respective field. Nevertheless, they are often crucial for findability and traceability of research data. Therefore, some disciplines have developed their own metadata standards.
 
----
 
 __Choosing the right standard__
 
@@ -739,7 +763,7 @@ Please visit https://openenergy-platform.org/ for detailed descriptions of the u
 
 By the way - did you find all clues and solve all puzzles? Then you can enter the resulting letters in the box below to see if you are a DMP-Champion!
 
-## <a name="sources"></a> Sources: 
+## <a name="sources"></a> Sources 
 
 * Maxi Kindling, Peter Schirmbacher, Elena Simukovic:
   Forschungsdatenmanagement an Hochschulen:
