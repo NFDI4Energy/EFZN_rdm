@@ -81,7 +81,7 @@ __The Research Data Lifecycle__
 
 ![Lifecycle](img/DataLifecycle.png "The Research Data Lifecycle")
 
-The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
+*Figure 1:* The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
 
 <!-- --{{1}}--
 The "Research Data Lifecycle" describes a cyclic process of data generation and management. First, data is created, then processed. The next step is analyzing data, followed by preserving the results. Now, it is time to give access to the data. Ideally, the cycle closes at this point: Data is being re-used and new, well-documented data is being created.
@@ -104,7 +104,7 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 
 ## Benefits of RDM
 
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=e7272cc1-7e1a-409b-aff4-feb578a988a8&amp;version=1.3" title="Prof. Dr.-Ing. Astrid Niesse on RDM" width="950" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=e7272cc1-7e1a-409b-aff4-feb578a988a8&amp;version=1.3" title="Prof. Dr.-Ing. Astrid Niesse on RDM" width="800" height="500" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 You…
 
@@ -125,7 +125,8 @@ In this chapter, we will prove to you that RDM is not as tricky as you think.
 __Benefits of RDM in your projects__
 
 ![Benefits](img/Benefits.png "Benefits of RDM")
-Figure 3: "Benefits of Research Data Management" by N. Seitz. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+*Figure 2:* "Benefits of Research Data Management" by N. Seitz. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 If done right, RDM will
 
@@ -134,9 +135,7 @@ __... Save time, resources, effort and money:__
 -	preserve time that is otherwise lost while searching for, recovering, and deciphering data
 
 -	make data reusable
-<!--
--	boost your reputation! Documenting data throughout its lifecycle generates higher-quality data that others can easily reuse and cite.
--->
+
 -	enable you to benefit from high quality datasets from other researchers
 
 __... Improve impact and speed up scientific progress:__
@@ -167,7 +166,7 @@ __... Show compliance with research obligations of your institution and funder:_
 
 -	simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
 
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=41f2f7c1-4c08-47ea-ad2c-ab63dd4e64e7&amp;version=1.12" title="Henrik Wagner on Research Data Management" width="950" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=41f2f7c1-4c08-47ea-ad2c-ab63dd4e64e7&amp;version=1.12" title="Henrik Wagner on Research Data Management" width="800" height="500" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 ## <a name="fair"></a> Open Science and RDM
 
@@ -200,7 +199,7 @@ The main idea behind the FAIR principles is:__As open as possible, as closed as 
 
 ![FAIR Guiding Principles](img/FAIR.png "Source: https://www.go-fair.org/fair-principles/")
 
-Figure 6: "Fair Guiding Principles" by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
+*Figure 3:* "Fair Guiding Principles" by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 <!-- --{{1}}--
 As open as possible, as closed as necessary. This is the main idea behind the FAIR principles. The acronym stands for: Findable, Accessible, Interoperable and Re-Usable.
@@ -228,7 +227,7 @@ The **Data Management Plan (DMP)** contains all information that describes and d
 
 >**Exercise**: Watch the following video and answer the questions.
 
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=fb5ac006-a355-41e5-bbaa-32a3ebd4e019&amp;version=1.3" title="Data Management Plan - Interactive Video" width="950" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=fb5ac006-a355-41e5-bbaa-32a3ebd4e019&amp;version=1.3" title="Data Management Plan - Interactive Video" width="800" height="500" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 Many public funding organizations require a DMP prior to granting funds for research projects, thus making DMPs an integral part of the scientific process, especially in data-intensive research fields such as the energy sector.
 
@@ -300,14 +299,14 @@ Congratulations! You have started your first DMP!
 
 __It`s Quiz Time!__
 
-<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="950" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="Tools Quiz"></iframe><script src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen" title="Tools Quiz"></iframe><script src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Legal Aspects
 Because research projects have very diverse legal requirements, consider the following areas and their relevance to your project.
 
 ![Legal Areas in RDM](img/LegalAspects.png "Relevant Legal Areas.  Source: Biernacka et al. 2020.")
 
-Figure 4: Relevant Legal Areas. Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
+*Figure 4:* Relevant Legal Areas. Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 > __Exercise:__
 >
@@ -331,19 +330,19 @@ __Step 1: Selecting License Features__
 First, you need to choose the specific conditions that you want to apply to your work.
 
 Here are the "building blocks" to consider:
-1.	Attribution (BY): requires to give attribution to the creator.  
+1.	__Attribution (BY):__ requires to give attribution to the creator.  
 
-2.	ShareAlike (SA): If others use your work, they are required to share it under the same conditions that you specified.
+2.	__ShareAlike (SA):__ If others use your work, they are required to share it under the same conditions that you specified.
 
-3.	NoDerivatives (ND): This license allows reusers to copy and distribute the material in unadapted form only.
+3.	__NoDerivatives (ND):__ This license allows reusers to copy and distribute the material in unadapted form only.
 
-4.	NonCommercial (NC): This feature allows the reuse of your work only for non-commercial purposes.
+4.	__NonCommercial (NC):__ This feature allows the reuse of your work only for non-commercial purposes.
 
 These features can now be combined to make the license of your choice:
 
 ![CC License Requirements](img/CCLicenseChart.png "Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
 
-Figure 5: Foter.com (2015): CC License Requirements. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
+*Figure 5:* Foter.com (2015): CC License Requirements. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 You may also choose to give your work to the Public Domain and resign all rights you have by assigning "CC0".
 
@@ -359,10 +358,10 @@ A final word on "openness": you might be tempted to protect as many of your righ
 
 ![Degrees of Freedom](img/Foter.com_infographic_CC.jpg "Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
 
-Figure 6: Foter.com (2015): Degrees of Freedom. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
+*Figure 6:* Foter.com (2015): Degrees of Freedom. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 
-<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="958" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="Licensing"></iframe><script src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="800" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="Licensing"></iframe><script src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 __Access Rights__
@@ -498,7 +497,7 @@ The following strategies may be applied when working with simulations:
 <a name="3"></a>
 ![simulation](img/simulation.png "Data and software elements to be preserved and shared by all projects.")
 
-__Figure 3__: [Mullendore et. al. (2021)](https://doi.org/10.3389/fclim.2021.763420): Data and software elements to be preserved and shared by all projects.
+*Figure 7:* [Mullendore et. al. (2021)](https://doi.org/10.3389/fclim.2021.763420): Data and software elements to be preserved and shared by all projects.
 
 __Checklist for FDM in simulation and software development:__
 
@@ -519,9 +518,10 @@ __Checklist for FDM in simulation and software development:__
 
 In this chapter, we will discuss how to handle your research data files both in handling and storage.
 
-[^NFDI]: Nationale Forschungsdaten Infrastruktur (NFDI) (2023): Available at: https://www.youtube.com/watch?v=uJ01g9m8uE4. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)^
 
-!?[NFDI 2023](https://www.youtube.com/watch?v=uJ01g9m8uE4 "Infrastructure [^NFDI]")
+!?[NFDI 2023](https://www.youtube.com/watch?v=uJ01g9m8uE4 "Nationale Forschungsdaten Infrastruktur (NFDI)")
+
+Source: Nationale Forschungsdaten Infrastruktur (NFDI) (2023): Available at: https://www.youtube.com/watch?v=uJ01g9m8uE4. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 ---
 
@@ -544,9 +544,10 @@ Backup needs to be prepared by well-structured and named data. When naming files
 You should develop a back-up policy early on in your project, since later down the road it is very hard to re-structure established processes. 
 
 A handy rule is the 3-2-1 rule: 
-<a name="4"></a>
-![backup](img/Backupregel_CCBY4.jpg "3-2-1 Backupregel")
-__Figure 4__: [I. Lang/Bearbeitung E. Böker](https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/): 3-2-1 Backupregel. Edited by A. Ahrens: Translation. Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+<a name="4"></a>![backup](img/Backupregel_CCBY4.jpg "3-2-1 Backupregel")
+
+*Figure 8:* [I. Lang/Bearbeitung E. Böker](https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/): 3-2-1 Backupregel. Edited by A. Ahrens: Translation. Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 --{{2}}--
 The 3-2-1 rule strives states that you are to create at least three copies of your data, secure them on two different kinds of storage medium and make sure that one of those mediums is located off-site. This way, your data is protected from natural disaster, which will most likely only hit one location at a time, against accidental deletion and against deterioration of one kind of storage medium. For example, CDs have quite a long lifespan but CD drives as a reading device have become increasingly scarce.
@@ -616,7 +617,7 @@ __It's Quiz Time__
 
 ---
 
-<a name="meta"></a> __Metadata__
+##<a name="meta"></a> Metadata
 
 Well-structured metadata are of high value for re-users. Therefore, all four of the FAIR criteria stress their importance.
 
@@ -747,7 +748,7 @@ By the way - did you find all clues and solve all puzzles? Then you can enter th
   https://ukdataservice.ac.uk/learning-hub/research-data-management/ 
 
 * https://forschungsdaten.info/praxis-kompakt/glossar/#c269829
- 
+
 * Mullendore GL, Mayernik MS and Schuster DC (2021): Open Science Expectations for Simulation-Based Research. Front. Clim. 3:763420. https://doi.org/10.3389/fclim.2021.763420
 
 
