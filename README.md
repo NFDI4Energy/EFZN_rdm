@@ -615,7 +615,6 @@ __It's Quiz Time__
 [[]] Backup is the protection against data theft, while archiving is the prevention of data misuse. 
 [[x]] Backup is the (semi)automatic backup of all data, while archiving is the backup of selected data for long-term storage.
 
----
 
 ##<a name="meta"></a> Metadata
 
