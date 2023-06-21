@@ -575,12 +575,13 @@ Archiving refers to the process of creating backups of selected data and storing
 When archiving data, it is crucial to ensure its integrity. This means that the data remains unchanged and tamper-proof during the archival process and throughout its storage. Techniques such as checksums or digital signatures can be used to verify the integrity of archived data, providing assurance that it has not been altered or corrupted. An essential aspect of archiving is the ability to search and retrieve archived data efficiently. Implementing effective indexing, metadata tagging, and search capabilities enables users to locate and retrieve the required data without having to sift through vast amounts of archived content manually.
 
 {{2-3}}
-There are various commercial providers for back-up and archiving solutions. Consider the following questions before choosing one: 
-[[x]] Does it carry a seal for trustworthy long-term archives (e.g. CoreTrustSeal, nestor seal, DIN 31644)?
-[[x]] Does it fulfill your technical requirements?
-[[x]] Can you cover the expenses?
-[[x]] Is the data readily available to you?
-[[x]] Does the service provider guarantee long-term storage?
+There are various commercial providers for back-up and archiving solutions. Consider the following questions before choosing one:
+{{2-3}}
+- Does it carry a seal for trustworthy long-term archives (e.g. CoreTrustSeal, nestor seal, DIN 31644)?
+- Does it fulfill your technical requirements?
+- Can you cover the expenses?
+- Is the data readily available to you?
+- Does the service provider guarantee long-term storage?
 
 {{3}}
 __It's Quiz Time__
