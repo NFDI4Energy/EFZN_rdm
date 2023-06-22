@@ -75,8 +75,6 @@ While maybe not as critical for society at large, scientists can face similar pr
 {{3}}
 RDM includes all activities associated with processing, storage, preserving and publication of research data.
 
----
-
 __The Research Data Lifecycle__
 
 ![Lifecycle](img/DataLifecycle.png "The Research Data Lifecycle")
@@ -102,7 +100,7 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 > - Does the cycle "close"? Which repositories or platforms do you use to store your results?
 
 
-## Benefits of RDM
+__Benefits of RDM__
 
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=e7272cc1-7e1a-409b-aff4-feb578a988a8&amp;version=1.3" title="Prof. Dr.-Ing. Astrid Niesse on RDM" width="800" height="500" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
@@ -119,8 +117,6 @@ You…
 -	have many stakeholders with competing interests in your project?
 
 In this chapter, we will prove to you that RDM is not as tricky as you think.
-
----
 
 __Benefits of RDM in your projects__
 
@@ -166,7 +162,7 @@ __... Show compliance with research obligations of your institution and funder:_
 
 -	simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
 
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=41f2f7c1-4c08-47ea-ad2c-ab63dd4e64e7&amp;version=1.12" title="Henrik Wagner on Research Data Management" width="800" height="500" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=41f2f7c1-4c08-47ea-ad2c-ab63dd4e64e7&amp;version=1.12" title="Henrik Wagner on Research Data Management" width="650" height="350" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 ## <a name="fair"></a> Open Science and RDM
 
@@ -187,7 +183,7 @@ Source: https://www.helmholtz.de/en/about-us/our-values/open-science/
 
 __Make it FAIR__
 
-The main idea behind the FAIR principles is:__As open as possible, as closed as necessary!__  The acronym stands for
+The main idea behind the FAIR principles is: __As open as possible, as closed as necessary!__  The acronym stands for
 
 - Findable
 - Accessible
@@ -225,7 +221,7 @@ In Detail, that means:
 
 The **Data Management Plan (DMP)** contains all information that describes and documents sufficiently the collection, processing, storage, archiving and publication of research data within a research project.  
 
->**Exercise**: Watch the following video and answer the questions.
+>**Exercise**: Watch the following video and answer the questions that pop up.
 
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=fb5ac006-a355-41e5-bbaa-32a3ebd4e019&amp;version=1.3" title="Data Management Plan - Interactive Video" width="800" height="500" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
@@ -540,7 +536,7 @@ Source: Nationale Forschungsdaten Infrastruktur (NFDI) (2023): Available at: htt
 
 
 {{1}}
-__Back-Up and Archiving__ 
+__Back-Up__ 
 
 {{1-2}}
 Backup needs to be prepared by well-structured and named data. When naming files and folders, you should adhere to the following standards:
@@ -720,7 +716,6 @@ Finally - whenever possible, use templates and automatization to facilitate your
 
 Source: [forschungsdaten.info](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-und-metadatenstandards/), translated by A.Ahrens, licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
----
 
 __Repositories__
 
