@@ -312,9 +312,7 @@ Congratulations! You have started your first DMP!
 ## Legal Aspects
 Because research projects have very diverse legal requirements, consider the following areas and their relevance to your project.
 
-![Legal Areas in RDM](img/LegalAspects.png "Relevant Legal Areas.  Source: Biernacka et al. 2020.")
-
-*Figure 4:* Relevant Legal Areas. Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
+![Legal Areas in RDM](img/LegalAspects.png "Relevant Legal Areas.  Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).")
 
 > __Exercise:__
 >
@@ -735,14 +733,17 @@ If you are free to choose a repository, you should use one that is common for yo
 If your license terms allow, you may upload your data on multiple platforms. Make sure to use PIDs and cross-reference to link the data to your published article. 
 
 __Open Energy Platform__
-For energy-related topics, we suggest the [Open Energy Platform](https://openenergy-platform.org/). This platform helps you to set up a thorough ontology, and provides tutorials in order to prevent confusion or mistakes.
+
+For energy-related topics, we suggest the [Open Energy Platform](https://openenergy-platform.org/). This platform helps you to apply structure or even a thorough ontology, and provides tutorials in order to prevent confusion or mistakes.
+
+Features of the Open Energy Platform
 
 - Upload via github 
 - Data Comparison with other projects
-- take part in developing a domain ontology for energy system sciences
+- Take part in developing a domain ontology for energy system sciences
 - Data Review Service 
 
-Please visit https://openenergy-platform.org/ for detailed descriptions of the upload process.
+Please visit https://openenergy-platform.org/ for a detailed description of the upload and review process.
 
 >**Exercise**: 
 >
@@ -784,4 +785,4 @@ By the way - did you find all clues and solve all puzzles? Then you can enter th
 * Mullendore GL, Mayernik MS and Schuster DC (2021): Open Science Expectations for Simulation-Based Research. Front. Clim. 3:763420. https://doi.org/10.3389/fclim.2021.763420
 
 
-[![CC BY 4.0][cc-by-image]][cc-by]  This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by]. 
+![CC BY 4.0][cc-by-image] This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by]. 
