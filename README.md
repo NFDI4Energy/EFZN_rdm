@@ -46,19 +46,14 @@ You can give feedback to this course on github: https://github.com/FlourBerry/EF
 
 ## What is Research Data Management?
 
-    {{0-1}}
 In early 2020, the COVID-19 disease, caused by the coronavirus SARS-CoV2, broke out globally, which led to the closure of many shops and businesses for quarantine reasons. The result, especially in the USA, was a large number of unemployed people who urgently needed money for their next rent payment, food or other expenses. As a consequence, the government decided to set up a relief package for anyone who registers as unemployed - but why didn't the money get to the people?
 
-    {{0-1}}
 The reason for this was the overload of critical systems on which COBOL is still running. COBOL is a programming language that was developed in the late 1950s to control commercial applications. From today's perspective, the programming language is very outdated and no longer taught in the training of programmers. That is why there was no personnel to take care of the systems when they collapsed. Unfortunately, many applications with the outdated programming language are still running in the business sector. 
 
-    {{0-1}}
 Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
 
-    {{1-2}}
 >__Exercise:__ Suggest two possible process changes that could have prevented the outcome of the scenario:
 
-    {{1-2}}
 <details>
 
 <summary> Solution (click to enlarge):</summary>
@@ -67,13 +62,10 @@ Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschung
 
 </details>
 
-    {{2-3}}
 While maybe not as critical for society at large, scientists can face similar problem when trying to access old data or programs that were written for other purposes but are know needed for the current tasks: Data are insufficiently labeled, have been overwritten, commercial computer programs have been discontinued or process details have not been recorded.
 
-    {{2}}
 **Research Data Management (RDM)**  aims to break this dynamic by ensuring a sustainable and coherent strategy for all data types throughout the research process, enabling researchers to store, access and re-use their own work effectively and safely and opening their findings worldwide to improve on cross-disciplinary collaboration, monitoring and replication.
 
-    {{2}}
 RDM includes all activities associated with processing, storage, preserving and publication of research data.
 
 ### The Research Data Lifecycle
@@ -623,7 +615,7 @@ The 3 2 1 rule states that you are to create at least three copies of your data,
 > Which backup solutions does your institution offer? If they do not meet your requirements, calculate additional costs in order to include them in your project proposal.
 
 
-### Archiving__
+### Archiving
 
     --{{0}}--
 Archiving refers to the process of creating backups of selected data and storing it for long-term retention. It involves preserving important information, such as __final__ versions of documents or records, in a secure and accessible manner. 
