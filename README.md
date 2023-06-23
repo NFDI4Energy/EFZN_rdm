@@ -6,7 +6,7 @@ Version:  1.0
 language: en
 license:  http://creativecommons.org/licenses/by/4.0/
 
-mode:     Presentation|Slides|Textbook
+mode:     Presentation
 
 narrator: US English Female
 
@@ -23,7 +23,7 @@ link:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
-# <a name="intro"></a>Research Data Management
+# Research Data Management
 
 ![Logo-Block](img/Logoblock.png)
 
@@ -34,6 +34,7 @@ The course focuses on applicability in the energy sector.
 <iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=19" width="660" height="1292" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe><script src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 There are three possible ways to work with this course: 
+
 1. Do you want to gain a thorough understanding of RDM? Follow the course outline described in the following graph. When you complete the course, you will have established a basic Data Management Plan for a project of your choice that you can build upon and adapt. 
 2. Are you looking for a challenge? Answer the questions at the end of each chapter to find the solution to our RDM-puzzle.
 3. Do you already have some knowledge of RDM? Great! Choose individual chapters that are of interest for your field of work by clicking on the plus-signs.
@@ -43,21 +44,21 @@ In the upper right corner, you can switch between textbook mode, presentation mo
 
 You can give feedback to this course on github: https://github.com/FlourBerry/EFZN_RDM/issues/2 
 
-## <a name="rdm"></a> What is Research Data Management?
+## What is Research Data Management?
 
-{{1}}
+    {{0-1}}
 In early 2020, the COVID-19 disease, caused by the coronavirus SARS-CoV2, broke out globally, which led to the closure of many shops and businesses for quarantine reasons. The result, especially in the USA, was a large number of unemployed people who urgently needed money for their next rent payment, food or other expenses. As a consequence, the government decided to set up a relief package for anyone who registers as unemployed - but why didn't the money get to the people?
 
-{{1}}
+    {{0-1}}
 The reason for this was the overload of critical systems on which COBOL is still running. COBOL is a programming language that was developed in the late 1950s to control commercial applications. From today's perspective, the programming language is very outdated and no longer taught in the training of programmers. That is why there was no personnel to take care of the systems when they collapsed. Unfortunately, many applications with the outdated programming language are still running in the business sector. 
 
-{{1}}
+    {{0-1}}
 Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
 
-{{2}}
+    {{1-2}}
 >__Exercise:__ Suggest two possible process changes that could have prevented the outcome of the scenario:
 
-{{2}}
+    {{1-2}}
 <details>
 
 <summary> Solution (click to enlarge):</summary>
@@ -66,46 +67,43 @@ Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschung
 
 </details>
 
-{{3}}
+    {{2-3}}
 While maybe not as critical for society at large, scientists can face similar problem when trying to access old data or programs that were written for other purposes but are know needed for the current tasks: Data are insufficiently labeled, have been overwritten, commercial computer programs have been discontinued or process details have not been recorded.
 
-{{3}}
+    {{2}}
 **Research Data Management (RDM)**  aims to break this dynamic by ensuring a sustainable and coherent strategy for all data types throughout the research process, enabling researchers to store, access and re-use their own work effectively and safely and opening their findings worldwide to improve on cross-disciplinary collaboration, monitoring and replication.
 
-{{3}}
+    {{2}}
 RDM includes all activities associated with processing, storage, preserving and publication of research data.
 
-__The Research Data Lifecycle__
+### The Research Data Lifecycle
 
-![Lifecycle](img/DataLifecycle.png "The Research Data Lifecycle")
+    {{0-1}}
+![Lifecycle](img/DataLifecycle.png "The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)")
 
-*Figure 1:* The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
-
-<!-- --{{1}}--
+    --{{0}}--
 The "Research Data Lifecycle" describes a cyclic process of data generation and management. First, data is created, then processed. The next step is analyzing data, followed by preserving the results. Now, it is time to give access to the data. Ideally, the cycle closes at this point: Data is being re-used and new, well-documented data is being created.
--->
 
 
-{{2}}
+    {{0-1}}
 >**Exercise**: 
 > Look at each step of the cycle with your data in mind: 
 >
 > - Which steps do you actively apply in your research process?
->
 > -  Which tools or software do you use at each step? 
->
->
 > - How well is the data protected against data loss? Where are possible flaws where data or information could get lost?
->
 > - Does the cycle "close"? Which repositories or platforms do you use to store your results?
 
 
-__Benefits of RDM__
+### Benefits of RDM
 
+    {{0-1}}
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=e7272cc1-7e1a-409b-aff4-feb578a988a8&amp;version=1.3" title="Prof. Dr.-Ing. Astrid Niesse on RDM" width="800" height="500" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
+    {{1-2}}
 You…
-
+    
+    {{1-2}}
 -	have a lack of extra time to devote to RDM?
 
 -	don´t have enough money for structured RDM?
@@ -116,60 +114,68 @@ You…
 
 -	have many stakeholders with competing interests in your project?
 
-In this chapter, we will prove to you that RDM is not as tricky as you think.
+    --{{1}}--
+In this chapter, we will prove to you that Research Data Management is not as tricky as you think.
 
+    {{2}}
 __Benefits of RDM in your projects__
 
-![Benefits](img/Benefits.png "Benefits of RDM")
+    {{2-3}}
+![Benefits](img/Benefits.png "Benefits of Research Data Management" by N. Seitz. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)")
 
-*Figure 2:* "Benefits of Research Data Management" by N. Seitz. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
+   {{2-3}}
+If done right, RDM will...
 
-If done right, RDM will
+    {{2-3}}
+__... save time, resources, effort and money:__
 
-__... Save time, resources, effort and money:__
-
+    {{2-3}}
 -	preserve time that is otherwise lost while searching for, recovering, and deciphering data
-
 -	make data reusable
-
 -	enable you to benefit from high quality datasets from other researchers
 
-__... Improve impact and speed up scientific progress:__
+    {{2-3}}
+__... improve impact and speed up scientific progress:__
 
+    {{2-3}}
 -	make research reproducible and reusable, so others can verify and build upon your findings. This strengthens __integrity__ and increases your citations.
-
 -	improve your research reputation and increase your __visibility__
-
 -	continually influence research developments long after the original research has been completed
-
 -	will permit new and innovative research to be built on existing information, especially within and across disciplines.
 
-__... Help to prevent error and enhance data security:__
+    {{2-3}}
+__... help to prevent error and enhance data security:__
 
+    {{2-3}}
 -	secure your data against loss and protect sensitive data against misuse, theft, damage and disaster.
-
 -	ensure records are synchronized, complete and reliable.
-
 -	improve research workflows to make them more resilient to human error and software vulnerability
 
-__... Show compliance with research obligations of your institution and funder:__
+    {{2-3}}
+__... show compliance with research obligations of your institution and funder:__
 
+    {{2-3}}
 -	fulfill grant requirements and comply with practices conducted in industry and commerce in order to demonstrate a high-quality research output.
-
 -	ensure transparency since individual contributions are documented on-the-fly throughout the complete research and archiving process.
-
 -	increase your chances of funding since many funding organizations require a DMP.
-
 -	simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
 
+    {{3-4}}
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=41f2f7c1-4c08-47ea-ad2c-ab63dd4e64e7&amp;version=1.12" title="Henrik Wagner on Research Data Management" width="650" height="350" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
-## <a name="fair"></a> Open Science and RDM
+   {{4}}
+__It's Quiz Time__
 
+
+## Open Science and RDM
+
+    {{0-1}}
 Open Science strives to to make scientific research and its dissemination **accessible to all levels of society**. It encompasses practices such as publishing open research, campaigning for open access, encouraging scientists to practice **open-notebook science** (such as openly sharing data and code), broader dissemination and engagement in science and generally making it easier to publish, access and communicate scientific knowledge. 
 
+    {{0-1}}
 Source: https://www.helmholtz.de/en/about-us/our-values/open-science/
 
+    {{0-1}}
 > **Research Question**:
 > 
 >Is there an Open Science or Research Data Policy at your institution?
@@ -180,35 +186,37 @@ Source: https://www.helmholtz.de/en/about-us/our-values/open-science/
 > Would you like to have a Research Data Policy?
 > What content should it have?
 
+### Make it FAIR
 
-__Make it FAIR__
-
+    {{0-1}}
 The main idea behind the FAIR principles is: __As open as possible, as closed as necessary!__  The acronym stands for
 
+    {{0-1}}
 - Findable
 - Accessible
 - Interoperable
-- Re-Usable
+- Reusable
 
-{{1}}
+    {{0-1}}
 > **Exercise**: Look closely at the graph to identify which measures especially apply to your area of work and data types you are using.
 
-![FAIR Guiding Principles](img/FAIR.png "Source: https://www.go-fair.org/fair-principles/")
+   {{0-1}}
+![FAIR Guiding Principles](img/FAIR.png "Fair Guiding Principles by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://www.go-fair.org/fair-principles/")
 
-*Figure 3:* "Fair Guiding Principles" by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
-
-<!-- --{{1}}--
+  <!-- --{{0}}--
 As open as possible, as closed as necessary. This is the main idea behind the FAIR principles. The acronym stands for: Findable, Accessible, Interoperable and Re-Usable.
 
 In Detail, that means:
 1. To make data findable, you should assign unique and persistent identifiers, that stay active. Also, provide extensive and useful metadata - for example, avoid acronyms. You should also use common repositories. You can find a list on Re3data.com. For the energy sector, we recommend the Open Energy Platform.
 2. Accessible data use stanrdized communications protocol such as HTTP or FTP. Make sure anyone with a computer and internet connection can access at least the metadata. Your data and metadata should be long-term accessible. For sensitive data, you may use authentification routines.
 3. In order to achieve interoperability, use a formal, accessible, shared and boradly applicable language. Also, use tools and software that are FAIR themselves. Cross-reference your data and metadata.
-4. Re-usable data is described by as much information as possible, such as process details. Clearly describe data usage licenses. Be transparent about data provenance and know and meet your own community's data standards.
+4. Reusable data is described by as much information as possible, such as process details. Clearly describe data usage licenses. Be transparent about data provenance and know and meet your own community's data standards.
 -->
 
-{{2}}
-> **Quiz**: What can you do to make your data FAIRer?    
+    {{1}}
+> **It's Quiz Time**: 
+>
+>What can you do to make your data FAIRer?    
 >
 > [[X]] use Creative-Commons or GNU Licenses
 > [[ ]] keep processing details undisclosed
@@ -217,16 +225,22 @@ In Detail, that means:
 > [[X]] ensure long-term accessibility in repositories
 
 
-## <a name="dmp"></a> Data Management Plan
+## Data Management Plan
 
+    {{0-1}}
 The **Data Management Plan (DMP)** contains all information that describes and documents sufficiently the collection, processing, storage, archiving and publication of research data within a research project.  
 
+    {{0-1}}
 >**Exercise**: Watch the following video and answer the questions that pop up.
 
+
+    {{0-1}}
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=fb5ac006-a355-41e5-bbaa-32a3ebd4e019&amp;version=1.3" title="Data Management Plan - Interactive Video" width="800" height="500" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
+    {{1-2}}
 Many public funding organizations require a DMP prior to granting funds for research projects, thus making DMPs an integral part of the scientific process, especially in data-intensive research fields such as the energy sector.
 
+    {{1-2}}
 | Funder | Plan demanded? | Content | Updates? |
 |:-------|:--------------------------|:--------|:---------------|
 |Horizon Europe| Data Management Plan|see [Horizon Europe Online Manual](https://op.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/9570017e-cd82-11eb-ac72-01aa75ed71a1)|Yes|
@@ -235,13 +249,12 @@ Many public funding organizations require a DMP prior to granting funds for rese
 |[German Ministry of Education and Research (BMBF)](https://www.bmbf.de/bmbf/de/forschung/digitale-wirtschaft-und-gesellschaft/aktionsplan-forschungsdaten/aktionsplan-forschungsdaten_node.html)   |Plan sometimes required|Content depends on the respective programme||
 |[German Ministry for Digital and Transport (BMDV)](https://bmdv.bund.de)|Research Data Exploitation Plan sometimes required |Content depends on the respective programme||
 
+## Tools
 
-## <a name="tools"></a> Tools
-
-{{0-1}}
+    {{0-1}}
 Tools can help you
 
-{{0-1}}
+    {{0-1}}
 -	to comply with data management requirements by providing guidance and templates for data management planning. They facilitate data sharing and preservation.
 
 -	to organize, analyze, and visualize your data in order to  make it easier to draw insights and conclusions from your research. Many research projects generate large and complex datasets that can be difficult to manage without the right tools.
@@ -252,10 +265,12 @@ Tools can help you
 
 -	to long-term preserve your data with backups, archives, and structured metadata.
 
-{{0-1}}
+    {{1-2}}
 __How?__ 
 The specific features and capabilities of research data management tools can vary widely depending on the tool and the intended use case.
 In general there are 6 steps:
+
+    {{1-2}}
 1.	Choose the right tool
 2.	Plan your data management strategy
 3.	Set up the tool
@@ -263,35 +278,35 @@ In general there are 6 steps:
 5.	Collaborate and share your data
 6.	Preserve and archive your data
 
-{{0-1}}
+    {{1-2}}
 There is a wide range of tools for RDM, for example:
 
-{{0-1}}
+    {{1-2}}
 Tools for internal DM:
 -	https://www.coscine.de/
 -	https://www.indiscale.com/
 
-{{0-1}}
+    {{1-2}}
 Tools to share and register your research data:
 
-{{0-1}}
+    {{1-2}}
 - https://zenodo.org/
 - https://openenergy-platform.org/
 
-{{0-1}}
+    {{1-2}}
 Data Management Plan Tools:
 
-{{0-1}}
+    {{1-2}}
 -	[RDMO](https://rdmorganiser.github.io/en/)
 -	[DMPOnline](https://dmponline.dcc.ac.uk/)
 -	[DMPTooI](https://dmptool.org/)
 
-{{0-1}}
+    {{1-2}}
 You can also create a DMP in a simple Excel-Sheet.
 In the tools above, you can choose a set of questions that you want to have included in your DMP. If you want to take a look at an example DMP, you can look [here](https://cloud.uol.de/f/7510018536).
 We recommend to use RDMO or DMPOnline due tu their broad spectrum of available questionnaires.
 
-{{1-2}}
+    {{2-3}}
 > **DMP Task**:
 > 
 > Now it is time to start your DMP! Choose a **tool** and a set of **questions** that you want to work with and enter your basic project parameters:
@@ -300,16 +315,17 @@ We recommend to use RDMO or DMPOnline due tu their broad spectrum of available q
 >
 >Depending on your settings, you can add other details required by the respective questionnaire. 
 
-{{1-2}}
+    {{2-3}}
 Congratulations! You have started your first DMP!
 
-{{2}}
+    {{3}}
 **It`s Quiz Time!**
 
-{{2}}
+    {{3}}
 <iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen" title="Tools Quiz"></iframe><script src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Legal Aspects
+
 Because research projects have very diverse legal requirements, consider the following areas and their relevance to your project.
 
 ![Legal Areas in RDM](img/LegalAspects.png "Relevant Legal Areas.  Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).")
@@ -318,25 +334,29 @@ Because research projects have very diverse legal requirements, consider the fol
 >
 > Which legal questions do you need to clarify with your funder or institution?
 
+### Licenses
 
-__Licenses__
-
+    {{0-1}}
 The internet has made it incredibly easy for people to share and collaborate. However, copyright laws can often pose obstacles to this process. Generally, others cannot use or remix your work without obtaining your permission first.
 But what if you want to encourage others to reuse your work? In such cases, you may consider publishing your work under a [Creative Commons](https://creativecommons.org/) or [GNU General Public license](https://www.gnu.org/licenses/). 
 
+
+    {{0-1}}
 Creative Commons licenses are a set of copyright licenses that allow creators to grant others permission to use their work. These licenses are designed to be easily understood and applied, providing a flexible framework for sharing and collaboration. By assigning a Creative Commons license, researchers can clearly communicate how others can use, distribute, modify, and build upon their work.
 
+    {{0-1}}
 For software, you may also use a [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), guaranteeing end users the four freedoms to run, study, share, and modify the software. For other options to license software, you can consult [this Wikipedia comparison](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses). 
 
+    {{0-1}}
 So "free" licenses provide you with the flexibility to choose which rights you wish to retain and allow you to clearly communicate to others how they can use your work. This way, you can strike a balance between protecting your rights as author and fostering a culture of sharing and collaboration on the internet.
 
-
+    {{1}}
 __Step 1: Selecting License Features__ 
 
-First, you need to choose the specific conditions that you want to apply to your work.
+    {{1-2}}
+First, you need to choose the specific conditions that you want to apply to your work. Here are the "building blocks" to consider:
 
-Here are the "building blocks" to consider:
-
+    {{1-2}}
 1.	__Attribution (BY):__ requires to give attribution to the creator.  
 
 2.	__ShareAlike (SA):__ If others use your work, they are required to share it under the same conditions that you specified.
@@ -345,104 +365,136 @@ Here are the "building blocks" to consider:
 
 4.	__NonCommercial (NC):__ This feature allows the reuse of your work only for non-commercial purposes.
 
+    {{1-2}}
 These features can now be combined to make the license of your choice:
 
-![CC License Requirements](img/CCLicenseChart.png "Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
+    {{1-2}}
+![CC License Requirements](img/CCLicenseChart.png "Foter.com (2015): CC License Requirements. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
 
-*Figure 5:* Foter.com (2015): CC License Requirements. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
-
+    {{1-2}}
 You may also choose to give your work to the Public Domain and resign all rights you have by assigning "CC0".
 
+    {{2}}
 __Step 2: Obtaining a License__
 
+    {{2-3}}
 When giving attribution to a Creative Commons-licensed work, it's important to follow certain guidelines. A useful mnemonic to remember is __TASL__, which represents the key elements to include:
 
+    {{2-3}}
 1.	Title: Include the name of the material if it has been provided. This helps to identify the specific work you are attributing.
 2.	Author: Clearly state the name of the person or entity that owns the material. This gives credit to the original creator of the work.
 3.	Source: Mention where you found the material. Provide the URL or hyperlink that directs others to the location where the work is hosted. This allows others to easily access the original source.
 4.	License: Specify the specific Creative Commons license that applies to the work. Simply saying "Creative Commons" is not sufficient. Name the CC license and provide a direct link to the license text. This informs others of the rights and permissions granted by the license.
 
+    {{2-3}}
 A final word on "openness": you might be tempted to protect as many of your rights as possible. Try to think the other way around, though: how open can you make your data? For example, a researcher from a commercial institution might be prohibited to use your data because of its NC-license or someone else might be forced to reproduce datasets because they are licensed under CC-BY-ND.
 
-![Degrees of Freedom](img/Foter.com_infographic_CC.jpg "Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
+    {{2-3}}
+![Degrees of Freedom](img/Foter.com_infographic_CC.jpg "Foter.com (2015): Degrees of Freedom. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
 
-*Figure 6:* Foter.com (2015): Degrees of Freedom. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
-
+__It's Quiz Time!__
 
 <iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="800" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="Licensing"></iframe><script src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-__Access Rights__
+### Access Rights
 
+    {{0-1}}
 If you want to limit access to the published data, this does not contradict the FAIR guidelines, but you should make the access scheme transparent (e.g. by using appropriate licenses) and give access to as much detail as possible. 
 
+
+    {{0-1}}
 Try to assign roles to all collaborators. Each role is associated with a set of access rights that are necessary to carry out the duties and tasks associated with that role. 
 The following principles are typically followed:
 
+    {{0-1}}
 1.	__Principle of least privilege:__ Individuals should be granted the minimum access rights necessary to perform their job functions effectively. Assigning excessive privileges increases the risk of unauthorized access or misuse of data. 
 
 2.	__Role-based access control (RBAC):__ Assign roles to individuals and associating access rights with those roles. This simplifies the management of access rights as permissions are granted to roles rather than to individual users. Role assignment is based on the individual's job responsibilities, ensuring that access rights are aligned with their needs.
 
 3.	__Regular review and updates:__ Access rights and role assignments should be periodically reviewed and updated to reflect changes in job roles, responsibilities, or organizational structure. 
 
-
+    {{1}}
 __It's Quiz Time!__
+
+    {{1}}
 1. What are some aspects of access security?
 
+     {{1}}
 [[x]] Privacy, integrity, availability, and controllability 
 [[ ]] Authentication, encryption, authorization, and auditing 
 [[ ]] Authentication, vulnerability assessment, encryption, and monitoring 
 [[ ]] Privacy, vulnerability assessment, authorization, and auditing
 
+    {{1}}
 2.	What is a recommended practice for password protection? 
 
+    {{1}}
 [[ ]] Use sequential characters on the keyboard for easy memorization 
 [[ ]] Use dictionary words to make passwords more secure
 [[x]] Use strong passwords with at least eight characters, including upper and lower case letters, special characters, and numbers
 [[ ]] Avoid using special characters and numbers in passwords
 
+    {{1}}
 3.	What is the purpose of access rights and role assignment? 
 
+    {{1}}
 [[x]] To limit access to sensitive data to authorized individuals only 
 [[ ]] To increase data availability for all users 
 [[ ]] To delegate data backup responsibilities to multiple individuals 
 [[ ]] To restrict data access based on file formats
 
 
-__Data Types__
+## Infrastructure
 
+In this chapter, we will discuss how to handle your research data files both in handling and storage.
+
+!?[NFDI 2023](https://www.youtube.com/watch?v=uJ01g9m8uE4 "Nationale Forschungsdaten Infrastruktur (NFDI)")
+
+Source: Nationale Forschungsdaten Infrastruktur (NFDI) (2023): Available at: https://www.youtube.com/watch?v=uJ01g9m8uE4. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+
+### Data Types
+
+    --{{0}}--
 Depending on your field of expertise, there will be different data types relevant to your work. In your DMP, you can specify individual datasets and name their identifiers, file size, origin and so forth.
 
-Simulations and software programmes are a special case. Here, not only the resulting datasets are of scientific value but also the programmes, algorithms and settings leading up to the data.
+    {{0-1}}
+The data types you choose to publish have consequences for your Research Data Management in regard to the "Accessible", "Interoperable" and "Reusable" Criteria of the FAIR Guidelines.
 
-The data types you choose to publish have consequences for your Research Data Management in regard to the "Accessible", "Interoperable" and "Re-Usable" Criteria of the FAIR Guidelines.
-
-
+    {{0-1}}
 **1. Accessible**  
-
+    
+    {{0-1}}
 --> Make sure that (meta)data are long-term accessible
 
-The amount of memory space needed for long-term, save storage may vary greatly between data types. For example, if your reasearch data consist  of high-resolution images of potential wind turbine sites, memory space needed for backup and repositories will be much higher than a handful .csv files with projected power loads.
+    --{{0}}--
+The amount of memory space needed for long-term, save storage may vary greatly between data types. For example, if your reasearch data consist  of high-resolution images of potential wind turbine sites, memory space needed for backup and repositories will be much higher than a handful of CSV files with projected power loads.
 
-
+    {{1}}
 **2. Interoperable**
 
+    {{1}}
 --> Use tools and software that are FAIR themselves
 
-Try to remember the idea of "as open as possible, as closed as necessary.": Strive to choose, where possible, programs and data types that are open and FAIR. For example, do not describe your processing details in a .pdf file, but rather use a .txt-file that can be read and edited with various programs.
+    --{{1}}--
+Strive to choose, where possible, programs and data types that are open and FAIR. For example, do not describe your processing details in a .pdf file, but rather use a .txt-file that can be read and edited with various programs.
 
+    {{2}}
+**3. Reusable**
 
-**3. Re-Usable**
-
+    {{2}}
 --> know and meet community standards
 
-As the expert in your own field, you are the one to decide here: which data types are most likely to be found, easily re-used and shared in your scientific community? If these are "closed", you could provide two files: one that adheres to the common standards and a more open alternative that promotes the idea of open science. 
+    --{{2}}--
+Which data types are most likely to be found, easily reused and shared in your scientific community? If these are "closed", you could provide two files: one that adheres to the common standards and a more open alternative that promotes the idea of open science. 
 
+    {{3-4}}
 > **Exercise:**
 > 
 > Make a list of the data types commonly used in your working group and their "FAIR value". Use the criteria in the table below.
 
-
+    {{3-4}}
 | FAIR value|	Machine Readability	| Human Readability	| Long-time Stability|	Metadata   | Example|
 | :--------- | :---------| :--------- | :--------- | :---------|:-----------|
 |very good |with common open software	|yes and without special software	|normed standard	|completely preserved |  .csv|
@@ -450,8 +502,10 @@ As the expert in your own field, you are the one to decide here: which data type
 |moderate	| proprietary standard format   | with open software (reliably?) convertible to higher class| 	relatively new format	| some important ones (e.g. units) are included | MATLAB file|
 |bad	| self-developed reading software| no|	newly developed	| no information    | |
 
+    {{3-4}}
 Source: translated and adapted from [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/), [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
+    {{4}}
 >**DMP Task**: 
 >
 > If you already know datasets that you will be (re-)using or producing, enter them in your DMP as thoroughly as you can at this point. 
@@ -459,17 +513,20 @@ Source: translated and adapted from [forschungsdaten.info](https://forschungsdat
 > If you do not know your datasets yet, enter one or two "dummy" datasets and follow the respective questionnaire to get an idea of the amount of detail required in the DMP.
 
 
+### Software and Simulatio 
 
-__Software__
+    {{0-1}}
+Simulations and software programmes are a special case. Here, not only the resulting datasets are of scientific value but also the programmes, algorithms and settings leading up to the data.Research programmes and simulation software are essential in energy research. Some researchers are very reluctant in sharing this part of their research work, sometimes because of economic considerations. 
 
-Research programmes and simulation software are essential in energy research. Some researchers are very reluctant in sharing this part of their research work, sometimes because of economic considerations. 
-
+    {{0-1}}
 The German Research Alliance (DFG) adresses software development in a research context in its [Guidelines for Safeguarding Good Research Practice](https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/index.html), stating that "software programmed by researchers is made publicly available along with the source code". The source code must be persistent, citable and documented. Certain individual exceptions are possible, though.
 
+   {{0-1}}
 So, whether you plan to publish some, all or none of your self-developed software, you have to document well, plan ahead and ensure a good access strategy in your development team.
 
+    {{0-1}}
 - Versioning
-  
+    
   Various cloud programming platforms such as [GitLab](https://about.gitlab.com/de-de/) ensure a consistent preservation of all of your software versions, make contributions transparent and simplify collaboration.
 
 - Documentation
@@ -480,12 +537,16 @@ So, whether you plan to publish some, all or none of your self-developed softwar
 
   With journal publication of an article, corresponding software should be cited with version number and a persistent identifier such as a DOI. Choose a software archive with version control. Sometimes, timely open access is not possible. In this case, at least the algorithm used must be outlined completely. If the source code is not published, state the reason and potentially the time period until release.
 
+    {{1}}
+ __Simulation__
 
-<a name="simulation"></a>  __Simulation__
-
+    --{{1}}--
 With regard to simulation, we are presented with some additional challenges. 
 
+    {{1-2}}
 The longevity of simulation outputs is harder to assess than of observational data. In a 2021 paper on Open Science in Earth System Modelling, [Mullendore et. al. (2021)](https://doi.org/10.3389/fclim.2021.763420) indentify the following problems:
+
+    {{1-2}}
 - Simulations can generate massive output 
 - Interdependencies between hardware and software can limit the portability of models and make the longterm accessibility of their output problematic. Models in many cases involve
 interconnections between community models, open source
@@ -495,20 +556,24 @@ particular scientific questions.
 models and their output makes it difficult to achieve the goals
 of open and FAIR data initiatives
 
+    {{1-2}}
 The following strategies may be applied when working with simulations: 
 
+    {{1-2}}
 - Analyze your project: does it focus on **knowledge** or **data production**? "Most scientific research projects are undertaken with the main goal of knowledge production (e.g., running an experiment with the goal of publishing research findings). Other projects are designed and undertaken with the specific goal of data production, that is, they produce data with the intention that those data will be used by others to support knowledge production research." [(Mullendore et. al. (2021))](https://doi.org/10.3389/fclim.2021.763420)
--  Publish all elements relevant to the simulation, not just source code (see [Figure 3](#3)). 
-- Publish enough output data to evaluate and re-use your findings, but not all simulation runs
+
+    {{1-2}}
+-  Publish all elements relevant to the simulation, not just source code. 
+- Publish enough output data to evaluate and reuse your findings, but not all simulation runs
 - Some software may be released openly while others remain restricted due to security or proprietary concerns. In this case, the documentation should provide enough information to reproduce the process.
+    
+    {{1-2}}
+![simulation](img/simulation.png "Mullendore et. al. (2021): Data and software elements to be preserved and shared by all projects.")
 
-<a name="3"></a>
-![simulation](img/simulation.png "Data and software elements to be preserved and shared by all projects.")
-
-*Figure 7:* [Mullendore et. al. (2021)](https://doi.org/10.3389/fclim.2021.763420): Data and software elements to be preserved and shared by all projects.
-
+    {{2-3}}
 __Checklist for FDM in simulation and software development:__
 
+    {{2-3}}
 - Train yourself and your team in software development quality
 - State the purpose of each programme in a few words
 - Keep your software up to date with quality management
@@ -516,140 +581,125 @@ __Checklist for FDM in simulation and software development:__
 - Choose an appropriate license
 - Establish quality management in your simulation process
 
-
+    {{3}}
 >**DMP Task**: 
 >
 > If you have self-developed programmes in your project, enter them as a separate dataset in your DMP, name all contributors and the purpose of each programme.
 
+### Back-Up
 
-## <a name="Infrastructure"></a> Infrastructure
---{{0}}--
-In this chapter, we will discuss how to handle your research data files both in handling and storage.
-
-{{0-1}}
-!?[NFDI 2023](https://www.youtube.com/watch?v=uJ01g9m8uE4 "Nationale Forschungsdaten Infrastruktur (NFDI)")
-
-{{0-1}}
-Source: Nationale Forschungsdaten Infrastruktur (NFDI) (2023): Available at: https://www.youtube.com/watch?v=uJ01g9m8uE4. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)
-
-
-{{1}}
-__Back-Up__ 
-
-{{1-2}}
+    {{0-1}}
 Backup needs to be prepared by well-structured and named data. When naming files and folders, you should adhere to the following standards:
 
-{{1-2}}
+    {{0-1}}
 - Give comprehensive names 
 - Use uniform schemes 
 - Develop logical structure 
 - Include Date in the following form: YYYYMMDD 
 - Avoid spaces and special characters 
 
-{{1-2}}
+    {{0-1}}
 | DO   | DON'T   |
 | :--------- | :--------- |
 | 20230312_h2oSample1      | BDD extract_edited colored.jpg |
 | 20230315_location5_processed     | original.jpg|
 | 2018_weatherlogfiles     | table1_john(copy)  |
 
---{{1}}--
+    --{{0}}--
 You should develop a back-up policy early on in your project, since later down the road it is very hard to re-structure established processes. 
 
-{{1-2}}
+    {{1-2}}
 A handy rule is the 3-2-1 rule: 
 
-{{1-2}}
-<a name="4"></a>![backup](img/Backupregel_CCBY4.jpg "3-2-1 Backupregel")
+    {{1-2}}
+<a name="4"></a>![backup](img/Backupregel_CCBY4.jpg "I. Lang/Bearbeitung E. Böker: 3-2-1 Backupregel. Edited by A. Ahrens: Translation. Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). Source: https://forschungsdaten.info/")
 
-{{1-2}}
-*Figure 8:* [I. Lang/Bearbeitung E. Böker](https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/): 3-2-1 Backupregel. Edited by A. Ahrens: Translation. Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
-
---{{1}}--
+    --{{1}}--
 The 3 2 1 rule states that you are to create at least three copies of your data, secure them on two different kinds of storage medium and make sure that one of those mediums is located off-site. This way, your data is protected from natural disaster, which will most likely only hit one location at a time, against accidental deletion and against deterioration of one kind of storage medium. For example, CDs have quite a long lifespan but CD drives as a reading device have become increasingly scarce.
 
-{{1-2}}
+    {{1-2}}
 > __Exercise__:
 >
 > Which backup solutions does your institution offer? If they do not meet your requirements, calculate additional costs in order to include them in your project proposal.
 
-{{2}}
-__Archiving__
 
-{{2-3}}
+### Archiving__
+
+    --{{0}}--
 Archiving refers to the process of creating backups of selected data and storing it for long-term retention. It involves preserving important information, such as __final__ versions of documents or records, in a secure and accessible manner. 
 
-{{2-3}}
+    {{0-1}}
 When archiving data, it is crucial to ensure its integrity. This means that the data remains unchanged and tamper-proof during the archival process and throughout its storage. Techniques such as checksums or digital signatures can be used to verify the integrity of archived data, providing assurance that it has not been altered or corrupted. An essential aspect of archiving is the ability to search and retrieve archived data efficiently. Implementing effective indexing, metadata tagging, and search capabilities enables users to locate and retrieve the required data without having to sift through vast amounts of archived content manually.
 
-{{2-3}}
+    {{0-1}}
 There are various commercial providers for back-up and archiving solutions. Consider the following questions before choosing one:
-{{2-3}}
+
+    {{0-1}}
 - Does it carry a seal for trustworthy long-term archives (e.g. CoreTrustSeal, nestor seal, DIN 31644)?
 - Does it fulfill your technical requirements?
 - Can you cover the expenses?
 - Is the data readily available to you?
 - Does the service provider guarantee long-term storage?
 
-    {{3}}
+    {{1}}
 __It's Quiz Time__
 
-{{3}}
+    {{1}}
 1. What are some risks that can lead to data loss?
 
-{{3}}
+    {{1}}
 [[x]] Technical defects, catastrophes, theft, oblivion
 [[x]] Software updates, power outages, human error and viruses 
 [[x]] Natural disasters, software malfunctions, hardware upgrades
 [[x]] Data corruption, cyber attacks, accidental deletion, system crashes
 
-{{3}}
+    {{1}}
 2. Which of the following is NOT a atretegy for data protection?
 
-{{3}}
+    {{1}}
 [[ ]] Storage on university servers with automatic regular backup
 [[ ]] Backup of important files in a t least three copies on spatially separated storage media.
 [[ ]] Regularly backing up data and testing data recovery
 [[x]] deleting unnecessary files to save storage space
 
-{{3}}
+    {{1}}
 3.	What are some physical protection measures for data? 
 
-{{3}}
+    {{1}}
 [[ ]] FileVault, Bitlocker, dm-crypt
 [[ ]] Password protection, two-factor authentication, role assignment 
 [[x]] Lockable rooms, safes, data trustees 
 [[ ]] Regular data backups, firewall protection, antivirus software
 
-{{3}}
+    {{1}}
 4.	Why is secure data handling important?
 
-{{3}}
+    {{1}}
 [[x]] To prevent accidental data deletion 
 [[x]] To protect against data theft and misuse 
 [[ ]] To increase data storage capacity 
 [[ ]] To improve system performance and speed
 
-{{3}}
+    {{1}}
 5. What is the recommended strategy for backup?
 
-{{3}}
+    {{1}}
 [[ ]] At least two copies of a file on two different media, one of which is decentralized 
 [[ ]] At least three copies of a file on three different media, one of which is decentralized 
 [[x]] At least three copies of a file on two different media, one of which is decentralized 
 [[ ]] At least two copies of a file on three different media, one of which is decentralized 
 
-{{3}}
+    {{1}}
 6.	What is the difference between backup and archiving?
 
-{{3}}
+    {{1}}
 [[ ]]Backup is the storage of selected data for long-term storage, while archiving is the automatic backup of all data. 
 [[ ]]Backup involves making multiple copies of data, while archiving involves storing final versions only. 
 [[ ]] Backup is the protection against data theft, while archiving is the prevention of data misuse. 
 [[x]] Backup is the (semi)automatic backup of all data, while archiving is the backup of selected data for long-term storage.
 
 
-## <a name="meta"></a> Metadata
+## Metadata
 
 Well-structured metadata are of high value for re-users. Therefore, all four of the FAIR criteria stress their importance.
 
@@ -671,7 +721,6 @@ There are different types of metadata with varying functions:
 | [[descriptive]] metadata    | additional information on content, scope and data genesis    | close information gaps     |
 
 Bibliographic and administrative metadata can be standardized cross-disciplinary, while information on process details or content are often structured and described in a way highly specific to the respective field. Nevertheless, they are often crucial for findability and traceability of research data. Therefore, some disciplines have developed their own metadata standards.
-
 
 __Choosing the right standard__
 
@@ -715,7 +764,7 @@ Finally - whenever possible, use templates and automatization to facilitate your
 Source: [forschungsdaten.info](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-und-metadatenstandards/), translated by A.Ahrens, licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 
-__Repositories__
+### Repositories
 
 As a last step, you need to decide which data should be permanently archived. As we discussed in [Section "Simulation"](#simulation), you should carefully decide which data to archive in a repository and which to discard. 
 The following questions can lead you in the decision process:
@@ -749,9 +798,7 @@ Please visit https://openenergy-platform.org/ for a detailed description of the 
 >
 > Choose a repository for your data and create an account.
 
----
-
-<a name="congrats"></a> __Congratulations__
+ __Congratulations__
 
 >**DMP Task**: 
 >
@@ -759,7 +806,7 @@ Please visit https://openenergy-platform.org/ for a detailed description of the 
 
 By the way - did you find all clues and solve all puzzles? Then you can enter the resulting letters in the box below to see if you are a DMP-Champion!
 
-## <a name="sources"></a> Sources 
+## Sources 
 
 * Maxi Kindling, Peter Schirmbacher, Elena Simukovic:
   Forschungsdatenmanagement an Hochschulen:
