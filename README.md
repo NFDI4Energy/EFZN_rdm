@@ -357,6 +357,7 @@ First, you need to choose the specific conditions that you want to apply to your
 
 4.	__NonCommercial (NC):__ This feature allows the reuse of your work only for non-commercial purposes.
 
+
     {{1-2}}
 These features can now be combined to make the license of your choice:
 
@@ -384,8 +385,10 @@ A final word on "openness": you might be tempted to protect as many of your righ
     {{2-3}}
 ![Degrees of Freedom](img/Foter.com_infographic_CC.jpg "Foter.com (2015): Degrees of Freedom. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
 
+    {{3}}
 __It's Quiz Time!__
 
+    {3}
 <iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="800" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="Licensing"></iframe><script src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
