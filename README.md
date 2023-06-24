@@ -598,7 +598,7 @@ The following strategies may be applied when working with simulations:
 - Some software may be released openly while others remain restricted due to security or proprietary concerns. In this case, the documentation should provide enough information to reproduce the process.
     
     {{1-2}}
-    
+
 ![simulation](img/simulation.png "Mullendore et. al. (2021): Data and software elements to be preserved and shared by all projects.")
 
     {{2-3}}
@@ -737,55 +737,55 @@ __It's Quiz Time__
 1. What are some risks that can lead to data loss?
 
     {{1}}
-[[x]] Technical defects, catastrophes, theft, oblivion
-[[x]] Software updates, power outages, human error and viruses 
-[[x]] Natural disasters, software malfunctions, hardware upgrades
-[[x]] Data corruption, cyber attacks, accidental deletion, system crashes
+[[x]] Technical defects, catastrophes, theft, oblivion (A)
+[[x]] Software updates, power outages, human error and viruses (G)
+[[x]] Natural disasters, software malfunctions, hardware upgrades (E)
+[[x]] Data corruption, cyber attacks, accidental deletion, system crashes (M)
 
     {{1}}
 2. Which of the following is NOT a atretegy for data protection?
 
     {{1}}
-[[ ]] Storage on university servers with automatic regular backup
-[[ ]] Backup of important files in a t least three copies on spatially separated storage media.
-[[ ]] Regularly backing up data and testing data recovery
-[[x]] deleting unnecessary files to save storage space
+[[ ]] Storage on university servers with automatic regular backup. (B)
+[[ ]] Backup of important files in at least three copies on spatially separated storage media. (D)
+[[ ]] Regularly backing up data and testing data recovery (K)
+[[x]] deleting unnecessary files to save storage space (E)
 
     {{1}}
 3.	What are some physical protection measures for data? 
 
     {{1}}
-[[ ]] FileVault, Bitlocker, dm-crypt
-[[ ]] Password protection, two-factor authentication, role assignment 
-[[x]] Lockable rooms, safes, data trustees 
-[[ ]] Regular data backups, firewall protection, antivirus software
+[[ ]] FileVault, Bitlocker, dm-crypt (T)
+[[ ]] Password protection, two-factor authentication, role assignment (I)
+[[x]] Lockable rooms, safes, data trustees (N)
+[[ ]] Regular data backups, firewall protection, antivirus software (U)
 
     {{1}}
 4.	Why is secure data handling important?
 
     {{1}}
-[[x]] To prevent accidental data deletion 
-[[x]] To protect against data theft and misuse 
-[[ ]] To increase data storage capacity 
-[[ ]] To improve system performance and speed
+[[x]] To prevent accidental data deletion (T)
+[[x]] To protect against data theft and misuse (P)
+[[ ]] To increase data storage capacity (W)
+[[ ]] To improve system performance and speed (A)
 
     {{1}}
 5. What is the recommended strategy for backup?
 
     {{1}}
-[[ ]] At least two copies of a file on two different media, one of which is decentralized 
-[[ ]] At least three copies of a file on three different media, one of which is decentralized 
-[[x]] At least three copies of a file on two different media, one of which is decentralized 
-[[ ]] At least two copies of a file on three different media, one of which is decentralized 
+[[ ]] At least two copies of a file on two different media, one of which is decentralized (W)
+[[ ]] At least three copies of a file on three different media, one of which is decentralized (C)
+[[x]] At least three copies of a file on two different media, one of which is decentralized (L) 
+[[ ]] At least two copies of a file on three different media, one of which is decentralized (M) 
 
     {{1}}
 6.	What is the difference between backup and archiving?
 
     {{1}}
-[[ ]]Backup is the storage of selected data for long-term storage, while archiving is the automatic backup of all data. 
-[[ ]]Backup involves making multiple copies of data, while archiving involves storing final versions only. 
-[[ ]] Backup is the protection against data theft, while archiving is the prevention of data misuse. 
-[[x]] Backup is the (semi)automatic backup of all data, while archiving is the backup of selected data for long-term storage.
+[[ ]]Backup is the storage of selected data for long-term storage, while archiving is the automatic backup of all data. (S)
+[[ ]]Backup involves making multiple copies of data, while archiving involves storing final versions only. (R)
+[[ ]] Backup is the protection against data theft, while archiving is the prevention of data misuse. (U)
+[[x]] Backup is the (semi)automatic backup of all data, while archiving is the backup of selected data for long-term storage. (A)
 
 
 ## Metadata
@@ -870,7 +870,7 @@ The following questions can lead you in the decision process:
      {{0-1}}
 - Are the data the foundation of an article?
 - Can the data be reproduced with reasonable effort?
-- Is a re-use likely?
+- Is reuse likely?
 - How high is the data quality?
 - Is the dataset unique?
 - How much storage volume is needed? 
@@ -883,7 +883,6 @@ If you are free to choose a repository, you should use one that is common for yo
 
     --{{0}}--
 If your license terms allow, you may upload your data on multiple platforms. Make sure to use PIDs and cross-reference to link the data to your published article. 
-
 
     {{1}}
 __Open Energy Platform__
@@ -909,22 +908,70 @@ Please visit https://openenergy-platform.org/ for a detailed description of the 
 > Choose a repository for your data and create an account.
 
     {{2-3}}
+__It`s Quiz Time!__
+
+    {{2-3}}
+1. What factors should you consider when deciding which data to permanently archive?
+
+    {{2-3}}
+[[ ]] The data's foundation in an article and its reproducibility. (Y)
+[[ ]] The data's uniqueness and storage volume needed. (H)
+[[ ]] The data's potential for reuse and its quality. (W)
+[[x]] All of the above. (N)
+
+    {{2-3}}
+2. How can you determine which repository to choose for archiving your data?
+
+    {{2-3}}
+[[ ]] By following the regulations set by your institution or funding agency. (E)
+[[ ]] By selecting a repository that is common in your field or discipline. (T)
+[[ ]] By using the Registry of Research Data Repositories (r3data) for guidance. (U)
+[[x]] All of the above. (N)
+
+    {{2-3}}
+3. What is the benefit of using PIDs and cross-referencing when uploading data to multiple platforms?
+
+    {{2-3}}
+[[ ]] It ensures the data is securely stored in multiple locations. (V)
+[[ ]] It allows for easy access and retrieval of the data. (I)
+[[x]] It helps to link the data to your published article. (E)
+[[ ]] It prevents unauthorized access to the data. (L)
+
+    {{2-3}}
+4. What is one of the features of the Open Energy Platform?
+
+    {{2-3}}
+[[ ]] Data upload via GitHub. (O)
+[[ ]] Data comparison with other projects. (F)
+[[ ]] Development of a domain ontology for energy system sciences. (A)
+[[x]] All of the above. (R)
+
+    {{2-3}}
+5. What service does the Open Energy Platform provide to prevent confusion or mistakes?
+
+    {{2-3}}
+[[x]] Data Review Service (S)
+[[ ]] Data Validation Service (U)
+[[ ]] Data Cleaning Service (K)
+[[ ]] Data Archiving Service (N)
+
+    {{3-4}}
 >**DMP Task**: 
 >
 > Look through your DMP to find open questions that you have not covered so far and fill any gaps you can find.
 
-    {{3}}
+    {{4}}
 __Congratulations!__
 
-    --{{3}}--
+    --{{4}}--
 Congratulations! You have successfully finished the course and set up your first DMP-prototype! By the way - did you find all clues and solve all puzzles?
 
-    {{3}}
+    {{4}}
 > __Final:__
 >
 > Fill in the letters of the quizzes to spell out the solution: 
 >
->[[WORLDS BEST DATA MAN]]
+>[[WORLDS BEST DATA MANAGEMENT PLANNERS]]
 
 ## Sources 
 
