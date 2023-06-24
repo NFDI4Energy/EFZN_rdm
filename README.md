@@ -96,15 +96,11 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 You…
     
     {{1-2}}
--	have a lack of extra time to devote to RDM?
-
--	don´t have enough money for structured RDM?
-
--	don´t have the expertise, resources, or incentives to share your data? 
-
--	worry whether your data is transferable because some data have ethical or epistemological restrictions?
-
--	have many stakeholders with competing interests in your project?
+- have a lack of extra time to devote to RDM?
+- don´t have enough money for structured RDM?
+- don´t have the expertise, resources, or incentives to share your data? 
+- worry whether your data is transferable because some data have ethical or epistemological restrictions?
+- have many stakeholders with competing interests in your project?
 
     --{{1}}--
 In this chapter, we will prove to you that Research Data Management is not as tricky as you think.
@@ -122,35 +118,35 @@ If done right, RDM will...
 __... save time, resources, effort and money:__
 
     {{2-3}}
--	preserve time that is otherwise lost while searching for, recovering, and deciphering data
--	make data reusable
--	enable you to benefit from high quality datasets from other researchers
+- preserve time that is otherwise lost while searching for, recovering, and deciphering data
+- make data reusable
+- enable you to benefit from high quality datasets from other researchers
 
     {{2-3}}
 __... improve impact and speed up scientific progress:__
 
     {{2-3}}
--	make research reproducible and reusable, so others can verify and build upon your findings. This strengthens __integrity__ and increases your citations.
--	improve your research reputation and increase your __visibility__
--	continually influence research developments long after the original research has been completed
--	will permit new and innovative research to be built on existing information, especially within and across disciplines.
+- make research reproducible and reusable, so others can verify and build upon your findings. This strengthens __integrity__ and increases your citations.
+- improve your research reputation and increase your __visibility__
+- continually influence research developments long after the original research has been completed
+- will permit new and innovative research to be built on existing information, especially within and across disciplines.
 
     {{2-3}}
 __... help to prevent error and enhance data security:__
 
     {{2-3}}
--	secure your data against loss and protect sensitive data against misuse, theft, damage and disaster.
--	ensure records are synchronized, complete and reliable.
--	improve research workflows to make them more resilient to human error and software vulnerability
+- secure your data against loss and protect sensitive data against misuse, theft, damage and disaster.
+- ensure records are synchronized, complete and reliable.
+- improve research workflows to make them more resilient to human error and software vulnerability
 
     {{2-3}}
 __... show compliance with research obligations of your institution and funder:__
 
     {{2-3}}
--	fulfill grant requirements and comply with practices conducted in industry and commerce in order to demonstrate a high-quality research output.
--	ensure transparency since individual contributions are documented on-the-fly throughout the complete research and archiving process.
--	increase your chances of funding since many funding organizations require a DMP.
--	simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
+- fulfill grant requirements and comply with practices conducted in industry and commerce in order to demonstrate a high-quality research output.
+- ensure transparency since individual contributions are documented on-the-fly throughout the complete research and archiving process.
+- increase your chances of funding since many funding organizations require a DMP.
+- simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
 
     {{3-4}}
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=41f2f7c1-4c08-47ea-ad2c-ab63dd4e64e7&amp;version=1.12" title="Henrik Wagner on Research Data Management" width="650" height="350" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
@@ -158,6 +154,50 @@ __... show compliance with research obligations of your institution and funder:_
    {{4}}
 __It's Quiz Time__
 
+    {{4}}
+1. RDM helps preserve time that is otherwise lost while:
+
+    {{4}}
+[[ ]] Collecting data (M)
+[[ ]] Analyzing data (A)
+[[x]] Searching for, recovering, and deciphering data (W)
+[[ ]] Archiving data (G)
+
+    {{4}}
+2. One of the benefits of RDM is making data:
+
+    {{4}}
+[[ ]] Irreversible (F)
+[[ ]] Obsolete (R)
+[[x]] Reusable (O) 
+[[ ]] Inaccessible (S)
+
+    {{4}}
+3. RDM enables researchers to benefit from high-quality datasets from:
+
+   {{4}}
+[[ ]] Social media platforms (C)
+[[x]] Other researchers (R) 
+[[ ]] Government agencies (L)
+[[ ]] Non-profit organizations (E)
+
+    {{4}}
+4. RDM can influence research developments:
+
+    {{4}}
+[[ ]] Immediately after the original research is completed (T)
+[[ ]] Only within the same discipline (U)
+[[x]] Continually, long after the original research is completed (L)
+[[ ]] Only across disciplines (D)
+
+    {{4}}
+5. One way RDM helps prevent errors is by:
+
+    {{4}}
+[[ ]] Encrypting data (S)
+[[ ]] Backing up data (Q)
+[[x]] Synchronizing records (D) 
+[[ ]] Archiving data (Y)
 
 ## Open Science and RDM
 
@@ -210,11 +250,11 @@ In Detail, that means:
 >
 >What can you do to make your data FAIRer?    
 >
-> [[X]] use Creative-Commons or GNU Licenses
-> [[ ]] keep processing details undisclosed
-> [[ ]] ensure access security 
-> [[X]] create detailed Metadata    
-> [[X]] ensure long-term accessibility in repositories
+> [[X]] use Creative-Commons or GNU Licenses (S)
+> [[ ]] keep processing details undisclosed (I)
+> [[ ]] ensure access security (A)
+> [[X]] create detailed Metadata (B)
+> [[X]] ensure long-term accessibility in repositories (E)
 
 
 ## Data Management Plan
@@ -248,19 +288,16 @@ Tools can help you
 
     {{0-1}}
 -	to comply with data management requirements by providing guidance and templates for data management planning. They facilitate data sharing and preservation.
-
 -	to organize, analyze, and visualize your data in order to  make it easier to draw insights and conclusions from your research. Many research projects generate large and complex datasets that can be difficult to manage without the right tools.
-
 -	to facilitate collaboration by allowing multiple researchers to access and analyze data.
-
 -	to ensure accuracy and reliability of your data by providing features such as data validation, version control and audit trails
-
 -	to long-term preserve your data with backups, archives, and structured metadata.
 
-    {{1-2}}
-__How?__ 
+    --{{1}}--
 The specific features and capabilities of research data management tools can vary widely depending on the tool and the intended use case.
-In general there are 6 steps:
+
+    {{1-2}}
+In general there are 6 steps when choosing the right tool:
 
     {{1-2}}
 1.	Choose the right tool
@@ -275,6 +312,7 @@ There is a wide range of tools for RDM, for example:
 
     {{1-2}}
 Tools for internal DM:
+
 -	https://www.coscine.de/
 -	https://www.indiscale.com/
 
@@ -295,8 +333,7 @@ Data Management Plan Tools:
 
     {{1-2}}
 You can also create a DMP in a simple Excel-Sheet.
-In the tools above, you can choose a set of questions that you want to have included in your DMP. If you want to take a look at an example DMP, you can look [here](https://cloud.uol.de/f/7510018536).
-We recommend to use RDMO or DMPOnline due tu their broad spectrum of available questionnaires.
+In the tools above, you can choose a set of questions that you want to have included in your DMP. If you want to take a look at an example DMP, you can look [here](https://cloud.uol.de/f/7510018536). We recommend to use RDMO or DMPOnline due to their broad spectrum of available questionnaires.
 
     {{2-3}}
 > **DMP Task**:
@@ -357,7 +394,6 @@ First, you need to choose the specific conditions that you want to apply to your
 
 4.	__NonCommercial (NC):__ This feature allows the reuse of your work only for non-commercial purposes.
 
-
     {{1-2}}
 These features can now be combined to make the license of your choice:
 
@@ -391,7 +427,6 @@ __It's Quiz Time!__
     {3}
 <iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="800" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="Licensing"></iframe><script src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
 ### Access Rights
 
     {{0-1}}
@@ -416,28 +451,28 @@ __It's Quiz Time!__
 1. What are some aspects of access security?
 
      {{1}}
-[[x]] Privacy, integrity, availability, and controllability 
-[[ ]] Authentication, encryption, authorization, and auditing 
-[[ ]] Authentication, vulnerability assessment, encryption, and monitoring 
-[[ ]] Privacy, vulnerability assessment, authorization, and auditing
+[[x]] Privacy, integrity, availability, and controllability (S)
+[[ ]] Authentication, encryption, authorization, and auditing (L)
+[[ ]] Authentication, vulnerability assessment, encryption, and monitoring (V)
+[[ ]] Privacy, vulnerability assessment, authorization, and auditing (O)
 
     {{1}}
 2.	What is a recommended practice for password protection? 
 
     {{1}}
-[[ ]] Use sequential characters on the keyboard for easy memorization 
-[[ ]] Use dictionary words to make passwords more secure
-[[x]] Use strong passwords with at least eight characters, including upper and lower case letters, special characters, and numbers
-[[ ]] Avoid using special characters and numbers in passwords
+[[ ]] Use sequential characters on the keyboard for easy memorization (B) 
+[[ ]] Use dictionary words to make passwords more secure (R)
+[[x]] Use strong passwords with at least eight characters, including upper and lower case letters, special characters, and numbers (T)
+[[ ]] Avoid using special characters and numbers in passwords (P)
 
     {{1}}
 3.	What is the purpose of access rights and role assignment? 
 
     {{1}}
-[[x]] To limit access to sensitive data to authorized individuals only 
-[[ ]] To increase data availability for all users 
-[[ ]] To delegate data backup responsibilities to multiple individuals 
-[[ ]] To restrict data access based on file formats
+[[x]] To limit access to sensitive data to authorized individuals only (D)
+[[ ]] To increase data availability for all users (U)
+[[ ]] To delegate data backup responsibilities to multiple individuals (H)
+[[ ]] To restrict data access based on file formats (A)
 
 
 ## Infrastructure
@@ -508,7 +543,7 @@ Source: translated and adapted from [forschungsdaten.info](https://forschungsdat
 > If you do not know your datasets yet, enter one or two "dummy" datasets and follow the respective questionnaire to get an idea of the amount of detail required in the DMP.
 
 
-### Software and Simulatio 
+### Software and Simulation
 
     {{0-1}}
 Simulations and software programmes are a special case. Here, not only the resulting datasets are of scientific value but also the programmes, algorithms and settings leading up to the data.Research programmes and simulation software are essential in energy research. Some researchers are very reluctant in sharing this part of their research work, sometimes because of economic considerations. 
@@ -563,6 +598,7 @@ The following strategies may be applied when working with simulations:
 - Some software may be released openly while others remain restricted due to security or proprietary concerns. In this case, the documentation should provide enough information to reproduce the process.
     
     {{1-2}}
+    
 ![simulation](img/simulation.png "Mullendore et. al. (2021): Data and software elements to be preserved and shared by all projects.")
 
     {{2-3}}
@@ -580,6 +616,64 @@ __Checklist for FDM in simulation and software development:__
 >**DMP Task**: 
 >
 > If you have self-developed programmes in your project, enter them as a separate dataset in your DMP, name all contributors and the purpose of each programme.
+
+
+    {{4}}
+__It`s Quiz Time!__
+
+    {{4}}
+1. What is the principle behind "as open as possible, as closed as necessary"?
+
+    {{4}}
+[[ ]] Openly sharing all research data and tools (G)
+[[ ]] Using closed and proprietary software for data analysis (U)
+[[x]] Striving to choose open and FAIR tools and data types when possible (A)
+[[ ]]Restricting access to research data and tools (W)
+
+    {{4}}
+2. What should researchers do if timely open access to the software is not possible?
+
+    {{4}}
+[[ ]] Provide a detailed algorithm without outlining the source code. (I)
+[[ ]] Delay the publication of the article until the software is open access. (P)
+[[x]] State the reason for not publishing the source code and the expected release timeframe. (T)
+[[ ]] Exclude any mention of the software in the article. (S)
+
+    {{4}}
+3. What are the challenges associated with the longevity of simulation outputs?
+
+    {{4}}
+[[ ]] Simulation outputs are easily assessable and portable. (M)
+[[ ]] Simulation outputs are often small in size, making long-term accessibility simple. (N)
+[[x]]Simulations can generate massive output, and interdependencies between hardware and software can limit their portability. (A)
+[[ ]] Standardization and documentation for simulation outputs are well-established. (X)
+
+    {{4}}
+4. What should be done if some software used in simulations cannot be openly released?
+
+    {{4}}
+[[ ]] Provide no documentation or information about the restricted software. (T)
+[[ ]] Exclude any mention of the restricted software in the documentation. (O)
+[[x]] Ensure the documentation provides enough information to reproduce the process. (M)
+[[ ]] Delay the publication until all software used in simulations can be openly released. (F)
+
+    {{4}}
+5. What is one of the considerations for ensuring long-term accessibility of research data?
+
+    {{4}}
+[[ ]] Using tools and software that are FAIR themselves. (V)
+[[x]] Choosing data types that require minimal memory space. (A)
+[[ ]] Storing data in repositories with high backup capacity. (J)
+[[ ]] Describing processing details in a .pdf file. (Z)
+
+    {{4}}
+6. What are the recommended characteristics of software documentation in research?
+
+    {{4}}
+[[ ]] Avoid documenting the origin, purpose, and scope of the program. (R)
+[[ ]]Provide a detailed manual with step-by-step instructions. (K)
+[[x]] Comment the program with limitations of variables. (N)
+[[ ]] Keep the documentation minimal and concise. (C)
 
 ### Back-Up
 
@@ -696,18 +790,20 @@ __It's Quiz Time__
 
 ## Metadata
 
+    --{{0}}--
 Well-structured metadata are of high value for re-users. Therefore, all four of the FAIR criteria stress their importance.
 
-Metadata in research contain structural information on research results such as datasets or code. 
+    {{0-1}}
+Metadata in research contain structural information on research results such as datasets or code. There are different types of metadata with varying functions:
 
-There are different types of metadata with varying functions:
-
+    {{0-1}}
 > __Exercise:__
 > 
 > Enter the correct term for each metadata type.
 >
 > __descriptive  - administrative - bibliographic - process__
 
+    {{0-1}}
 | Type                    | Content    | Function   |
 | :---------------------- | :--------- | :--------- |
 | [[bibliographic]] metadata  | title, author, description, keywords    | make data findable and thematically fitting |
@@ -715,18 +811,23 @@ There are different types of metadata with varying functions:
 | [[process]] metadata        | methods, tools, analysis steps    | reproducability, traceability    |
 | [[descriptive]] metadata    | additional information on content, scope and data genesis    | close information gaps     |
 
-Bibliographic and administrative metadata can be standardized cross-disciplinary, while information on process details or content are often structured and described in a way highly specific to the respective field. Nevertheless, they are often crucial for findability and traceability of research data. Therefore, some disciplines have developed their own metadata standards.
-
+    {{1}}
 __Choosing the right standard__
 
+    --{{1}}--
+Bibliographic and administrative metadata can be standardized cross-disciplinary, while information on process details or content are often structured and described in a way highly specific to the respective field. Nevertheless, they are often crucial for findability and traceability of research data. Therefore, some disciplines have developed their own metadata standards.
+
+    {{1-2}}
 You can find a list of existing standards in the [RDA's Metadata Standards Catalog](https://rdamsc.bath.ac.uk/), under [FairSharing.org](https://fairsharing.org/search?fairsharingRegistry=Standard) or at the [Digital Curation Centre (DDC))](https://www.dcc.ac.uk/).
 
+    {{1-2}}
 - [DOIs (digital object identifiers)](https://www.doi.org/): This standard defines which information is required to be provided with a dataset (e.g. author, title), which is recommended (e.g. discipline, description) and which are optional (e.g. funding, licenses). Data are published as .xml. 
 
 - [PREMIS](https://www.loc.gov/standards/premis/) is a standard for administrative metadata in longterm storage describing relationships of contributors, and rights. 
 
 - [METS (Metadata Encoding & Transmission Standard)](http://www.loc.gov/standards/mets/) is a container standard specifying a structure of seven sections: header, descriptive metadata, administrative details, file section, structural map, structural links and behavior. 
 
+    {{2-3}}
 __Metadata Plan__
 
 | Type   | Function   |  Level of detail (low-very high)  | Effort required|
@@ -736,11 +837,10 @@ __Metadata Plan__
 | Taxonomy/Thesaurus |defines acronyms, synonyms, sub and umbrella terms    |  [[high  ]]   |requires regular review|
 | Ontology    | model of characteristics and relationships between variables and concepts   | [[very high  ]]   | use community-developed templates |
 
-The Open Energy Platform offers an ontology that is under constant development. You can find an overview of other existing terminologies in the [Basic Register of Thesauri, Ontologies and Classifications BARTOC](https://bartoc.org/). 
+    {{2-3}}
+The Open Energy Platform offers an ontology that is under constant development. You can find an overview of other existing terminologies in the [Basic Register of Thesauri, Ontologies and Classifications BARTOC](https://bartoc.org/). Finally - whenever possible, use templates and automatization to facilitate your processes. 
 
-Finally - whenever possible, use templates and automatization to facilitate your processes. 
-
-
+    {{3}}
 > __DMP Task__:
 >
 > 1.  Which information is necessary for outsiders to understand and reuse your datasets? What are possible keywords or criteria for filtering? 
@@ -755,14 +855,19 @@ Finally - whenever possible, use templates and automatization to facilitate your
 >
 >6. Describe other information on generation, analysis and processing of the data.
 
-
+    {{3}}
 Source: [forschungsdaten.info](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-und-metadatenstandards/), translated by A.Ahrens, licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 
 ### Repositories
 
-As a last step, you need to decide which data should be permanently archived. As we discussed in [Section "Simulation"](#simulation), you should carefully decide which data to archive in a repository and which to discard. 
+    {{0}}
+As a last step, you need to decide which data should be permanently archived. As we discussed in [Section "Simulation"](#software-and-simulation), you should carefully decide which data to archive in a repository and which to discard. 
+
+    {{0-1}}
 The following questions can lead you in the decision process:
+
+     {{0-1}}
 - Are the data the foundation of an article?
 - Can the data be reproduced with reasonable effort?
 - Is a re-use likely?
@@ -770,36 +875,56 @@ The following questions can lead you in the decision process:
 - Is the dataset unique?
 - How much storage volume is needed? 
 
+    --{{0}}--
 Choosing the right repository is often regulated by your institution or funding agency. In-house repositories might be mandatory for research data and you should find out which policies apply to you and your project.
 
+    {{0}}
 If you are free to choose a repository, you should use one that is common for your field or discpline. If you are unsure, go to the [Registry of Research Data Repositories (r3data)](https://www.re3data.org/), where a wide range of platforms are listed.
 
+    --{{0}}--
 If your license terms allow, you may upload your data on multiple platforms. Make sure to use PIDs and cross-reference to link the data to your published article. 
 
+
+    {{1}}
 __Open Energy Platform__
 
+    {{1-2}}
 For energy-related topics, we suggest the [Open Energy Platform](https://openenergy-platform.org/). This platform helps you to apply structure or even a thorough ontology, and provides tutorials in order to prevent confusion or mistakes.
 
+    {{1-2}}
 Features of the Open Energy Platform
-
+    
+    {{1-2}} 
 - Upload via github 
 - Data Comparison with other projects
 - Take part in developing a domain ontology for energy system sciences
 - Data Review Service 
 
+    {{1-2}}
 Please visit https://openenergy-platform.org/ for a detailed description of the upload and review process.
 
+     {{1-2}}
 >**Exercise**: 
 >
 > Choose a repository for your data and create an account.
 
- __Congratulations__
-
+    {{2-3}}
 >**DMP Task**: 
 >
 > Look through your DMP to find open questions that you have not covered so far and fill any gaps you can find.
 
-By the way - did you find all clues and solve all puzzles? Then you can enter the resulting letters in the box below to see if you are a DMP-Champion!
+    {{3}}
+__Congratulations!__
+
+    --{{3}}--
+Congratulations! You have successfully finished the course and set up your first DMP-prototype! By the way - did you find all clues and solve all puzzles?
+
+    {{3}}
+> __Final:__
+>
+> Fill in the letters of the quizzes to spell out the solution: 
+>
+>[[WORLDS BEST DATA MAN]]
 
 ## Sources 
 
