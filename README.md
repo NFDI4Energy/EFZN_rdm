@@ -38,8 +38,7 @@ There are three possible ways to work with this course:
 A quick word on the course format. The course is written in [Markdown](https://de.wikipedia.org/wiki/Markdown) and implemented in [LiaScript](https://liascript.github.io/). 
 In the upper right corner, you can switch between textbook mode, presentation mode and slides. You may choose to have the course read aloud to you by clicking on the symbol on the bottom of the page in presentation mode. If you want to adapt the course for your own use, you may do so by going on [GitHub](https://github.com/FlourBerry/EFZN_RDM) and opening a branch of your own or downloading individual files. 
 
-<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=19" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
-
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=bfb11764-1c64-435b-9c97-5116ad5c4fb5" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
 
 
 You can give feedback to this course on github: https://github.com/FlourBerry/EFZN_RDM/issues/2 
@@ -92,7 +91,7 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 ### Benefits of RDM
 
     {{0-1}}
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=e7272cc1-7e1a-409b-aff4-feb578a988a8&amp;version=1.3" title="Prof. Dr.-Ing. Astrid Niesse on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=e7272cc1-7e1a-409b-aff4-feb578a988a8" title="Prof. Dr.-Ing. Astrid Niesse on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
 
 
     {{1-2}}
@@ -137,7 +136,7 @@ If done right, RDM will...
     - simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
     
     
-{{2-3}}<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=41f2f7c1-4c08-47ea-ad2c-ab63dd4e64e7&amp;version=1.12"   title="Prof. Dr.-Ing. Astrid Niesse on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
+{{2-3}}<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=8592e4d6-37e9-4bb1-a356-73803e3f3971"  title="Henrik Wagner (TU Braunschweig) on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
 
     {{3}}
 __It's Quiz Time__
