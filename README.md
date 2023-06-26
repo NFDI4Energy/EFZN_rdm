@@ -31,7 +31,7 @@ Welcome to "Research Data Management in the Energy Sector"! This course teaches 
 
 The course focuses on applicability in the energy sector.
 
-<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=19" width="100%" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
+<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=19" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
 
 There are three possible ways to work with this course: 
 
@@ -90,7 +90,7 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 ### Benefits of RDM
 
     {{0-1}}
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=e7272cc1-7e1a-409b-aff4-feb578a988a8&amp;version=1.3" title="Prof. Dr.-Ing. Astrid Niesse on RDM" width="100%" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=e7272cc1-7e1a-409b-aff4-feb578a988a8&amp;version=1.3" title="Prof. Dr.-Ing. Astrid Niesse on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
 
     {{1-2}}
 You…
@@ -149,7 +149,7 @@ __... show compliance with research obligations of your institution and funder:_
 - simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
 
     {{3-4}}
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=41f2f7c1-4c08-47ea-ad2c-ab63dd4e64e7&amp;version=1.12" title="Henrik Wagner on Research Data Management" width="100%" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=41f2f7c1-4c08-47ea-ad2c-ab63dd4e64e7&amp;version=1.12" title="Henrik Wagner on Research Data Management" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
 
    {{4}}
 __It's Quiz Time__
@@ -267,7 +267,7 @@ The **Data Management Plan (DMP)** contains all information that describes and d
 
 
     {{0-1}}
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=fb5ac006-a355-41e5-bbaa-32a3ebd4e019&amp;version=1.3" title="Data Management Plan - Interactive Video" width="100%" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=fb5ac006-a355-41e5-bbaa-32a3ebd4e019&amp;version=1.3"  width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" title="Data Management Plan - Interactive Video" ></iframe>
 
     {{1-2}}
 Many public funding organizations require a DMP prior to granting funds for research projects, thus making DMPs an integral part of the scientific process, especially in data-intensive research fields such as the energy sector.
@@ -351,8 +351,7 @@ Congratulations! You have started your first DMP!
 **It`s Quiz Time!**
 
     {{3}}
-<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="100%" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
-
+<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" title="Tools for RDM" ></iframe>
 
 ## Legal Aspects
 
@@ -425,8 +424,8 @@ A final word on "openness": you might be tempted to protect as many of your righ
     {{3}}
 __It's Quiz Time!__
 
-    {3}
-<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="100%" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
+    {{3}}
+<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="100%" height="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
 
 
 ### Access Rights
