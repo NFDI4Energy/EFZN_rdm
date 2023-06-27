@@ -38,8 +38,7 @@ There are three possible ways to work with this course:
 A quick word on the course format. The course is written in [Markdown](https://de.wikipedia.org/wiki/Markdown) and implemented in [LiaScript](https://liascript.github.io/). 
 In the upper right corner, you can switch between textbook mode, presentation mode and slides. You may choose to have the course read aloud to you by clicking on the symbol on the bottom of the page in presentation mode. If you want to adapt the course for your own use, you may do so by going on [GitHub](https://github.com/FlourBerry/EFZN_RDM) and opening a branch of your own or downloading individual files. 
 
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=bfb11764-1c64-435b-9c97-5116ad5c4fb5" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
-
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=291a02e3-2fd0-4276-b49d-37c205fe945d" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
 
 You can give feedback to this course on github: https://github.com/FlourBerry/EFZN_RDM/issues/2 
 
@@ -289,8 +288,6 @@ In general there are 6 steps when choosing the right tool:
 4.	Input and manage your data
 5.	Collaborate and share your data
 6.	Preserve and archive your data
-
- 
      
 {{1-2}}| Tools for internal DM: | Tools to share and register your research data:  | DMP Tools   |
 | :--------- | :--------- | :--------- |
@@ -300,7 +297,7 @@ In general there are 6 steps when choosing the right tool:
 
     {{1-2}} 
 You can also create a DMP in a simple "Excel"-type document.
-The tools above provide additional help by letting you choose a set of questions that you want to follow in your DMP. If you want to take a look at an example DMP, you can look [here](https://cloud.uol.de/f/7510018536). We recommend to use RDMO or DMPOnline due to their broad spectrum of available questionnaires.
+The tools above provide additional help by letting you choose a set of questions that you want to follow in your DMP. If you want to take a look at an example DMP, you can look [here](img/DMP_Analysis%20of%20the%20Grid%20Capacity%20for%20Electric%20Vehicles%20in%20Am%20%C3%96lper%20Berge%20District%20in%20Lower%20Saxony.pdf). We recommend to use RDMO or DMPOnline due to their broad spectrum of available questionnaires.
 
     {{2-3}}
 > **DMP Task**:
@@ -643,6 +640,8 @@ Backup needs to be prepared by well-structured and named data. When naming files
 | 20230315_location5_processed     | original.jpg|
 | 2018_weatherlogfiles     | table1_john(copy)  |
 
+{{0-1}} Source: inspired by Biernacka et al (2020): p. 31.
+
     --{{0}}--
 You should develop a back-up policy early on in your project, since later down the road it is very hard to re-structure established processes. 
 
@@ -922,13 +921,6 @@ Congratulations! You have successfully finished the course and set up your first
 
 ## Sources 
 
-* Maxi Kindling, Peter Schirmbacher, Elena Simukovic:
-  Forschungsdatenmanagement an Hochschulen:
-  das Beispiel der Humboldt-Universität zu Berlin.
-  LIBREAS.
-  Library Ideas, 23 (2013).
-  https://doi.org/10.18452/9041
-
 * Biernacka, Katarzyna; Maik Bierwirth; Petra Buchholz, Dominika Dolzycka; Kerstin Helbig; Janna Neumann; Carolin Odebrecht; Cord Wiljes and Ulrike Wuttke:
   Train-the-Trainer Concept on Research Data Management.
   Version 3.0.
@@ -938,12 +930,31 @@ Congratulations! You have successfully finished the course and set up your first
 * FAIR Guiding Principles:
   https://www.go-fair.org/
 
-* UK Data Service:
-  https://ukdataservice.ac.uk/learning-hub/research-data-management/ 
-
-* https://forschungsdaten.info/
+* Friedrich-Alexander-Universität - Universitätsbibliothek (2023): Advantages of Research Data Management.
+    https://ub.fau.de/en/research/data-and-software-in-research/advantages-of-research-data-management/
 
 * Mullendore GL, Mayernik MS and Schuster DC (2021): Open Science Expectations for Simulation-Based Research. Front. Clim. 3:763420. https://doi.org/10.3389/fclim.2021.763420
 
+* Maxi Kindling, Peter Schirmbacher, Elena Simukovic:
+  Forschungsdatenmanagement an Hochschulen:
+  das Beispiel der Humboldt-Universität zu Berlin.
+  LIBREAS.
+  Library Ideas, 23 (2013).
+  https://doi.org/10.18452/9041 
+  
+* UK Data Service (2023): 
+  https://ukdataservice.ac.uk/learning-hub/research-data-management/ 
+
+* Universität Konstanz (2023): Informationsplattform forschungsdaten.info. 
+    https://forschungsdaten.info/
+
+* University of Pittsburgh - Library Service (2023): Guide to Research Data Management
+    https://pitt.libguides.com/managedata
+
+* University of St. Andrews (2023): Benefits of good data management. 
+    https://www.st-andrews.ac.uk/research/support/open-research/research-data-management/working-with-data/benefits-of-good-data-management/
+
 
 ![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
+
+
