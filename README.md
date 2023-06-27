@@ -26,7 +26,7 @@ link:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 ![Logo-Block](img/Logoblock.png)
 
 Welcome to "Research Data Management in the Energy Sector"! This course teaches all skills necessary to understand the principles and motivation behind Research Data Management (RDM) and enables you to implement RDM in your work and research group.
-
+jaösjaklasödkaöskdösakd 
 The course focuses on applicability in the energy sector.
 
 There are three possible ways to work with this course: 
