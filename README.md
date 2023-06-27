@@ -40,7 +40,6 @@ In the upper right corner, you can switch between textbook mode, presentation mo
 
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=291a02e3-2fd0-4276-b49d-37c205fe945d" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
 
-You can give feedback to this course on github: https://github.com/FlourBerry/EFZN_RDM/issues/2 
 
 ## What is Research Data Management?
 
@@ -71,7 +70,7 @@ RDM includes all activities associated with processing, storage, preserving and 
 ### The Research Data Lifecycle
 
     {{0-1}}
-![Lifecycle](img/DataLifecycle.png "The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)")
+![Lifecycle](https://www.twillo.de/edu-sharing/components/render/2d0c9105-a9be-4118-9356-ac84ed3ace46/ "The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)")
 
     --{{0}}--
 The "Research Data Lifecycle" describes a cyclic process of data generation and management. First, data is created, then processed. The next step is analyzing data, followed by preserving the results. Now, it is time to give access to the data. Ideally, the cycle closes at this point: Data is being re-used and new, well-documented data is being created.
@@ -927,7 +926,7 @@ Congratulations! You have successfully finished the course and set up your first
   Berlin, 2020.
   https://doi.org/10.5281/zenodo.4071471
 
-* FAIR Guiding Principles:
+* GO FAIR International Support and Coordination Office (2023): FAIR Guiding Principles:
   https://www.go-fair.org/
 
 * Friedrich-Alexander-Universität - Universitätsbibliothek (2023): Advantages of Research Data Management.
