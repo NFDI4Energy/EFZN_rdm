@@ -70,7 +70,7 @@ RDM includes all activities associated with processing, storage, preserving and 
 ### The Research Data Lifecycle
 
     {{0-1}}
-![Lifecycle](img/DataLifecycle.png "The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)")
+![DataLifecycle](img/DataLifecycle.png "The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)")
 
     --{{0}}--
 The "Research Data Lifecycle" describes a cyclic process of data generation and management. First, data is created, then processed. The next step is analyzing data, followed by preserving the results. Now, it is time to give access to the data. Ideally, the cycle closes at this point: Data is being re-used and new, well-documented data is being created.
@@ -99,8 +99,8 @@ __Benefits of RDM in your projects__
 Are you frustrated with the time you invest in searching for data? Do you want to apply structured RDM cost-effectively? But in the moment, you lack the expertise, resources, or incentives to share your data with your group and in your field? 
 Perhaps you worry whether your data is transferable at all because some data have ethical or epistemological restrictions or your project includes many stakeholders with competing interests in your project? In this chapter, we will prove to you that Research Data Management is not as tricky as you think.
 
-    
-{{1-2}}![Benefits](img/Benefits.png "Benefits of Research Data Management" by N. Seitz. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)")
+    {{1-2}}
+![Benefits](img/Benefits.png "Benefits of RDM. By N. Seitz. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://www.go-fair.org/fair-principles/")
 
     {{1-2}}
 If done right, RDM will...
