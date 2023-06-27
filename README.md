@@ -1,7 +1,7 @@
 
 <!-- 
 author:   C3L
-email:    antje.ahrens@uol.de
+email:    c3l@uol.de
 Version:  1.0
 language: en
 license:  http://creativecommons.org/licenses/by/4.0/
@@ -296,7 +296,7 @@ In general there are 6 steps when choosing the right tool:
 
     {{1-2}} 
 You can also create a DMP in a simple "Excel"-type document.
-The tools above provide additional help by letting you choose a set of questions that you want to follow in your DMP. If you want to take a look at an example DMP, you can look [here](img/DMP_Analysis%20of%20the%20Grid%20Capacity%20for%20Electric%20Vehicles%20in%20Am%20%C3%96lper%20Berge%20District%20in%20Lower%20Saxony.pdf). We recommend to use RDMO or DMPOnline due to their broad spectrum of available questionnaires.
+The tools above provide additional help by letting you choose a set of questions that you want to follow in your DMP. If you want to take a look at an example DMP, you can look [here](img/DMP_GridCapacity.pdf). We recommend to use RDMO or DMPOnline due to their broad spectrum of available questionnaires.
 
     {{2-3}}
 > **DMP Task**:
@@ -314,7 +314,7 @@ Congratulations! You have started your first DMP!
 **It`s Quiz Time!**
 
     {{3}}
-<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" title="Tools for RDM" ></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=981a8688-f44b-4811-a912-585d421daf82" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" title="Tools for RDM" ></iframe>
 
 ## Legal Aspects
 
@@ -388,7 +388,7 @@ When giving attribution to a Creative Commons-licensed work, it's important to f
 __It's Quiz Time!__
 
     {{3}}
-<iframe src="https://wp.uni-oldenburg.de/innovative-hochschule-jade-oldenburg-wise20182019/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="100%" height="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=587d9a6c-9889-440d-ba19-2f16d2d5f23b" width="100%" height="600" frameborder="0" allowfullscreen="allowfullscreen" title="Quiz - Licensing in RDM" ></iframe>
 
 
 ### Access Rights
