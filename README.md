@@ -32,7 +32,7 @@ The course focuses on applicability in the energy sector.
 There are three possible ways to work with this course: 
 
 1. Do you want to gain a thorough understanding of RDM? Follow the course outline described in the following graph. When you complete the course, you will have established a basic Data Management Plan for a project of your choice that you can build upon and adapt. 
-2. Are you looking for a challenge? Answer the questions at the end of each chapter to find the solution to our RDM-puzzle.
+2. Are you looking for a challenge? Collect the letters that are in brackets after the correct solution and together they form the solution word. 
 3. Do you already have some knowledge of RDM? Great! Choose individual chapters that are of interest for your field of work by clicking on the plus-signs.
 
 A quick word on the course format. The course is written in [Markdown](https://de.wikipedia.org/wiki/Markdown) and implemented in [LiaScript](https://liascript.github.io/). 
@@ -187,7 +187,7 @@ __It's Quiz Time__
 ## Open Science and RDM
 
     {{0-1}}
-Open Science strives to to make scientific research and its dissemination accessible to all levels of society. It is based on the four principles of __transparency__, __reproducability__, __reusability__ and __open communication__.
+Open Science strives to make scientific research and its dissemination accessible to all levels of society. It is based on the four principles of __transparency__, __reproducability__, __reusability__ and __open communication__.
 Open Science can encompass publishing open research, campaigning for open access, encouraging scientists to practice **open-notebook science** (such as openly sharing data and code), broader dissemination and engagement in science and generally making it easier to publish, access and communicate scientific knowledge (https://ag-openscience.de/open-science/). 
 
     {{0-1}}
