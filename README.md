@@ -32,7 +32,7 @@ The course focuses on applicability in the energy sector.
 There are three possible ways to work with this course: 
 
 1. Do you want to gain a thorough understanding of RDM? Follow the course outline described in the following graph. When you complete the course, you will have established a basic Data Management Plan for a project of your choice that you can build upon and adapt. 
-2. Are you looking for a challenge? Collect the letters that are in brackets after the correct solution and together they form the solution word. 
+2. Are you looking for a challenge? In the quizzes, collect the letters that are in brackets after the correct solution and together they form the solution word. 
 3. Do you already have some knowledge of RDM? Great! Choose individual chapters that are of interest for your field of work by clicking on the plus-signs.
 
 A quick word on the course format. The course is written in [Markdown](https://de.wikipedia.org/wiki/Markdown) and implemented in [LiaScript](https://liascript.github.io/). 
@@ -61,9 +61,9 @@ Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschung
 
 </details>
 
-While maybe not as critical for society at large, scientists can face similar problems when trying to access old data or programmes that were written for other purposes but are now needed for current tasks: Data are insufficiently labeled, have been overwritten, commercial computer programmes have been discontinued or process details were not recorded.
+While maybe not as critical for society at large, scientists can face similar problems when trying to access old data or programs that were written for other purposes but are now needed for current tasks: Data are insufficiently labeled, have been overwritten, commercial computer programs have been discontinued or process details were not recorded.
 
-**Research Data Management (RDM)**  aims to break this dynamic by ensuring a sustainable and coherent strategy for all data types throughout the research process, enabling researchers to store, access and re-use their own work effectively and safely and opening their findings worldwide to improve on cross-disciplinary collaboration, monitoring and replication.
+**Research Data Management (RDM)**  aims to break this dynamic by ensuring a sustainable and coherent strategy for all data types throughout the research process. This enables researchers to store, access and re-use their own work effectively and safely and opening their findings worldwide to improve on cross-disciplinary collaboration, monitoring and replication.
 
 RDM includes all activities associated with processing, storage, preserving and publication of research data.
 
@@ -73,7 +73,7 @@ RDM includes all activities associated with processing, storage, preserving and 
 ![DataLifecycle](img/DataLifecycle.png "The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)")
 
     --{{0}}--
-The "Research Data Lifecycle" describes a cyclic process of data generation and management. First, data is created, then processed. The next step is analyzing data, followed by preserving the results. Now, it is time to give access to the data. Ideally, the cycle closes at this point: Data is being re-used and new, well-documented data is being created.
+The "Research Data Lifecycle" describes a cyclic process of data generation and management. First, data is created, then processed. The next step is analyzing the data, followed by preserving the results. Now, it is time to give access to the data. Ideally, the cycle closes at this point: Data is being re-used and new, well-documented data is being created.
 
 
     {{0-1}}
@@ -108,30 +108,30 @@ If done right, RDM will...
     {{1-2}}
 1. __save time, resources, effort and money:__
 
-   - preserve time that is otherwise lost while searching for, recovering, and deciphering data
-   - make data reusable
-   - enable you to benefit from high quality datasets from other researchers
+   - Preserve time that is otherwise lost while searching for, recovering, and deciphering data
+   - Make data reusable
+   - Enable you to benefit from high quality datasets from other researchers
 
 
 2. __improve impact and speed up scientific progress:__
 
-    - make research reproducible and reusable, so others can verify and build upon your findings. This strengthens __integrity__ and increases your citations.
-    - improve your research reputation and increase your __visibility__
-    - continually influence research developments long after the original research has been completed
-    - will permit new and innovative research to be built on existing information, especially within and across disciplines.
+    - Make research results reproducible and reusable, so others can verify and build upon your findings. This strengthens __integrity__ and increases your citations.
+    - Improve your research reputation and increase your __visibility__.
+    - Continually influence research developments long after the original research has been completed.
+    - Permit new and innovative research to be built on existing information, especially within and across disciplines.
 
-3. __help to prevent error and enhance data security:__
+3. __help to prevent errors and enhance data security:__
 
-    - secure your data against loss and protect sensitive data against misuse, theft, damage and disaster.
-    - ensure records are synchronized, complete and reliable.
-    - improve research workflows to make them more resilient to human error and software vulnerability
+    - Secure your data against loss and protect sensitive data against misuse, theft, damage and disaster.
+    - Ensure records are synchronized, complete and reliable.
+    - Improve research workflows to make them more resilient to human error and software vulnerability.
 
 4. __show compliance with research obligations of your institution and funder:__
 
-    - fulfill grant requirements and comply with practices conducted in industry and commerce in order to demonstrate a high-quality research output.
-    - ensure transparency since individual contributions are documented on-the-fly throughout the complete research and archiving process.
-    - increase your chances of funding since many funding organizations require a DMP.
-    - simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
+    - Fulfill grant requirements and comply with practices conducted in industry and commerce in order to demonstrate a high-quality research output.
+    - Ensure transparency since individual contributions are documented on-the-fly throughout the complete research and archiving process.
+    - Increase your chances of funding since many funding organizations require a DMP.
+    - Simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
     
     
 {{2-3}}<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=8592e4d6-37e9-4bb1-a356-73803e3f3971"  title="Henrik Wagner (TU Braunschweig) on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
@@ -187,7 +187,7 @@ __It's Quiz Time__
 ## Open Science and RDM
 
     {{0-1}}
-Open Science strives to make scientific research and its dissemination accessible to all levels of society. It is based on the four principles of __transparency__, __reproducability__, __reusability__ and __open communication__.
+Open Science strives to make scientific research and its dissemination accessible to all levels of society. It is based on the four principles of __transparency__, __reproducibility__, __reusability__ and __open communication__.
 Open Science can encompass publishing open research, campaigning for open access, encouraging scientists to practice **open-notebook science** (such as openly sharing data and code), broader dissemination and engagement in science and generally making it easier to publish, access and communicate scientific knowledge (https://ag-openscience.de/open-science/). 
 
     {{0-1}}
@@ -265,26 +265,26 @@ Many public funding organizations require a DMP prior to granting funds for rese
 ## Tools
 
     {{0-1}}
-Tools can help you
+Tools can help you to...
 
     {{0-1}}
--	to comply with data management requirements by providing guidance and templates for data management planning. They facilitate data sharing and preservation.
--	to organize, analyze, and visualize your data in order to  make it easier to draw insights and conclusions from your research. Many research projects generate large and complex datasets that can be difficult to manage without the right tools.
--	to facilitate collaboration by allowing multiple researchers to access and analyze data.
--	to ensure accuracy and reliability of your data by providing features such as data validation, version control and audit trails
--	to long-term preserve your data with backups, archives, and structured metadata.
+-	comply with data management requirements by providing guidance and templates for data management planning. They facilitate data sharing and preservation.
+-	to organize, analyze and visualize your data in order to  make it easier to draw insights and conclusions from your research. Many research projects generate large and complex datasets that can be difficult to manage without the right tools.
+-	facilitate collaboration by allowing multiple researchers to access and analyze data.
+-	ensure accuracy and reliability of your data by providing features such as data validation, version control and audit trails.
+-	long-term preserve your data with backups, archives, and structured metadata.
 
     --{{1}}--
 The specific features and capabilities of research data management tools can vary widely depending on the tool and the intended use case.
 
     {{1-2}}
-In general there are 6 steps when choosing the right tool:
+In general, there are 6 steps when choosing the suitable tool:
 
     {{1-2}}
 1.	Choose your tool
 2.	Plan a data management strategy
 3.	Set up the tool
-4.	Input and manage your data
+4.	Put in and manage your data
 5.	Collaborate and share your data
 6.	Preserve and archive your data
      
@@ -302,6 +302,7 @@ The tools above provide additional help by letting you choose a set of questions
 > **DMP Task**:
 > 
 > Now it is time to start your DMP! Choose a **tool** and a set of **questions** that you want to work with and enter your basic project parameters:
+>
 >1. Title and Research Question
 >2. Project Partners and Institutions
 >
@@ -755,7 +756,7 @@ Metadata in research contain structural information on research results such as 
 | :---------------------- | :--------- | :--------- |
 | [[bibliographic]] metadata  | title, author, description, keywords    | make data findable and thematically fitting |
 | [[administrative]] metadata | data types, location, access rights, licenses     | administration, long-term preservation  |
-| [[process]] metadata        | methods, tools, analysis steps    | reproducability, traceability    |
+| [[process]] metadata        | methods, tools, analysis steps    | reproducibility, traceability    |
 | [[descriptive]] metadata    | additional information on content, scope and data genesis    | close information gaps     |
 
     {{1}}
