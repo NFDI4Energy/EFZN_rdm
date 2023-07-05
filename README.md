@@ -329,28 +329,28 @@ Because research projects have very diverse legal requirements, consider the fol
 
 ### Licenses
 
-    {{0}}
+     {{0-1}}  
 The internet has made it incredibly easy for people to share and collaborate. However, copyright laws can often pose obstacles to this process. Generally, others cannot use or remix your work without obtaining your permission first.
 But what if you want to encourage others to reuse your work? In such cases, you may consider publishing your work under a [Creative Commons](https://creativecommons.org/) or [GNU General Public license](https://www.gnu.org/licenses/). 
 
 
-  
+    {{0-1}}
 Creative Commons licenses are a set of copyright licenses that allow creators to grant others permission to use their work. These licenses are designed to be easily understood and applied, providing a flexible framework for sharing and collaboration. By assigning a Creative Commons license, researchers can clearly communicate how others can use, distribute, modify, and build upon their work.
 
-    
+    {{0-1}}
 For software, you may also use a [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), guaranteeing end users the four freedoms to run, study, share, and modify the software. For other options to license software, you can consult [this Wikipedia comparison](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses). 
 
-    
+    {{0-1}}
 So "free" licenses provide you with the flexibility to choose which rights you wish to retain and allow you to clearly communicate to others how they can use your work. This way, you can strike a balance between protecting your rights as author and fostering a culture of sharing and collaboration on the internet.
 
     {{1}}
 __Step 1: Selecting License Features__ 
 
-    
+    {{1-2}}
 First, you need to choose the specific conditions that you want to apply to your work. Here are the "building blocks" to consider:
 
-    
-1.	__Attribution (BY):__ Requires to give attribution to the creator.  
+    {{1-2}}
+1.	__Attribution (BY):__ requires to give attribution to the creator.  
 
 2.	__ShareAlike (SA):__ If others use your work, they are required to share it under the same conditions that you specified.
 
@@ -359,36 +359,36 @@ First, you need to choose the specific conditions that you want to apply to your
 4.	__NonCommercial (NC):__ This feature allows the reuse of your work only for non-commercial purposes.
 
     
- These features can now be combined to make the license of your choice:
+{{1-2}} These features can now be combined to make the license of your choice:
 
-   
+    {{1-2}}
 ![CC License Requirements](img/CCLicenseChart.png "Foter.com (2015): CC License Requirements. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
 
-   
+    {{1-2}}
 You may also choose to give your work to the Public Domain and resign all rights you have by assigning "CC0".
 
     {{2}}
 __Step 2: Obtaining a License__
 
-    
+    {{2-3}}
 When giving attribution to a Creative Commons-licensed work, it's important to follow certain guidelines. A useful mnemonic to remember is __TASL__, which represents the key elements to include:
 
-    
+    {{2-3}}
 1.	Title: Include the name of the material if it has been provided. This helps to identify the specific work you are attributing.
 2.	Author: Clearly state the name of the person or entity that owns the material. This gives credit to the original creator of the work.
 3.	Source: Mention where you found the material. Provide the URL or hyperlink that directs others to the location where the work is hosted. This allows others to easily access the original source.
-4.	License: Specify the specific Creative Commons license that applies to the work. Simply saying "Creative Commons" is not sufficient. Name the CC license and provide a direct link to the license text. This informs others of the rights and permissions granted by the license.
+4.	License: Specify the Creative Commons license that applies to the work. Simply saying "Creative Commons" is not sufficient. Name the CC license and provide a direct link to the license text. This informs others of the rights and permissions granted by the license.
 
     
-A final word on "openness": you might be tempted to protect as many of your rights as possible. Try to think the other way around, though: how open can you make your data? For example, a researcher from a commercial institution might be prohibited to use your data because of its NC-license or someone else might be forced to reproduce datasets because they are licensed under CC-BY-ND.
+{{2-3}} A final word on "openness": you might be tempted to protect as many of your rights as possible. Try to think the other way around, though: how open can you make your data? For example, a researcher from a commercial institution might be prohibited to use your data because of its NC-license or someone else might be forced to reproduce datasets because they are licensed under CC-BY-ND.
 
-    
+    {{2-3}}
 ![Degrees of Freedom](img/Foter.com_infographic_CC.jpg "Foter.com (2015): Degrees of Freedom. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
 
     {{3}}
 __It's Quiz Time!__
 
-   
+    {{3}}
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=587d9a6c-9889-440d-ba19-2f16d2d5f23b" width="100%" height="600" frameborder="0" allowfullscreen="allowfullscreen" title="Quiz - Licensing in RDM" ></iframe>
 
 
@@ -451,29 +451,29 @@ Source: Nationale Forschungsdaten Infrastruktur (NFDI) (2023): Available at: htt
 
 ### Data Types
 
-    --{{0}}--
+    --{{0-1}}--
 Depending on your field of expertise, there will be different data types relevant to your work. In your DMP, you can specify individual datasets and name their identifiers, file size, origin and so forth.
 
     {{0-1}}
 The data types you choose to publish have consequences for your Research Data Management in regard to the "Accessible", "Interoperable" and "Reusable" Criteria of the FAIR Guidelines.
 
     {{0}}
-**1. Accessible**  --> Make sure that (meta)data are long-term accessible
+**1. Accessible**  --> Make sure that (meta)data are long-term accessible.
 
     {{0-1}}
-    The amount of memory space needed for long-term, save storage may vary greatly between data types. For example, if your reasearch data consist  of high-resolution images of potential wind turbine sites, memory space needed for backup and repositories will be much higher than a handful of CSV files with projected power loads.
+    The amount of memory space needed for long-term, safe storage may vary greatly between data types. For example, if your reasearch data consist  of high-resolution images of potential wind turbine sites, memory space needed for backup and repositories will be much higher than a handful of CSV files with projected power loads.
 
     {{0}}
 **2. Interoperable** --> Use tools and software that are FAIR themselves
 
     {{0-1}}
-    Strive to choose, where possible, programmes and data types that are open and FAIR. For example, do not describe your processing details in a .pdf file, but rather use a .txt-file that can be read and edited with various programs.
+    Strive to choose, where possible, programs and data types that are open and FAIR. For example, do not describe your processing details in a .pdf file, but rather use a .txt-file that can be read and edited with various programs.
 
     {{0}}
-**3. Reusable** --> know and meet community standards
+**3. Reusable** --> Know and meet community standards
 
     {{0-1}}
-    Which data types are most likely to be found, easily reused and shared in your scientific community? If these are "closed", you could provide two files: one that adheres to the common standards and a more open alternative that promotes the idea of open science. 
+    Which data types are most likely to be found, easily reused and shared in your scientific community? If these are "closed", you could provide two files: one that adheres to the common standards and one more open alternative that promotes the idea of open science. 
 
     {{1-2}}
 > **Exercise:**
@@ -494,7 +494,7 @@ Source: translated and adapted from [forschungsdaten.info](https://forschungsdat
     {{2}}
 >**DMP Task**: 
 >
-> If you already know datasets that you will be (re-)using or producing, enter them in your DMP as thoroughly as you can at this point. 
+> If you already know datasets that you will be (re-)using or producing, enter them in your DMP as thoroughly as possible at this point. 
 >
 > If you do not know your datasets yet, enter one or two "dummy" datasets and follow the respective questionnaire to get an idea of the amount of detail required in the DMP.
 
@@ -502,7 +502,7 @@ Source: translated and adapted from [forschungsdaten.info](https://forschungsdat
 ### Software and Simulation
 
     {{0-1}}
-Simulations and software programmes are a special case. Here, not only the resulting datasets are of scientific value but also the programmes, algorithms and settings leading up to the data.Research programmes and simulation software are essential in energy research. Some researchers are very reluctant in sharing this part of their research work, sometimes because of economic considerations. 
+Simulations and software programs are a special case. Here, not only the resulting datasets are of scientific value but also the programs, algorithms and settings leading up to the data. Research programs and simulation software are essential in energy research. Some researchers are very reluctant in sharing this part of their research work, sometimes because of economic considerations. 
 
     {{0-1}}
 The German Research Alliance (DFG) adresses software development in a research context in its [Guidelines for Safeguarding Good Research Practice](https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/index.html), stating that "software programmed by researchers is made publicly available along with the source code". The source code must be persistent, citable and documented. Certain individual exceptions are possible, though.
@@ -511,17 +511,11 @@ The German Research Alliance (DFG) adresses software development in a research c
 So, whether you plan to publish some, all or none of your self-developed software, you have to document well, plan ahead and ensure a good access strategy in your development team.
 
     {{0-1}}
-- Versioning
+- Versioning: Various cloud programming platforms such as [GitLab](https://about.gitlab.com/de-de/) ensure a consistent preservation of all of your software versions, make contributions transparent and simplify collaboration.
 
-    Various cloud programming platforms such as [GitLab](https://about.gitlab.com/de-de/) ensure a consistent preservation of all of your software versions, make contributions transparent and simplify collaboration.
+- Documentation: Programs should be documented and commented, e.g. by stating origin, purpose and scope of a program, limitations of variables and ideally a short manual.
 
-- Documentation
-
-  Programmes should be documented and commented, e.g. by stating origin, purpose and scope of a programme, limitations of variables and ideally a short manual.
-
-- Publication
-
-  With journal publication of an article, corresponding software should be cited with version number and a persistent identifier such as a DOI. Choose a software archive with version control. Sometimes, timely open access is not possible. In this case, at least the algorithm used must be outlined completely. If the source code is not published, state the reason and potentially the time period until release.
+- Publication: With journal publication of an article, corresponding software should be cited with version number and a persistent identifier such as a DOI. Choose a software archive with version control. Sometimes, timely open access is not possible. In this case, at least the algorithm used must be outlined completely. If the source code is not published, state the reason and potentially the time period until release.
 
     {{1}}
  __Simulation__
@@ -530,29 +524,29 @@ So, whether you plan to publish some, all or none of your self-developed softwar
 With regard to simulation, we are presented with some additional challenges. 
 
     {{1-2}}
-The longevity of simulation outputs is harder to assess than of observational data. In a 2021 paper on Open Science in Earth System Modelling, [Mullendore et. al. (2021)](https://doi.org/10.3389/fclim.2021.763420) indentify the following problems:
+The longevity of simulation outputs is harder to assess than that of observational data. In a paper from 2021 on Open Science in Earth System Modelling, [Mullendore et. al. (2021)](https://doi.org/10.3389/fclim.2021.763420) indentify the following problems:
 
     {{1-2}}
-- Simulations can generate massive output 
+- Simulations can generate massive output. 
 - Interdependencies between hardware and software can limit the portability of models and make the longterm accessibility of their output problematic. Models in many cases involve interconnections between community models, open source software components, and custom code written to investigate particular scientific questions. 
-- A lack of standardization and documentation for models and their output makes it difficult to achieve the goals of open and FAIR data initiatives
+- A lack of standardization and documentation for models and their output makes it difficult to achieve the goals of open and FAIR data initiatives.
 
 {{1-2}}The following strategies may be applied when working with simulations: 
 
     {{1-2}}
  - Analyze your project: does it focus on **knowledge** or **data production**? "Most scientific research projects are undertaken with the main goal of knowledge production (e.g., running an experiment with the goal of publishing research findings). Other projects are designed and undertaken with the specific goal of data production, that is, they produce data with the intention that those data will be used by others to support knowledge production research." [(Mullendore et. al. (2021))](https://doi.org/10.3389/fclim.2021.763420)
 -  Publish all elements relevant to the simulation, not just source code. 
-- Publish enough output data to evaluate and reuse your findings, but not all simulation runs
+- Publish enough output data to evaluate and reuse your findings, but not all simulation runs.
 - Some software may be released openly while others remain restricted due to security or proprietary concerns. In this case, the documentation should provide enough information to reproduce the process.
     
-{{1-2}}![simulation](img/simulation.png "Mullendore et. al. (2021): Data and software elements to be preserved and shared by all projects.")
+{{1-2}}![simulation](img/simulation.png  "[Mullendore et. al. (2021):](https://doi.org/10.3389/fclim.2021.763420) Data and software elements to be preserved and shared by all projects.")
 
     {{2-3}}
 __Checklist for FDM in simulation and software development:__
 
     {{2-3}}
 - Train yourself and your team in software development quality
-- State the purpose of each programme in a few words
+- State the purpose of each program in a few words
 - Keep your software up to date with quality management
 - Keep the intention of every function clear (by naming or comments) 
 - Choose an appropriate license
@@ -561,7 +555,7 @@ __Checklist for FDM in simulation and software development:__
     {{3}}
 >**DMP Task**: 
 >
-> If you have self-developed programmes in your project, enter them as a separate dataset in your DMP, name all contributors and the purpose of each programme.
+> If you have self-developed programs in your project, enter them as a separate dataset in your DMP, name all contributors and the purpose of each programme.
 
 
     {{4}}
@@ -640,7 +634,7 @@ Backup needs to be prepared by well-structured and named data. When naming files
 | 20230315_location5_processed     | original.jpg|
 | 2018_weatherlogfiles     | table1_john(copy)  |
 
-{{0-1}} Source: inspired by Biernacka et al (2020): p. 31.
+{{0-1}} Source: inspired by [Biernacka et al (2020)] (https://doi.org/10.5281/zenodo.4071471): p. 31.
 
     --{{0}}--
 You should develop a back-up policy early on in your project, since later down the road it is very hard to re-structure established processes. 
@@ -697,7 +691,7 @@ __It's Quiz Time__
 [[ ]] Storage on university servers with automatic regular backup. (B)
 [[ ]] Backup of important files in at least three copies on spatially separated storage media. (D)
 [[ ]] Regularly backing up data and testing data recovery (K)
-[[x]] deleting unnecessary files to save storage space (E)
+[[x]] Deleting unnecessary files to save storage space (E)
 
     {{1}}
 3.	What are some physical protection measures for data? 
@@ -771,7 +765,7 @@ You can find a list of existing standards in the [RDA's Metadata Standards Catal
     {{1-2}}
 - [DOIs (digital object identifiers)](https://www.doi.org/): This standard defines which information is required to be provided with a dataset (e.g. author, title), which is recommended (e.g. discipline, description) and which are optional (e.g. funding, licenses). Data are published as .xml. 
 
-- [PREMIS](https://www.loc.gov/standards/premis/) is a standard for administrative metadata in longterm storage describing relationships of contributors, and rights. 
+- [PREMIS](https://www.loc.gov/standards/premis/) is a standard for administrative metadata in longterm storage, describing relationships of contributors and rights. 
 
 - [METS (Metadata Encoding & Transmission Standard)](http://www.loc.gov/standards/mets/) is a container standard specifying a structure of seven sections: header, descriptive metadata, administrative details, file section, structural map, structural links and behavior. 
 
@@ -798,14 +792,14 @@ The Open Energy Platform offers an ontology that is under constant development. 
 >
 >3. How are the data structured? How are the individual components related?
 >
->4. Are you planning to assign persistent identifiers (PIDs)for the datasets?
+>4. Are you planning to assign persistent identifiers (PIDs) for the datasets?
 >
 >5. Describe costs related to metadata and PID assignment.
 >
 >6. Describe other information on generation, analysis and processing of the data.
 
     {{3}}
-Source: [forschungsdaten.info](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-und-metadatenstandards/), translated by A.Ahrens, licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+Source: [forschungsdaten.info](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-und-metadatenstandards/), translated by A. Ahrens, licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 
 ### Repositories
@@ -846,7 +840,7 @@ Features of the Open Energy Platform:
 
     {{1-2}}
 - Upload via github 
-- Data Comparison with other projects
+- Data comparison with other projects
 - Take part in developing a domain ontology for energy system sciences
 - Data Review Service 
     
