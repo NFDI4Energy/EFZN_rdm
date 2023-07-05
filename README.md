@@ -216,7 +216,7 @@ The main idea behind the FAIR principles is: __As open as possible, as closed as
 
 ![FAIR Guiding Principles](img/FAIR.png "Fair Guiding Principles by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://www.go-fair.org/fair-principles/")
 
-  <!-- --{{0}}--
+<!-- --{{0}}--
 As open as possible, as closed as necessary. This is the main idea behind the FAIR principles. The acronym stands for: Findable, Accessible, Interoperable and Re-Usable.
 
 In Detail, that means:
@@ -329,28 +329,28 @@ Because research projects have very diverse legal requirements, consider the fol
 
 ### Licenses
 
-    {{0-1}}
+    {{0}}
 The internet has made it incredibly easy for people to share and collaborate. However, copyright laws can often pose obstacles to this process. Generally, others cannot use or remix your work without obtaining your permission first.
 But what if you want to encourage others to reuse your work? In such cases, you may consider publishing your work under a [Creative Commons](https://creativecommons.org/) or [GNU General Public license](https://www.gnu.org/licenses/). 
 
 
-    {{0-1}}
+  
 Creative Commons licenses are a set of copyright licenses that allow creators to grant others permission to use their work. These licenses are designed to be easily understood and applied, providing a flexible framework for sharing and collaboration. By assigning a Creative Commons license, researchers can clearly communicate how others can use, distribute, modify, and build upon their work.
 
-    {{0-1}}
+    
 For software, you may also use a [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), guaranteeing end users the four freedoms to run, study, share, and modify the software. For other options to license software, you can consult [this Wikipedia comparison](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses). 
 
-    {{0-1}}
+    
 So "free" licenses provide you with the flexibility to choose which rights you wish to retain and allow you to clearly communicate to others how they can use your work. This way, you can strike a balance between protecting your rights as author and fostering a culture of sharing and collaboration on the internet.
 
     {{1}}
 __Step 1: Selecting License Features__ 
 
-    {{1-2}}
+    
 First, you need to choose the specific conditions that you want to apply to your work. Here are the "building blocks" to consider:
 
-    {{1-2}}
-1.	__Attribution (BY):__ requires to give attribution to the creator.  
+    
+1.	__Attribution (BY):__ Requires to give attribution to the creator.  
 
 2.	__ShareAlike (SA):__ If others use your work, they are required to share it under the same conditions that you specified.
 
@@ -359,36 +359,36 @@ First, you need to choose the specific conditions that you want to apply to your
 4.	__NonCommercial (NC):__ This feature allows the reuse of your work only for non-commercial purposes.
 
     
-{{1-2}} These features can now be combined to make the license of your choice:
+ These features can now be combined to make the license of your choice:
 
-    {{1-2}}
+   
 ![CC License Requirements](img/CCLicenseChart.png "Foter.com (2015): CC License Requirements. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
 
-    {{1-2}}
+   
 You may also choose to give your work to the Public Domain and resign all rights you have by assigning "CC0".
 
     {{2}}
 __Step 2: Obtaining a License__
 
-    {{2-3}}
+    
 When giving attribution to a Creative Commons-licensed work, it's important to follow certain guidelines. A useful mnemonic to remember is __TASL__, which represents the key elements to include:
 
-    {{2-3}}
+    
 1.	Title: Include the name of the material if it has been provided. This helps to identify the specific work you are attributing.
 2.	Author: Clearly state the name of the person or entity that owns the material. This gives credit to the original creator of the work.
 3.	Source: Mention where you found the material. Provide the URL or hyperlink that directs others to the location where the work is hosted. This allows others to easily access the original source.
 4.	License: Specify the specific Creative Commons license that applies to the work. Simply saying "Creative Commons" is not sufficient. Name the CC license and provide a direct link to the license text. This informs others of the rights and permissions granted by the license.
 
     
-{{2-3}} A final word on "openness": you might be tempted to protect as many of your rights as possible. Try to think the other way around, though: how open can you make your data? For example, a researcher from a commercial institution might be prohibited to use your data because of its NC-license or someone else might be forced to reproduce datasets because they are licensed under CC-BY-ND.
+A final word on "openness": you might be tempted to protect as many of your rights as possible. Try to think the other way around, though: how open can you make your data? For example, a researcher from a commercial institution might be prohibited to use your data because of its NC-license or someone else might be forced to reproduce datasets because they are licensed under CC-BY-ND.
 
-    {{2-3}}
+    
 ![Degrees of Freedom](img/Foter.com_infographic_CC.jpg "Foter.com (2015): Degrees of Freedom. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
 
     {{3}}
 __It's Quiz Time!__
 
-    {{3}}
+   
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=587d9a6c-9889-440d-ba19-2f16d2d5f23b" width="100%" height="600" frameborder="0" allowfullscreen="allowfullscreen" title="Quiz - Licensing in RDM" ></iframe>
 
 
