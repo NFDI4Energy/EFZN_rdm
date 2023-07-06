@@ -49,9 +49,9 @@ The reason for this was the overload of critical systems on which COBOL is still
 
 Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
 
->__Exercise:__ 
->
->Suggest two possible process changes that could have prevented the outcome of the scenario:
+> __Exercise:__ 
+> 
+> Suggest two possible process changes that could have prevented the outcome of the scenario:
 
 <details>
 
@@ -77,7 +77,7 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 
 
     
->**Exercise**: 
+> __Exercise:__
 > Look at each step of the cycle with your data in mind: 
 >
 > - Which steps do you actively apply in your research process?
