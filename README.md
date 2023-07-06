@@ -142,46 +142,46 @@ __It's Quiz Time__
 1. RDM helps preserve time that is otherwise lost while:
 
     {{3}}
-[[ ]] Collecting data (M)
-[[ ]] Analyzing data (A)
-[[x]] Searching for, recovering, and deciphering data (W)
-[[ ]] Archiving data (G)
+    [[ ]] Collecting data (M)
+    [[ ]] Analyzing data (A)
+    [[x]] Searching for, recovering, and deciphering data (W)
+    [[ ]] Archiving data (G)
 
     {{3}}
 2. One of the benefits of RDM is making data:
 
     {{3}}
-[[ ]] Irreversible (F)
-[[ ]] Obsolete (R)
-[[x]] Reusable (O) 
-[[ ]] Inaccessible (S)
+    [[ ]] Irreversible (F)
+    [[ ]] Obsolete (R)
+    [[x]] Reusable (O) 
+    [[ ]] Inaccessible (S)
 
     {{3}}
 3. RDM enables researchers to benefit from high-quality datasets from:
 
    {{3}}
-[[ ]] Social media platforms (C)
-[[x]] Other researchers (R) 
-[[ ]] Government agencies (L)
-[[ ]] Non-profit organizations (E)
+    [[ ]] Social media platforms (C)
+    [[x]] Other researchers (R) 
+    [[ ]] Government agencies (L)
+    [[ ]] Non-profit organizations (E)
 
     {{3}}
 4. RDM can influence research developments:
 
     {{3}}
-[[ ]] Immediately after the original research is completed (T)
-[[ ]] Only within the same discipline (U)
-[[x]] Continually, long after the original research is completed (L)
-[[ ]] Only across disciplines (D)
+    [[ ]] Immediately after the original research is completed (T)
+    [[ ]] Only within the same discipline (U)
+    [[x]] Continually, long after the original research is completed (L)
+    [[ ]] Only across disciplines (D)
 
     {{3}}
 5. One way RDM helps prevent errors is by:
 
     {{3}}
-[[ ]] Encrypting data (S)
-[[ ]] Backing up data (Q)
-[[x]] Synchronizing records (D) 
-[[ ]] Archiving data (Y)
+    [[ ]] Encrypting data (S)
+    [[ ]] Backing up data (Q)
+    [[x]] Synchronizing records (D) 
+    [[ ]] Archiving data (Y)
 
 ## Open Science and RDM
 
@@ -415,28 +415,28 @@ __It's Quiz Time!__
 1. What are some aspects of access security?
 
      {{1}}
-[[x]] Privacy, integrity, availability, and controllability (S)
-[[ ]] Authentication, encryption, authorization, and auditing (L)
-[[ ]] Authentication, vulnerability assessment, encryption, and monitoring (V)
-[[ ]] Privacy, vulnerability assessment, authorization, and auditing (O)
+    [[x]] Privacy, integrity, availability, and controllability (S)
+    [[ ]] Authentication, encryption, authorization, and auditing (L)
+    [[ ]] Authentication, vulnerability assessment, encryption, and monitoring (V)
+    [[ ]] Privacy, vulnerability assessment, authorization, and auditing (O)
 
     {{1}}
 2.	What is a recommended practice for password protection? 
 
     {{1}}
-[[ ]] Use sequential characters on the keyboard for easy memorization (B) 
-[[ ]] Use dictionary words to make passwords more secure (R)
-[[x]] Use strong passwords with at least eight characters, including upper and lower case letters, special characters, and numbers (T)
-[[ ]] Avoid using special characters and numbers in passwords (P)
+    [[ ]] Use sequential characters on the keyboard for easy memorization (B) 
+    [[ ]] Use dictionary words to make passwords more secure (R)
+    [[x]] Use strong passwords with at least eight characters, including upper and lower case letters, special characters, and numbers (T)
+    [[ ]] Avoid using special characters and numbers in passwords (P)
 
     {{1}}
 3.	What is the purpose of access rights and role assignment? 
 
     {{1}}
-[[x]] To limit access to sensitive data to authorized individuals only (D)
-[[ ]] To increase data availability for all users (U)
-[[ ]] To delegate data backup responsibilities to multiple individuals (H)
-[[ ]] To restrict data access based on file formats (A)
+    [[x]] To limit access to sensitive data to authorized individuals only (D)
+    [[ ]] To increase data availability for all users (U)
+    [[ ]] To delegate data backup responsibilities to multiple individuals (H)
+    [[ ]] To restrict data access based on file formats (A)
 
 
 ## Infrastructure
@@ -564,55 +564,55 @@ __Checklist for FDM in simulation and software development:__
 1. What is the principle behind "as open as possible, as closed as necessary"?
 
     {{4}}
-[[ ]] Openly sharing all research data and tools (G)
-[[ ]] Using closed and proprietary software for data analysis (U)
-[[x]] Striving to choose open and FAIR tools and data types when possible (A)
-[[ ]]Restricting access to research data and tools (W)
+    [[ ]] Openly sharing all research data and tools (G)
+    [[ ]] Using closed and proprietary software for data analysis (U)
+    [[x]] Striving to choose open and FAIR tools and data types when possible (A)
+    [[ ]]Restricting access to research data and tools (W)
 
     {{4}}
 2. What should researchers do if timely open access to the software is not possible?
 
     {{4}}
-[[ ]] Provide a detailed algorithm without outlining the source code. (I)
-[[ ]] Delay the publication of the article until the software is open access. (P)
-[[x]] State the reason for not publishing the source code and the expected release timeframe. (T)
-[[ ]] Exclude any mention of the software in the article. (S)
+    [[ ]] Provide a detailed algorithm without outlining the source code. (I)
+    [[ ]] Delay the publication of the article until the software is open access. (P)
+    [[x]] State the reason for not publishing the source code and the expected release timeframe. (T)
+    [[ ]] Exclude any mention of the software in the article. (S)
 
     {{4}}
 3. What are the challenges associated with the longevity of simulation outputs?
 
     {{4}}
-[[ ]] Simulation outputs are easily assessable and portable. (M)
-[[ ]] Simulation outputs are often small in size, making long-term accessibility simple. (N)
-[[x]]Simulations can generate massive output, and interdependencies between hardware and software can limit their portability. (A)
-[[ ]] Standardization and documentation for simulation outputs are well-established. (X)
+    [[ ]] Simulation outputs are easily assessable and portable. (M)
+    [[ ]] Simulation outputs are often small in size, making long-term accessibility simple. (N)
+    [[x]]Simulations can generate massive output, and interdependencies between hardware and software can limit their portability. (A)
+    [[ ]] Standardization and documentation for simulation outputs are well-established. (X)
 
     {{4}}
 4. What should be done if some software used in simulations cannot be openly released?
 
     {{4}}
-[[ ]] Provide no documentation or information about the restricted software. (T)
-[[ ]] Exclude any mention of the restricted software in the documentation. (O)
-[[x]] Ensure the documentation provides enough information to reproduce the process. (M)
-[[ ]] Delay the publication until all software used in simulations can be openly released. (F)
+    [[ ]] Provide no documentation or information about the restricted software. (T)
+    [[ ]] Exclude any mention of the restricted software in the documentation. (O)
+    [[x]] Ensure the documentation provides enough information to reproduce the process. (M)
+    [[ ]] Delay the publication until all software used in simulations can be openly released. (F)
 
     {{4}}
 5. What is one of the considerations for ensuring long-term accessibility of research data?
 
     {{4}}
-[[ ]] Using tools and software that are FAIR themselves. (V)
-[[x]] Choosing data types that require minimal memory space. (A)
-[[ ]] Storing data in repositories with high backup capacity. (J)
-[[ ]] Describing processing details in a .pdf file. (Z)
+    [[ ]] Using tools and software that are FAIR themselves. (V)
+    [[x]] Choosing data types that require minimal memory space. (A)
+    [[ ]] Storing data in repositories with high backup capacity. (J)
+    [[ ]] Describing processing details in a .pdf file. (Z)
 
     {{4}}
 6. What are the recommended characteristics of software documentation in research?
 
     {{4}}
-[[ ]] Avoid documenting the origin, purpose, and scope of the program. (R)
-[[ ]]Provide a detailed manual with step-by-step instructions. (K)
-[[x]] Comment the program with limitations of variables. (N)
-[[ ]] Keep the documentation minimal and concise. (C)
+    [[ ]] Avoid documenting the origin, purpose, and scope of the program. (R)
+    [[ ]]Provide a detailed manual with step-by-step instructions. (K)
+    [[x]] Comment the program with limitations of variables. (N)
+    [[ ]] Keep the documentation minimal and concise. (C)
 
 ### Back-Up
 
@@ -678,55 +678,55 @@ __It's Quiz Time__
 1. What are some risks that can lead to data loss?
 
     {{1}}
-[[x]] Technical defects, catastrophes, theft, oblivion (A)
-[[x]] Software updates, power outages, human error and viruses (G)
-[[x]] Natural disasters, software malfunctions, hardware upgrades (E)
-[[x]] Data corruption, cyber attacks, accidental deletion, system crashes (M)
+    [[x]] Technical defects, catastrophes, theft, oblivion (A)
+    [[x]] Software updates, power outages, human error and viruses (G)
+    [[x]] Natural disasters, software malfunctions, hardware upgrades (E)
+    [[x]] Data corruption, cyber attacks, accidental deletion, system crashes (M)
 
     {{1}}
 2. Which of the following is NOT a atretegy for data protection?
 
     {{1}}
-[[ ]] Storage on university servers with automatic regular backup. (B)
-[[ ]] Backup of important files in at least three copies on spatially separated storage media. (D)
-[[ ]] Regularly backing up data and testing data recovery (K)
-[[x]] Deleting unnecessary files to save storage space (E)
+    [[ ]] Storage on university servers with automatic regular backup. (B)
+    [[ ]] Backup of important files in at least three copies on spatially separated storage media. (D)
+    [[ ]] Regularly backing up data and testing data recovery (K)
+    [[x]] Deleting unnecessary files to save storage space (E)
 
     {{1}}
 3.	What are some physical protection measures for data? 
 
     {{1}}
-[[ ]] FileVault, Bitlocker, dm-crypt (T)
-[[ ]] Password protection, two-factor authentication, role assignment (I)
-[[x]] Lockable rooms, safes, data trustees (N)
-[[ ]] Regular data backups, firewall protection, antivirus software (U)
+    [[ ]] FileVault, Bitlocker, dm-crypt (T)
+    [[ ]] Password protection, two-factor authentication, role assignment (I)
+    [[x]] Lockable rooms, safes, data trustees (N)
+    [[ ]] Regular data backups, firewall protection, antivirus software (U)
 
     {{1}}
 4.	Why is secure data handling important?
 
     {{1}}
-[[x]] To prevent accidental data deletion (T)
-[[x]] To protect against data theft and misuse (P)
-[[ ]] To increase data storage capacity (W)
-[[ ]] To improve system performance and speed (A)
+    [[x]] To prevent accidental data deletion (T)
+    [[x]] To protect against data theft and misuse (P)
+    [[ ]] To increase data storage capacity (W)
+    [[ ]] To improve system performance and speed (A)
 
     {{1}}
 5. What is the recommended strategy for backup?
 
     {{1}}
-[[ ]] At least two copies of a file on two different media, one of which is decentralized (W)
-[[ ]] At least three copies of a file on three different media, one of which is decentralized (C)
-[[x]] At least three copies of a file on two different media, one of which is decentralized (L) 
-[[ ]] At least two copies of a file on three different media, one of which is decentralized (M) 
+    [[ ]] At least two copies of a file on two different media, one of which is decentralized (W)
+    [[ ]] At least three copies of a file on three different media, one of which is decentralized (C)
+    [[x]] At least three copies of a file on two different media, one of which is decentralized (L) 
+    [[ ]] At least two copies of a file on three different media, one of which is decentralized (M) 
 
     {{1}}
 6.	What is the difference between backup and archiving?
 
     {{1}}
-[[ ]]Backup is the storage of selected data for long-term storage, while archiving is the automatic backup of all data. (S)
-[[ ]]Backup involves making multiple copies of data, while archiving involves storing final versions only. (R)
-[[ ]] Backup is the protection against data theft, while archiving is the prevention of data misuse. (U)
-[[x]] Backup is the (semi)automatic backup of all data, while archiving is the backup of selected data for long-term storage. (A)
+    [[ ]]Backup is the storage of selected data for long-term storage, while archiving is the automatic backup of all data. (S)
+    [[ ]]Backup involves making multiple copies of data, while archiving involves storing final versions only. (R)
+    [[ ]] Backup is the protection against data theft, while archiving is the prevention of data misuse. (U)
+    [[x]] Backup is the (semi)automatic backup of all data, while archiving is the backup of selected data for long-term storage. (A)
 
 
 ## Metadata
