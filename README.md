@@ -69,14 +69,14 @@ RDM includes all activities associated with processing, storage, preserving and 
 
 ### The Research Data Lifecycle
 
-    {{0-1}}
+    
 ![DataLifecycle](img/DataLifecycle.png "The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)")
 
-    --{{0}}--
+    
 The "Research Data Lifecycle" describes a cyclic process of data generation and management. First, data is created, then processed. The next step is analyzing the data, followed by preserving the results. Now, it is time to give access to the data. Ideally, the cycle closes at this point: Data is being re-used and new, well-documented data is being created.
 
 
-    {{0-1}}
+    
 >**Exercise**: 
 > Look at each step of the cycle with your data in mind: 
 >
@@ -666,7 +666,7 @@ When archiving data, it is crucial to ensure its integrity. This means that the 
 There are various commercial providers for back-up and archiving solutions. Consider the following questions before choosing one:
 
     {{0-1}}
-- Does it carry a seal for trustworthy long-term archives (e.g. CoreTrustSeal, nestor seal, DIN 31644)?
+- Does it carry a seal for trustworthy long-term archives (e.g. [CoreTrustSeal](https://www.coretrustseal.org/), [nestor seal],(https://www.langzeitarchivierung.de/Webs/nestor/EN/Zertifizierung/nestor_Siegel/nestor_siegel_node.html) [DIN 31644](https://www.din.de/de/mitwirken/normenausschuesse/nid/veroeffentlichungen/wdc-beuth:din21:147058907))?
 - Does it fulfill your technical requirements?
 - Can you cover the expenses?
 - Is the data readily available to you?
