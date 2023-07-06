@@ -49,7 +49,7 @@ The reason for this was the overload of critical systems on which COBOL is still
 
 Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
 
-> __Exercise:__ 
+> **Exercise**: 
 > 
 > Suggest two possible process changes that could have prevented the outcome of the scenario:
 
