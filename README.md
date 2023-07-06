@@ -107,9 +107,9 @@ If done right, RDM will...
     {{1-2}}
 1. __save time, resources, effort and money:__
 
-   - Preserve time that is otherwise lost while searching for, recovering, and deciphering data
-   - Make data reusable
-   - Enable you to benefit from high quality datasets from other researchers
+   - Preserve time that is otherwise lost while searching for, recovering, and deciphering data.
+   - Make data reusable.
+   - Benefit from high quality datasets from other researchers.
 
 
 2. __improve impact and speed up scientific progress:__
