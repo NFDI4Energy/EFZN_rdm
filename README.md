@@ -450,7 +450,7 @@ Source: Nationale Forschungsdaten Infrastruktur (NFDI) (2023): Available at: htt
 
 ### Data Types
 
-    --{{0-1}}--
+    {{0-1}}
 Depending on your field of expertise, there will be different data types relevant to your work. In your DMP, you can specify individual datasets and name their identifiers, file size, origin and so forth.
 
     {{0-1}}
@@ -665,7 +665,7 @@ When archiving data, it is crucial to ensure its integrity. This means that the 
 There are various commercial providers for back-up and archiving solutions. Consider the following questions before choosing one:
 
     {{0-1}}
-- Does it carry a seal for trustworthy long-term archives (e.g. [CoreTrustSeal](https://www.coretrustseal.org/), [nestor seal],(https://www.langzeitarchivierung.de/Webs/nestor/EN/Zertifizierung/nestor_Siegel/nestor_siegel_node.html) [DIN 31644](https://www.din.de/de/mitwirken/normenausschuesse/nid/veroeffentlichungen/wdc-beuth:din21:147058907))?
+- Does it carry a seal for trustworthy long-term archives (e.g. [CoreTrustSeal](https://www.coretrustseal.org/), [nestor seal](https://www.langzeitarchivierung.de/Webs/nestor/EN/Zertifizierung/nestor_Siegel/nestor_siegel_node.html), [DIN 31644](https://www.din.de/de/mitwirken/normenausschuesse/nid/veroeffentlichungen/wdc-beuth:din21:147058907))?
 - Does it fulfill your technical requirements?
 - Can you cover the expenses?
 - Is the data readily available to you?
