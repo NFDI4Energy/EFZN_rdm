@@ -18,7 +18,7 @@ script: https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
         https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 link:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
-        style.css
+        https://cdn.jsdelivr.net/gh/NFDI4Energy/EFZN_rdm@main/style.css
 -->
 
 # Research Data Management
