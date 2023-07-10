@@ -69,13 +69,13 @@ RDM includes all activities associated with processing, storage, preserving and 
 
 ### The Research Data Lifecycle
 
-
+    {{0-1}}
 ![DataLifecycle](img/DataLifecycle.png "The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)")
 
-    
+    {{0-1}}
 The "Research Data Lifecycle" describes a cyclic process of data generation and management. First, data is created, then processed. The next step is analyzing the data, followed by preserving the results. Now, it is time to give access to the data. Ideally, the cycle closes at this point: Data is being re-used and new, well-documented data is being created.
 
-    
+    {{0-1}}
 > __Exercise:__
 > Look at each step of the cycle with your data in mind: 
 >
