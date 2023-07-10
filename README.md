@@ -18,7 +18,7 @@ script: https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
         https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 link:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
-
+        style.css
 -->
 
 # Research Data Management
@@ -83,6 +83,7 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 > -  Which tools or software do you use at each step? 
 > - How well is the data protected against data loss? Where are possible flaws where data or information could get lost?
 > - Does the cycle "close"? Which repositories or platforms do you use to store your results?
+
 
 
 ### Benefits of RDM
