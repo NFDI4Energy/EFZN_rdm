@@ -81,10 +81,10 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 > __Exercise:__
 > Look at each step of the cycle with your data in mind: 
 >
-> - Which steps do you actively apply in your research process?
-> -  Which tools or software do you use at each step? 
-> - How well is the data protected against data loss? Where are possible flaws where data or information could get lost?
-> - Does the cycle "close"? Which repositories or platforms do you use to store your results?
+>- Which steps do you actively apply in your research process?
+>-  Which tools or software do you use at each step? 
+>- How well is the data protected against data loss? Where are possible flaws where data or information could get lost?
+>- Does the cycle "close"? Which repositories or platforms do you use to store your results?
 
 </section>
 
