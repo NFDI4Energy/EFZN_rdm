@@ -21,6 +21,10 @@ link:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 -->
 
+<!--
+link: style.css
+-->
+
 # Research Data Management
 
 ![Logo-Block](img/Logoblock.png)
