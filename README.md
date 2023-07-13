@@ -73,7 +73,7 @@ RDM includes all activities associated with processing, storage, preserving and 
 
     {{0-1}}
 <figure>
-  <img align="right" src="img/DataLifecycle.png" alt="DataLifecycle" width="800" /> 
+  <img align="right" src="img/DataLifecycle.png" alt="DataLifecycle" width="560" height="530" /> 
   <figcaption>The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)</figcaption>
 </figure>
 
