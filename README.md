@@ -21,6 +21,13 @@ link:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
         https://cdn.jsdelivr.net/gh/NFDI4Energy/EFZN_rdm@main/style.css
 -->
 
+<script type="text/javascript">
+  function resizeIframe(obj){
+     obj.style.height = 0;
+     obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
+
 # Research Data Management
 
 ![Logo-Block](img/Logoblock.png)
@@ -38,7 +45,7 @@ There are three possible ways to work with this course:
 A quick word on the course format. The course is written in [Markdown](https://de.wikipedia.org/wiki/Markdown) and implemented in [LiaScript](https://liascript.github.io/). 
 In the upper right corner, you can switch between textbook mode, presentation mode and slides. You may choose to have the course read aloud to you by clicking on the symbol on the bottom of the page in presentation mode. If you want to adapt the course for your own use, you may do so by going on [GitHub](https://github.com/NFDI4Energy/EFZN_rdm) and opening a branch of your own or downloading individual files. 
 
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=291a02e3-2fd0-4276-b49d-37c205fe945d" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=291a02e3-2fd0-4276-b49d-37c205fe945d" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector" onload='resizeIframe(this)' style="overflow:hidden;"></iframe>
 
 
 ## What is Research Data Management?
