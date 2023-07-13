@@ -827,6 +827,8 @@ Choosing the right repository is often regulated by your institution or funding 
     {{0-1}}
 If you are free to choose a repository, you should use one that is common for your field or discpline. If you are unsure, go to the [Registry of Research Data Repositories (r3data)](https://www.re3data.org/), where a wide range of platforms are listed.
 
+<br>
+
     --{{0}}--
 If your license terms allow, you may upload your data on multiple platforms. Make sure to use PIDs and cross-reference to link the data to your published article. 
 
