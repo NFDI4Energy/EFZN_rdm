@@ -751,10 +751,10 @@ Metadata in research contain structural information on research results such as 
     {{0-1}}
 | Type                    | Content    | Function   |
 | :---------------------- | :--------- | :--------- |
-| [[bibliographic]] metadata  | title, author, description, keywords    | make data findable and thematically fitting |
-| [[administrative]] metadata | data types, location, access rights, licenses     | administration, long-term preservation  |
-| [[process]] metadata        | methods, tools, analysis steps    | reproducibility, traceability    |
-| [[descriptive]] metadata    | additional information on content, scope and data genesis    | close information gaps     |
+| [[bibliographic  ]] metadata  | title, author, description, keywords    | make data findable and thematically fitting |
+| [[administrative  ]] metadata | data types, location, access rights, licenses     | administration, long-term preservation  |
+| [[process  ]] metadata        | methods, tools, analysis steps    | reproducibility, traceability    |
+| [[descriptive  ]] metadata    | additional information on content, scope and data genesis    | close information gaps     |
 
     {{1}}
 __Choosing the right standard__
