@@ -57,9 +57,11 @@ The reason for this was the overload of critical systems on which COBOL is still
 
 <summary> Solution (click to enlarge):</summary>
 
-> There are several solutions possible: Existing systems should be questioned, since requirements can change and established habits can lead to problems from today's perspective. For example, at some point data might no longer be able to be called up or might exist in formats that are increasingly difficult to be processed. A thorough documentation of the programs might also help in some cases to rebuild them in other languages. For timely relief, the administration called out to retired COBOL programmers to work on the issues.
+There are several solutions possible: Existing systems should be questioned, since requirements can change and established habits can lead to problems from today's perspective. For example, at some point data might no longer be able to be called up or might exist in formats that are increasingly difficult to be processed. A thorough documentation of the programs might also help in some cases to rebuild them in other languages. For timely relief, the administration called out to retired COBOL programmers to work on the issues.
 
 </details>
+
+<br>
 
 While maybe not as critical for society at large, scientists can face similar problems when trying to access old data or programs that were written for other purposes but are now needed for current tasks: Data are insufficiently labeled, have been overwritten, commercial computer programs have been discontinued or process details were not recorded.
 
@@ -70,7 +72,7 @@ RDM includes all activities associated with processing, storage, preserving and 
 ### The Research Data Lifecycle
 
     {{0-1}}
-![DataLifecycle](img/DataLifecycle.png "The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)")
+![DataLifecycle](img/DataLifecycle.png "The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)"){: style="float: right"}
 
     {{0-1}}
 The "Research Data Lifecycle" describes a cyclic process of data generation and management. First, data is created, then processed. The next step is analyzing the data, followed by preserving the results. Now, it is time to give access to the data. Ideally, the cycle closes at this point: Data is being re-used and new, well-documented data is being created.
