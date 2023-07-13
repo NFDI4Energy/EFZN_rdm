@@ -72,9 +72,9 @@ RDM includes all activities associated with processing, storage, preserving and 
 ### The Research Data Lifecycle
 
     {{0-1}}
-<figure align="right">
-  <img src="img/DataLifecycle.png" alt="DataLifecycle" width="560" height="530" /> 
+<figure align="right" style="float:right;">
   <figcaption>The Research Data Lifecycle. Original source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/), recreated by A. Ahrens. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.de)</figcaption>
+  <img src="img/DataLifecycle.png" alt="DataLifecycle" width="560" height="530" /> 
 </figure>
 
     {{0-1}}
@@ -88,8 +88,6 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 > -  Which tools or software do you use at each step? 
 > - How well is the data protected against data loss? Where are possible flaws where data or information could get lost?
 > - Does the cycle "close"? Which repositories or platforms do you use to store your results?
-
-
 
 ### Benefits of RDM
 
