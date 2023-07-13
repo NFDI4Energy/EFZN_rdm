@@ -650,12 +650,11 @@ A handy rule is the 3-2-1 rule:
     --{{1}}--
 The 3 2 1 rule states that you are to create at least three copies of your data, secure them on two different kinds of storage medium and make sure that one of those mediums is located off-site. This way, your data is protected from natural disaster, which will most likely only hit one location at a time, against accidental deletion and against deterioration of one kind of storage medium. For example, CDs have quite a long lifespan but CD drives as a reading device have become increasingly scarce.
 
- <br>
-
     {{1-2}}
 > __Exercise__:
 >
 > Which backup solutions does your institution offer? If they do not meet your requirements, calculate additional costs in order to include them in your project proposal.
+ <br>
 
 
 ### Archiving
