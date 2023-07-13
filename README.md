@@ -688,7 +688,7 @@ __It's Quiz Time__
     [[x]] Data corruption, cyber attacks, accidental deletion, system crashes (M)
 
     {{1}}
-2. Which of the following is NOT a atretegy for data protection?
+2. Which of the following is NOT a strategy for data protection?
 
     {{1}}
     [[ ]] Storage on university servers with automatic regular backup. (B)
