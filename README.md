@@ -31,14 +31,14 @@ The course focuses on applicability in the energy sector.
 
 There are three possible ways to work with this course: 
 
-1. Do you want to gain a thorough understanding of RDM? Follow the course outline described in the following graph. When you complete the course, you will have established a basic Data Management Plan for a project of your choice that you can build upon and adapt. 
-2. Are you looking for a challenge? In the quizzes, collect the letters that are in brackets after the correct solution and together they form the solution word. 
-3. Do you already have some knowledge of RDM? Great! Choose individual chapters that are of interest for your field of work by clicking on the plus-signs.
+1. Do you want to gain a thorough understanding of RDM? Follow the course outline described in the following graph. When you complete the course, you will have established a basic data management plan for a project of your choice that you can build upon and adapt. 
+2. Are you looking for a challenge? In the quizzes, collect the letters in brackets after the correct solution, and together they form the solution word. 
+3. Do you already have some knowledge of RDM? Great! Choose individual chapters that are of interest for your field of work by clicking on the plus signs.
 
 A quick word on the course format. The course is written in [Markdown](https://de.wikipedia.org/wiki/Markdown) and implemented in [LiaScript](https://liascript.github.io/). 
-In the upper right corner, you can switch between textbook mode, presentation mode and slides. You may choose to have the course read aloud to you by clicking on the symbol on the bottom of the page in presentation mode. If you want to adapt the course for your own use, you may do so by going on [GitHub](https://github.com/NFDI4Energy/EFZN_rdm) and opening a branch of your own or downloading individual files. 
+In the upper right corner, you can switch between textbook mode, presentation mode and slides. You can have the course read aloud by clicking on the symbol at the bottom of the page in presentation mode. If you want to adapt the course for your use, you may do so by going on [GitHub](https://github.com/NFDI4Energy/EFZN_rdm) and opening a branch or downloading individual files. 
 
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=291a02e3-2fd0-4276-b49d-37c205fe945d" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=291a02e3-2fd0-4276-b49d-37c205fe945d" width="100%" height="840" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
 
 
 ## What is Research Data Management?
@@ -57,9 +57,11 @@ Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschung
 
 <summary> Solution (click to enlarge):</summary>
 
-> There are several solutions possible: Existing systems should be questioned, since requirements can change and established habits can lead to problems from today's perspective. For example, at some point data might no longer be able to be called up or might exist in formats that are increasingly difficult to be processed. A thorough documentation of the programs might also help in some cases to rebuild them in other languages. For timely relief, the administration called out to retired COBOL programmers to work on the issues.
+There are several solutions possible: Existing systems should be questioned, since requirements can change and established habits can lead to problems from today's perspective. For example, at some point data might no longer be able to be called up or might exist in formats that are increasingly difficult to be processed. A thorough documentation of the programs might also help in some cases to rebuild them in other languages. For timely relief, the administration called out to retired COBOL programmers to work on the issues.
 
 </details>
+
+<br>
 
 While maybe not as critical for society at large, scientists can face similar problems when trying to access old data or programs that were written for other purposes but are now needed for current tasks: Data are insufficiently labeled, have been overwritten, commercial computer programs have been discontinued or process details were not recorded.
 
@@ -315,7 +317,7 @@ Congratulations! You have started your first DMP!
 **It`s Quiz Time!**
 
     {{3}}
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=981a8688-f44b-4811-a912-585d421daf82" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" title="Tools for RDM" ></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=981a8688-f44b-4811-a912-585d421daf82" width="100%" height ="750" frameborder="0" allowfullscreen="allowfullscreen" title="Tools for RDM" ></iframe>
 
 ## Legal Aspects
 
@@ -389,7 +391,7 @@ When giving attribution to a Creative Commons-licensed work, it's important to f
 __It's Quiz Time!__
 
     {{3}}
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=587d9a6c-9889-440d-ba19-2f16d2d5f23b" width="100%" height="600" frameborder="0" allowfullscreen="allowfullscreen" title="Quiz - Licensing in RDM" ></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=587d9a6c-9889-440d-ba19-2f16d2d5f23b" width="100%" height="740" frameborder="0" allowfullscreen="allowfullscreen" title="Quiz - Licensing in RDM" ></iframe>
 
 
 ### Access Rights
@@ -634,7 +636,7 @@ Backup needs to be prepared by well-structured and named data. When naming files
 | 20230315_location5_processed     | original.jpg|
 | 2018_weatherlogfiles     | table1_john(copy)  |
 
-{{0-1}} Source: inspired by [Biernacka et al (2020)] (https://doi.org/10.5281/zenodo.4071471): p. 31.
+{{0-1}} Source: inspired by [Biernacka et al (2020)](https://doi.org/10.5281/zenodo.4071471): p. 31.
 
     --{{0}}--
 You should develop a back-up policy early on in your project, since later down the road it is very hard to re-structure established processes. 
@@ -652,6 +654,7 @@ The 3 2 1 rule states that you are to create at least three copies of your data,
 > __Exercise__:
 >
 > Which backup solutions does your institution offer? If they do not meet your requirements, calculate additional costs in order to include them in your project proposal.
+ <br>
 
 
 ### Archiving
@@ -685,7 +688,7 @@ __It's Quiz Time__
     [[x]] Data corruption, cyber attacks, accidental deletion, system crashes (M)
 
     {{1}}
-2. Which of the following is NOT a atretegy for data protection?
+2. Which of the following is NOT a strategy for data protection?
 
     {{1}}
     [[ ]] Storage on university servers with automatic regular backup. (B)
@@ -748,10 +751,10 @@ Metadata in research contain structural information on research results such as 
     {{0-1}}
 | Type                    | Content    | Function   |
 | :---------------------- | :--------- | :--------- |
-| [[bibliographic]] metadata  | title, author, description, keywords    | make data findable and thematically fitting |
-| [[administrative]] metadata | data types, location, access rights, licenses     | administration, long-term preservation  |
-| [[process]] metadata        | methods, tools, analysis steps    | reproducibility, traceability    |
-| [[descriptive]] metadata    | additional information on content, scope and data genesis    | close information gaps     |
+| [[bibliographic  ]] metadata  | title, author, description, keywords    | make data findable and thematically fitting |
+| [[administrative  ]] metadata | data types, location, access rights, licenses     | administration, long-term preservation  |
+| [[process  ]] metadata        | methods, tools, analysis steps    | reproducibility, traceability    |
+| [[descriptive  ]] metadata    | additional information on content, scope and data genesis    | close information gaps     |
 
     {{1}}
 __Choosing the right standard__
@@ -823,6 +826,8 @@ Choosing the right repository is often regulated by your institution or funding 
 
     {{0-1}}
 If you are free to choose a repository, you should use one that is common for your field or discpline. If you are unsure, go to the [Registry of Research Data Repositories (r3data)](https://www.re3data.org/), where a wide range of platforms are listed.
+
+<br>
 
     --{{0}}--
 If your license terms allow, you may upload your data on multiple platforms. Make sure to use PIDs and cross-reference to link the data to your published article. 
