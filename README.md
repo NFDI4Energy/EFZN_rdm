@@ -36,16 +36,16 @@ There are three possible ways to work with this course:
 3. Do you already have some knowledge of RDM? Great! Choose individual chapters that are of interest for your field of work by clicking on the plus signs.
 
 A quick word on the course format. The course is written in [Markdown](https://de.wikipedia.org/wiki/Markdown) and implemented in [LiaScript](https://liascript.github.io/). 
-In the upper right corner, you can switch between textbook mode, presentation mode and slides. You can have the course read aloud by clicking on the symbol at the bottom of the page in presentation mode. If you want to adapt the course for your use, you may do so by going on [GitHub](https://github.com/NFDI4Energy/EFZN_rdm) and opening a branch or downloading individual files. 
+In the upper right corner, you can switch between textbook mode, presentation mode and slides. You can have the course read aloud by clicking on the symbol at the bottom of the page in presentation mode. If you want to adapt the course for your use, you may do so by opening a branch on [GitHub](https://github.com/NFDI4Energy/EFZN_rdm) or downloading individual files. 
 
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=291a02e3-2fd0-4276-b49d-37c205fe945d" width="100%" height="840" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
 
 
 ## What is Research Data Management?
 
-In early 2020, the COVID-19 disease, caused by the coronavirus SARS-CoV2, broke out globally, which led to the closure of many shops and businesses for quarantine reasons. The result, especially in the USA, was a large number of unemployed people who urgently needed money for their next rent payment, food or other expenses. As a consequence, the government set up a relief package for anyone who registers as unemployed - but why didn't the money get to the people?
+In early 2020, the COVID-19 disease, caused by the coronavirus SARS-CoV2, broke out globally, which led to the closure of many shops and businesses for quarantine reasons. The result, especially in the USA, was a large number of unemployed people who urgently needed money for their next rent payment, food or other expenses. As a consequence, the government set up a relief package for anyone who registers as unemployed - but the money didn't get to the people. This was a huge problem!
 
-The reason for this was the overload of critical systems on which COBOL is running. COBOL is a programming language that was developed in the late 1950s to control commercial applications. From today's perspective, the programming language is very outdated and no longer taught in the training of programmers. That is why there was no personnel to take care of the systems when they collapsed. Unfortunately, many applications with the outdated programming language are still running in the business sector.
+The reason for this was that critical systems collapsed on which COBOL is running. COBOL is a programming language that was developed in the late 1950s to control commercial applications. From today's perspective, the programming language is very outdated and no longer taught in the training of programmers. That is why there was no personnel to take care of the systems when they collapsed. Unfortunately, many applications with the outdated programming language are still running in the business sector.
 
 Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
 
@@ -108,27 +108,27 @@ Perhaps you worry whether your data is transferable at all because some data hav
 If done right, RDM will...
 
     {{1-2}}
-1. __save time, resources, effort and money:__
+1. __...save time, resources, effort and money:__
 
    - Preserve time that is otherwise lost while searching for, recovering, and deciphering data.
    - Make data reusable.
    - Benefit from high quality datasets from other researchers.
    - Simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
 
-2. __improve impact and speed up scientific progress:__
+2. __...improve impact and speed up scientific progress:__
 
     - Make research results reproducible and reusable, so others can verify and build upon your findings. This strengthens __integrity__ and increases your citations.
     - Improve your research reputation and increase your __visibility__.
     - Continually influence research developments long after the original research has been completed.
     - Permit new and innovative research to be built on existing information.
 
-3. __help to prevent errors and enhance data security:__
+3. __...help to prevent errors and enhance data security:__
 
     - Secure your data against loss and protect sensitive data against misuse, theft, damage and disaster.
     - Ensure records are synchronized, complete and reliable.
     - Improve research workflows to make them more resilient to human error and software vulnerability.
 
-4. __show compliance with research obligations of your institution and funder:__
+4. __...show compliance with research obligations of your institution and funder:__
 
     - Fulfill grant requirements and comply with practices conducted in industry and commerce in order to demonstrate a high-quality research output.
     - Ensure transparency since individual contributions are documented on-the-fly throughout the complete research and archiving process.
@@ -230,9 +230,9 @@ In Detail, that means:
 
 > **It's Quiz Time**:
 >
-> What can you do to make your data FAIRer?
+> What can you do to make your data more FAIR?
 >
-> [[X]] use Creative-Commons or GNU Licenses (S)
+> [[X]] use Creative-Commons or GNU licenses (S)
 > [[ ]] keep processing details undisclosed (I)
 > [[ ]] ensure access security (A)
 > [[X]] create detailed Metadata (B)
@@ -321,7 +321,7 @@ Congratulations! You have started your first DMP!
 
 ## Legal Aspects
 
-Because research projects have very diverse legal requirements, consider the following areas and their relevance to your project.
+Because research projects have very diverse legal requirements, consider the following areas and their relevance to your project and research data (RD).
 
 ![Legal Areas in RDM](img/LegalAspects.png "Relevant Legal Areas.  Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).")
 
@@ -333,11 +333,11 @@ Because research projects have very diverse legal requirements, consider the fol
 
      {{0-1}}
 The internet has made it incredibly easy for people to share and collaborate. However, copyright laws can often pose obstacles to this process. Generally, others cannot use or remix your work without obtaining your permission first.
-But what if you want to encourage others to reuse your work? In such cases, you may consider publishing your work under a [Creative Commons](https://creativecommons.org/) or [GNU General Public license](https://www.gnu.org/licenses/).
+But what if you want to encourage others to reuse your work? In such cases, you may consider publishing your work under a [Creative Commons](https://creativecommons.org/) license or [GNU General Public License](https://www.gnu.org/licenses/).
 
 
     {{0-1}}
-Creative Commons licenses are a set of copyright licenses that allow creators to grant others permission to use their work. These licenses are designed to be easily understood and applied, providing a flexible framework for sharing and collaboration. By assigning a Creative Commons license, researchers can clearly communicate how others can use, distribute, modify, and build upon their work.
+Creative Commons licenses are a set of copyright licenses that allow creators to grant others permission to use their work. They are designed to be easily understood and applied, providing a flexible framework for sharing and collaboration. By assigning a Creative Commons license, researchers can clearly communicate how others can use, distribute, modify, and build upon their work.
 
     {{0-1}}
 For software, you may also use a [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), guaranteeing end users the four freedoms to run, study, share, and modify the software. For other options to license software, you can consult [this Wikipedia comparison](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses).
@@ -486,9 +486,9 @@ The data types you choose to publish have consequences for your Research Data Ma
 | FAIR value|	Machine Readability	| Human Readability	| Long-time Stability|	Metadata   | Example|
 | :--------- | :---------| :--------- | :--------- | :---------|:-----------|
 |very good |with common open software	|yes and without special software	|normed standard	|completely preserved |  .csv|
-|good	|with common and well-documented software	| compressed with standard procedures, but practically yes	|longterm or widely established	| technical details are provided| .xlsx|
+|good	|with common and well-documented software	| compressed with standard procedures, but practically yes	|longterm or widely established	| technical details are provided| |
 |moderate	| proprietary standard format   | with open software (reliably?) convertible to higher class| 	relatively new format	| some important ones (e.g. units) are included | MATLAB file|
-|bad	| self-developed reading software| no|	newly developed	| no information    | |
+|bad	| self-developed reading software| no|	newly developed	| no information    | .xlsx|
 
     {{1-2}}
 Source: translated and adapted from [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/), [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
@@ -633,7 +633,7 @@ Backup needs to be prepared by well-structured and named data. When naming files
 {{0-1}}| DO   | DON'T   |
 | :--------- | :--------- |
 | 20230312_h2oSample1      | BDD extract_edited colored.jpg |
-| 20230315_location5_processed     | original.jpg|
+| 20230315\_location5\_processed     | original.jpg|
 | 2018_weatherlogfiles     | table1_john(copy)  |
 
 {{0-1}} Source: inspired by [Biernacka et al (2020)](https://doi.org/10.5281/zenodo.4071471): p. 31.
@@ -778,7 +778,7 @@ You can find a list of existing standards in the [RDA's Metadata Standards Catal
      {{2-3}}
 | Type   | Function   |  Level of detail (low-very high)  | Effort required|
 | :--------- | :--------- |  :--------- |:-----|
-| simple .xml-file    | defines, in which format each information is to be given   |  [[low  ]]  | low, can be implemented for presonal use|
+| simple .xml-file    | defines, in which format each information is to be given   |  [[low  ]]  | low, can be implemented for personal use|
 | Vocabulary   | list of standardized names, preventing spelling mistakes    |  [[low ]]    |can already be useful in study groups|
 | Taxonomy/Thesaurus |defines acronyms, synonyms, sub and umbrella terms    |  [[high  ]]   |requires regular review|
 | Ontology    | model of characteristics and relationships between variables and concepts   | [[very high  ]]   | use community-developed templates |
