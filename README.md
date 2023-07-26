@@ -544,7 +544,7 @@ The longevity of simulation outputs is harder to assess than that of observation
 {{1-2}}![simulation](img/simulation.png  "[Mullendore et. al. (2021):](https://doi.org/10.3389/fclim.2021.763420) Data and software elements to be preserved and shared by all projects.")
 
     {{2-3}}
-__Checklist for FDM in simulation and software development:__
+__Checklist for RDM in simulation and software development:__
 
     {{2-3}}
 - Train yourself and your team in software development quality
