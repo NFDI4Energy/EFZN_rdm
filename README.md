@@ -43,9 +43,9 @@ In the upper right corner, you can switch between textbook mode, presentation mo
 
 ## What is Research Data Management?
 
-In early 2020, the COVID-19 disease, caused by the coronavirus SARS-CoV2, broke out globally, which led to the closure of many shops and businesses for quarantine reasons. The result, especially in the USA, was a large number of unemployed people who urgently needed money for their next rent payment, food or other expenses. As a consequence, the government decided to set up a relief package for anyone who registers as unemployed - but why didn't the money get to the people?
+In early 2020, the COVID-19 disease, caused by the coronavirus SARS-CoV2, broke out globally, which led to the closure of many shops and businesses for quarantine reasons. The result, especially in the USA, was a large number of unemployed people who urgently needed money for their next rent payment, food or other expenses. As a consequence, the government set up a relief package for anyone who registers as unemployed - but why didn't the money get to the people?
 
-The reason for this was the overload of critical systems on which COBOL is still running. COBOL is a programming language that was developed in the late 1950s to control commercial applications. From today's perspective, the programming language is very outdated and no longer taught in the training of programmers. That is why there was no personnel to take care of the systems when they collapsed. Unfortunately, many applications with the outdated programming language are still running in the business sector. 
+The reason for this was the overload of critical systems on which COBOL is running. COBOL is a programming language that was developed in the late 1950s to control commercial applications. From today's perspective, the programming language is very outdated and no longer taught in the training of programmers. That is why there was no personnel to take care of the systems when they collapsed. Unfortunately, many applications with the outdated programming language are still running in the business sector.
 
 Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
 
@@ -57,7 +57,7 @@ Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschung
 
 <summary> Solution (click to enlarge):</summary>
 
-There are several solutions possible: Existing systems should be questioned, since requirements can change and established habits can lead to problems from today's perspective. For example, at some point data might no longer be able to be called up or might exist in formats that are increasingly difficult to be processed. A thorough documentation of the programs might also help in some cases to rebuild them in other languages. For timely relief, the administration called out to retired COBOL programmers to work on the issues.
+There are several solutions possible: Existing systems should be questioned, since requirements can change and established habits can lead to problems from today's perspective. For example, at some point, data might no longer be able to be called up or might exist in formats that are increasingly difficult to be processed. A thorough documentation of the programs might also help in some cases to rebuild them in other languages. For timely relief, the administration called out to retired COBOL programmers to work on the issues.
 
 </details>
 
@@ -113,14 +113,14 @@ If done right, RDM will...
    - Preserve time that is otherwise lost while searching for, recovering, and deciphering data.
    - Make data reusable.
    - Benefit from high quality datasets from other researchers.
-
+   - Simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
 
 2. __improve impact and speed up scientific progress:__
 
     - Make research results reproducible and reusable, so others can verify and build upon your findings. This strengthens __integrity__ and increases your citations.
     - Improve your research reputation and increase your __visibility__.
     - Continually influence research developments long after the original research has been completed.
-    - Permit new and innovative research to be built on existing information, especially within and across disciplines.
+    - Permit new and innovative research to be built on existing information.
 
 3. __help to prevent errors and enhance data security:__
 
@@ -133,7 +133,7 @@ If done right, RDM will...
     - Fulfill grant requirements and comply with practices conducted in industry and commerce in order to demonstrate a high-quality research output.
     - Ensure transparency since individual contributions are documented on-the-fly throughout the complete research and archiving process.
     - Increase your chances of funding since many funding organizations require a DMP.
-    - Simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
+
 
 
 {{2-3}}<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=8592e4d6-37e9-4bb1-a356-73803e3f3971"  title="Henrik Wagner (TU Braunschweig) on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
@@ -189,7 +189,7 @@ __It's Quiz Time__
 ## Open Science and RDM
 
     {{0-1}}
-Open Science strives to make scientific research and its dissemination accessible to all levels of society. It is based on the four principles of __transparency__, __reproducibility__, __reusability__ and __open communication__.
+*Open Science* strives to make scientific research and its dissemination accessible to all levels of society. It is based on the four principles of __transparency__, __reproducibility__, __reusability__ and __open communication__.
 Open Science can encompass publishing open research, campaigning for open access, encouraging scientists to practice **open-notebook science** (such as openly sharing data and code), broader dissemination and engagement in science and generally making it easier to publish, access and communicate scientific knowledge (https://ag-openscience.de/open-science/).
 
     {{0-1}}
@@ -207,10 +207,10 @@ Open Science can encompass publishing open research, campaigning for open access
 
 The main idea behind the FAIR principles is: __As open as possible, as closed as necessary!__  The acronym stands for
 
-- Findable
-- Accessible
-- Interoperable
-- Reusable
+- **F**indable
+- **A**ccessible
+- **I**nteroperable
+- **R**eusable
 
 > **Exercise**:
 >
@@ -292,9 +292,9 @@ In general, there are 6 steps when choosing the suitable tool:
 
 {{1-2}}| Tools for internal DM: | Tools to share and register your research data:  | DMP Tools   |
 | :--------- | :--------- | :--------- |
-| https://www.coscine.de/    | https://zenodo.org/     | [RDMO](https://rdmorganiser.github.io/en/)   |
-| https://www.indiscale.com/ | https://openenergy-platform.org/ |  [DMPOnline](https://dmponline.dcc.ac.uk/) |
-| |GitHub (https://github.com/)/GitLab (https://about.gitlab.com/) | [DMPTooI](https://dmptool.org/) |
+| [Coscine](https://www.coscine.de/)    | [Zenodo](https://zenodo.org/)     | [RDMO](https://rdmorganiser.github.io/en/)   |
+| [IndiScale](https://www.indiscale.com/) | [Open Energy Platform](https://openenergy-platform.org/) |  [DMPOnline](https://dmponline.dcc.ac.uk/) |
+| |[GitHub](https://github.com/)/[GitLab](https://about.gitlab.com/) | [DMPTooI](https://dmptool.org/) |
 
     {{1-2}}
 You can also create a DMP in a simple "Excel"-type document.
@@ -397,7 +397,7 @@ __It's Quiz Time!__
 ### Access Rights
 
     {{0-1}}
-If you want to limit access to the published data, this does not contradict the FAIR guidelines, but you should make the access scheme transparent (e.g. by using appropriate licenses) and give access to as much detail as possible.
+If you want to limit access to your published data, this does not contradict the FAIR guidelines, but you should make the access scheme transparent (e.g. by using appropriate licenses) and give access to as much detail as possible.
 
 
     {{0-1}}
@@ -517,7 +517,7 @@ So, whether you plan to publish some, all or none of your self-developed softwar
 
 - Documentation: Programs should be documented and commented, e.g. by stating origin, purpose and scope of a program, limitations of variables and ideally a short manual.
 
-- Publication: With journal publication of an article, corresponding software should be cited with version number and a persistent identifier such as a DOI. Choose a software archive with version control. Sometimes, timely open access is not possible. In this case, at least the algorithm used must be outlined completely. If the source code is not published, state the reason and potentially the time period until release.
+- Publication: With journal publication of an article, corresponding software should be cited with version number and a persistent identifier such as a Digital Object Identifier (DOI). Choose a software archive with version control. Sometimes, timely open access is not possible. In this case, at least the algorithm used must be outlined completely. If the source code is not published, state the reason and potentially the time period until release.
 
     {{1}}
  __Simulation__
@@ -617,7 +617,7 @@ __Checklist for FDM in simulation and software development:__
     [[x]] Comment the program with limitations of variables. (N)
     [[ ]] Keep the documentation minimal and concise. (C)
 
-### Back-Up
+### Backup
 
     {{0-1}}
 Backup needs to be prepared by well-structured and named data. When naming files and folders, you should adhere to the following standards:
@@ -639,7 +639,7 @@ Backup needs to be prepared by well-structured and named data. When naming files
 {{0-1}} Source: inspired by [Biernacka et al (2020)](https://doi.org/10.5281/zenodo.4071471): p. 31.
 
     --{{0}}--
-You should develop a back-up policy early on in your project, since later down the road it is very hard to re-structure established processes.
+You should develop a backup policy early on in your project, since later down the road it is very hard to re-structure established processes.
 
     {{1-2}}
 A handy rule is the 3-2-1 rule:
@@ -666,7 +666,7 @@ Archiving refers to the process of creating backups of selected data and storing
 When archiving data, it is crucial to ensure its integrity. This means that the data remains unchanged and tamper-proof during the archival process and throughout its storage. Techniques such as checksums or digital signatures can be used to verify the integrity of archived data, providing assurance that it has not been altered or corrupted. An essential aspect of archiving is the ability to search and retrieve archived data efficiently. Implementing effective indexing, metadata tagging, and search capabilities enables users to locate and retrieve the required data without having to sift through vast amounts of archived content manually.
 
     {{0-1}}
-There are various commercial providers for back-up and archiving solutions. Consider the following questions before choosing one:
+There are various commercial providers for backup and archiving solutions. Consider the following questions before choosing one:
 
     {{0-1}}
 - Does it carry a seal for trustworthy long-term archives (e.g. [CoreTrustSeal](https://www.coretrustseal.org/), [nestor seal](https://www.langzeitarchivierung.de/Webs/nestor/EN/Zertifizierung/nestor_Siegel/nestor_siegel_node.html), [DIN 31644](https://www.din.de/de/mitwirken/normenausschuesse/nid/veroeffentlichungen/wdc-beuth:din21:147058907))?
@@ -844,7 +844,7 @@ For energy-related topics, we suggest the [Open Energy Platform](https://openene
 Features of the Open Energy Platform:
 
     {{1-2}}
-- Upload via github 
+- Upload via GitHub
 - Data comparison with other projects
 - Take part in developing a domain ontology for energy system sciences
 - Data Review Service 
