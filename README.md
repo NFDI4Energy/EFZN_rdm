@@ -356,7 +356,7 @@ First, you need to choose the specific conditions that you want to apply to your
 
 2.	__ShareAlike (SA):__ If others use your work, they are required to share it under the same conditions that you specified.
 
-3.	__NoDerivatives (ND):__ This license allows reusers to copy and distribute the material in unadapted form only.
+3.	__NoDerivatives (ND):__ This license allows reusers to copy and distribute the material in unadapted form only. Reusers may transform or build upon the material for their own purpose, but are not allowed to distribute the modified work. 
 
 4.	__NonCommercial (NC):__ This feature allows the reuse of your work only for non-commercial purposes.
 
