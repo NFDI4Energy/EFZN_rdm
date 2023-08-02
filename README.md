@@ -917,6 +917,11 @@ Congratulations! You have successfully finished the course and set up your first
 > Fill in the letters of the quizzes to spell out the solution: 
 >
 >[[WORLDS BEST DATA MANAGEMENT PLANNERS]]
+<script>
+let input = "@input".trim().toLowerCase()
+
+input == "worlds best data management planners" || input == "worldsbestdatamanagementplanners"
+</script>
 
 ## Sources 
 
