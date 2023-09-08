@@ -216,7 +216,7 @@ The main idea behind the FAIR principles is: __As open as possible, as closed as
 >
 > Look closely at the graph to identify which measures especially apply to your area of work and data types you are using.
 
-![FAIR Guiding Principles](img/FAIR.png "Fair Guiding Principles by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://www.go-fair.org/fair-principles/")
+![FAIR Guiding Principles](img/FAIR.svg "Fair Guiding Principles by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://www.go-fair.org/fair-principles/")
 
 <!-- --{{0}}--
 As open as possible, as closed as necessary. This is the main idea behind the FAIR principles. The acronym stands for: Findable, Accessible, Interoperable and Re-Usable.
