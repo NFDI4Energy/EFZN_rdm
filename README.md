@@ -264,60 +264,6 @@ Many public funding organizations require a DMP prior to granting funds for rese
 |[German Ministry of Education and Research (BMBF)](https://www.bmbf.de/bmbf/de/forschung/digitale-wirtschaft-und-gesellschaft/aktionsplan-forschungsdaten/aktionsplan-forschungsdaten_node.html)   |Plan sometimes required|Content depends on the respective program||
 |[German Ministry for Digital and Transport (BMDV)](https://bmdv.bund.de)|Research Data Exploitation Plan sometimes required |Content depends on the respective program||
 
-## Tools
-
-    {{0-1}}
-Tools can help you to...
-
-    {{0-1}}
--	comply with data management requirements by providing guidance and templates for data management planning. They facilitate data sharing and preservation.
--	organize, analyze and visualize your data in order to  make it easier to draw insights and conclusions from your research. Many research projects generate large and complex datasets that can be difficult to manage without the right tools.
--	facilitate collaboration by allowing multiple researchers to access and analyze data.
--	ensure accuracy and reliability of your data by providing features such as data validation, version control and audit trails.
--	long-term preserve your data with backups, archives, and structured metadata.
-
-    --{{1}}--
-The specific features and capabilities of research data management tools can vary widely depending on the tool and the intended use case.
-
-    {{1-2}}
-In general, there are 6 steps when choosing the suitable tool:
-
-    {{1-2}}
-1.	Choose your tool
-2.	Plan a data management strategy
-3.	Set up the tool
-4.	Put in and manage your data
-5.	Collaborate and share your data
-6.	Preserve and archive your data
-
-{{1-2}}| Tools for internal DM: | Tools to share and register your research data:  | DMP Tools   |
-| :--------- | :--------- | :--------- |
-| [Coscine](https://www.coscine.de/)    | [Zenodo](https://zenodo.org/)     | [RDMO](https://rdmorganiser.github.io/en/)   |
-| [IndiScale](https://www.indiscale.com/) | [Open Energy Platform](https://openenergy-platform.org/) |  [DMPOnline](https://dmponline.dcc.ac.uk/) |
-| |[GitHub](https://github.com/)/[GitLab](https://about.gitlab.com/) | [DMPTooI](https://dmptool.org/) |
-
-    {{1-2}}
-You can also create a DMP in a simple "Excel"-type document.
-The tools above provide additional help by letting you choose a set of questions that you want to follow in your DMP. If you want to take a look at an example DMP, you can look [here](img/DMP_GridCapacity.pdf). We recommend to use RDMO or DMPOnline due to their broad spectrum of available questionnaires.
-
-    {{2-3}}
-> **DMP Task**:
->
-> Now it is time to start your DMP! Choose a **tool** and a set of **questions** that you want to work with and enter your basic project parameters:
->
->1. Title and Research Question
->2. Project Partners and Institutions
->
-> Depending on your settings, you can add other details required by the respective questionnaire.
-
-    {{2-3}}
-Congratulations! You have started your first DMP!
-
-    {{3}}
-**It`s Quiz Time!**
-
-    {{3}}
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=981a8688-f44b-4811-a912-585d421daf82" width="100%" height ="750" frameborder="0" allowfullscreen="allowfullscreen" title="Tools for RDM" ></iframe>
 
 ## Legal Aspects
 
@@ -444,11 +390,65 @@ __It's Quiz Time!__
 
 ## Infrastructure
 
-In this chapter, we will discuss how to handle your research data files both in handling and storage.
+To better handle research data, specific tools, and services are needed. On the one side, they can support the handling of research data and software. On the other side, they can provide places to store data and/or metadata. Within this chapter, you can learn more about different tools and resources which already exist.
 
-!?[NFDI 2023](https://www.youtube.com/watch?v=uJ01g9m8uE4 "Nationale Forschungsdaten Infrastruktur (NFDI)")
+In the context of the German National Research Data Infrastructure (NFDI) multiple existing services are harmonized and further services will be developed. If you want to learn more about the NFDI in general, check out [their video](https://www.youtube.com/watch?v=uJ01g9m8uE4). For the energy domain, NFDI4Energy is responsible. You can check out their latest developments on [their website](https://nfdi4energy.uol.de/).
 
-Source: Nationale Forschungsdaten Infrastruktur (NFDI) (2023): Available at: https://www.youtube.com/watch?v=uJ01g9m8uE4. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+### Tools
+
+    {{0-1}}
+Tools can help you to...
+
+    {{0-1}}
+-	comply with data management requirements by providing guidance and templates for data management planning. They facilitate data sharing and preservation.
+-	organize, analyze and visualize your data in order to  make it easier to draw insights and conclusions from your research. Many research projects generate large and complex datasets that can be difficult to manage without the right tools.
+-	facilitate collaboration by allowing multiple researchers to access and analyze data.
+-	ensure accuracy and reliability of your data by providing features such as data validation, version control and audit trails.
+-	long-term preserve your data with backups, archives, and structured metadata.
+
+    --{{1}}--
+The specific features and capabilities of research data management tools can vary widely depending on the tool and the intended use case.
+
+    {{1-2}}
+In general, there are 6 steps when choosing the suitable tool:
+
+    {{1-2}}
+1.	Choose your tool
+2.	Plan a data management strategy
+3.	Set up the tool
+4.	Put in and manage your data
+5.	Collaborate and share your data
+6.	Preserve and archive your data
+
+{{1-2}}| Tools for internal DM: | Tools to share and register your research data:  | DMP Tools   |
+| :--------- | :--------- | :--------- |
+| [Coscine](https://www.coscine.de/)    | [Zenodo](https://zenodo.org/)     | [RDMO](https://rdmorganiser.github.io/en/)   |
+| [IndiScale](https://www.indiscale.com/) | [Open Energy Platform](https://openenergy-platform.org/) |  [DMPOnline](https://dmponline.dcc.ac.uk/) |
+| |[GitHub](https://github.com/)/[GitLab](https://about.gitlab.com/) | [DMPTooI](https://dmptool.org/) |
+
+    {{1-2}}
+You can also create a DMP in a simple "Excel"-type document.
+The tools above provide additional help by letting you choose a set of questions that you want to follow in your DMP. If you want to take a look at an example DMP, you can look [here](img/DMP_GridCapacity.pdf). We recommend to use RDMO or DMPOnline due to their broad spectrum of available questionnaires.
+
+    {{2-3}}
+> **DMP Task**:
+>
+> Now it is time to start your DMP! Choose a **tool** and a set of **questions** that you want to work with and enter your basic project parameters:
+>
+>1. Title and Research Question
+>2. Project Partners and Institutions
+>
+> Depending on your settings, you can add other details required by the respective questionnaire.
+
+    {{2-3}}
+Congratulations! You have started your first DMP!
+
+    {{3}}
+**It`s Quiz Time!**
+
+    {{3}}
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=981a8688-f44b-4811-a912-585d421daf82" width="100%" height ="750" frameborder="0" allowfullscreen="allowfullscreen" title="Tools for RDM" ></iframe>
 
 
 ### Data Types
