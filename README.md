@@ -45,7 +45,7 @@ In the upper right corner, you can switch between textbook mode, presentation mo
 
 We want to show two examples to showcase where good research data management can support you in your research.
 
-When a young researcher started on his PhD, he was told to work on unpublished data that had been collected 3 years prior. He received various folders that were full of data. After going through them, he found that there were several datasheets with duplicate names but different contents, scripts that nobody knew what they did or why and column names that where unclear and ambiguous. Moreover, the exact equipment and/or settings used for the experiments were unknown. Since several years had passed, not even extensive talks with the manufacturers of the used equipment or the data authors could make the data usable. In the end, the data could not be re-used.
+When a young researcher started on his PhD, he was told to work on unpublished data that had been collected 3 years prior. He received various folders that were full of data. After going through them, he found that there were several datasheets with duplicate names but different contents, scripts that nobody knew what they did or why and column names that were unclear and ambiguous. Moreover, the exact equipment and/or settings used for the experiments were unknown. Since several years had passed, not even extensive talks with the manufacturers of the used equipment or the data authors could make the data usable. In the end, the data could not be re-used.
 
 Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
 
