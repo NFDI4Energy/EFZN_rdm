@@ -541,7 +541,7 @@ The longevity of simulation outputs is harder to assess than that of observation
 - Publish enough output data to evaluate and reuse your findings, but not all simulation runs.
 - Some software may be released openly while others remain restricted due to security or proprietary concerns. In this case, the documentation should provide enough information to reproduce the process.
 
-{{1-2}}![simulation](img/simulation.png  "[Mullendore et. al. (2021):](https://doi.org/10.3389/fclim.2021.763420) Data and software elements to be preserved and shared by all projects.")
+{{1-2}}![software](img/Software.svg  "Own graphic based on [Mullendore et. al. (2021):](https://doi.org/10.3389/fclim.2021.763420) Data and software elements to be preserved and shared by all projects.")
 
     {{2-3}}
 __Checklist for RDM in simulation and software development:__
