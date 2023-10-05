@@ -297,7 +297,7 @@ In general, there are 6 steps when choosing the suitable tool:
 | |[GitHub](https://github.com/)/[GitLab](https://about.gitlab.com/) | [DMPTooI](https://dmptool.org/) |
 
     {{1-2}}
-You can also create a DMP in a simple "Excel"-type document.
+You can also create a DMP in a simple spreadsheet document (e.g. Excel).
 The tools above provide additional help by letting you choose a set of questions that you want to follow in your DMP. If you want to take a look at an example DMP, you can look [here](img/DMP_GridCapacity.pdf). We recommend to use RDMO or DMPOnline due to their broad spectrum of available questionnaires.
 
     {{2-3}}
