@@ -775,6 +775,13 @@ You can find a list of existing standards in the [RDA's Metadata Standards Catal
     
 {{2}}__Metadata Plan__
 
+{{2-3}}
+> **Exercise:**
+>
+> Enter the correct level of detail in the table below.
+>
+> **low - high - very high** 
+
      {{2-3}}
 | Type   | Function   |  Level of detail (low-very high)  | Effort required|
 | :--------- | :--------- |  :--------- |:-----|
