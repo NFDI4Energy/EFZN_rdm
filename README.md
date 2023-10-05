@@ -115,7 +115,7 @@ If done right, RDM will...
    - Benefit from high quality datasets from other researchers.
    - Simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
 
-2. __...improve impact and speed up scientific progress:__
+2. __...improve scientific impact:__
 
     - Make research results reproducible and reusable, so others can verify and build upon your findings. This strengthens __integrity__ and increases your citations.
     - Improve your research reputation and increase your __visibility__.
