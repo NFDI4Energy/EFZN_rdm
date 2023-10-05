@@ -132,7 +132,7 @@ If done right, RDM will...
 
     - Fulfill grant requirements and comply with practices conducted in industry and commerce in order to demonstrate a high-quality research output.
     - Ensure transparency since individual contributions are documented on-the-fly throughout the complete research and archiving process.
-    - Increase your chances of funding since many funding organizations require a DMP.
+    - Increase your chances of funding since many funding organizations require a Data Management Plan ([DMP](#data-management-plan)).
 
 
 
