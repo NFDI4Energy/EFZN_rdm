@@ -36,7 +36,7 @@ There are three possible ways to work with this course:
 3. Do you already have some knowledge of RDM? Great! Choose individual chapters that are of interest for your field of work by clicking on the plus signs.
 
 A quick word on the course format. The course is written in [Markdown](https://de.wikipedia.org/wiki/Markdown) and implemented in [LiaScript](https://liascript.github.io/). 
-In the upper right corner, you can switch between textbook mode, presentation mode and slides. You can have the course read aloud by clicking on the symbol at the bottom of the page in presentation mode. If you want to adapt the course for your use, you may do so by opening a branch on [GitHub](https://github.com/NFDI4Energy/EFZN_rdm) or downloading individual files. 
+In the upper right corner, you can switch between textbook mode, presentation mode and slides. You can have the course read aloud by clicking on the symbol at the bottom of the page in presentation mode. The best way for a stepwise navigation through the course is via the arrows at the bottom, because there might be subpages for several topics that are not displayed on the left sidebar. If you want to adapt the course for your use, you may do so by opening a branch on [GitHub](https://github.com/NFDI4Energy/EFZN_rdm) or downloading individual files. 
 
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=291a02e3-2fd0-4276-b49d-37c205fe945d" width="100%" height="840" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
 
