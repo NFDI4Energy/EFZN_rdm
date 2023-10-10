@@ -216,7 +216,7 @@ The main idea behind the FAIR principles is: __As open as possible, as closed as
 >
 > Look closely at the graph to identify which measures especially apply to your area of work and data types you are using.
 
-<img style="width:100%;" src="img/FAIR.svg" alt="Fair Guiding Principles by A. Ahrens" />Fair Guiding Principles by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en), Source: https://www.go-fair.org/fair-principles/
+<object style="width:100%;" data="img/FAIR.svg" type="image/svg+xml"></object>Fair Guiding Principles by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en), Source: https://www.go-fair.org/fair-principles/
 
 
 <!-- --{{0}}--
