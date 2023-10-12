@@ -324,7 +324,7 @@ Congratulations! You have started your first DMP!
 
 Because research projects have very diverse legal requirements, consider the following areas and their relevance to your project and research data (RD).
 
-![Legal Areas in RDM](img/LegalAspects.png "Relevant Legal Areas.  Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).")
+![Legal Areas in RDM](img/LegalAspects.svg "Relevant Legal Areas.  Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).")
 
 > __Exercise:__
 >
