@@ -390,7 +390,7 @@ __It's Quiz Time!__
 
 ## Infrastructure
 
-To better handle research data, specific tools and services are needed. On the one side, they can support you in the handling of research data and software. On the other side, they can provide places to store data and/or metadata. Within this chapter, you can learn more about different tools and resources which already exist.
+To better handle research data, specific tools and services are needed. On the one side, they can support you in the handling of research data and software. On the other side, they can provide places to store data and/or metadata. Within this chapter, you can learn more about different existing tools and resources.
 
 In Germany, the German National Research Data Infrastructure is a huge initiative supported by the states and the federal government which wants to improve and further develop the infrastructure for research data. If you want to learn more about the NFDI in general, check out [this video](https://www.youtube.com/watch?v=uJ01g9m8uE4). For the energy domain, NFDI4Energy is the responsible consortium. You can check out their latest developments on [their website](https://nfdi4energy.uol.de/).
 
