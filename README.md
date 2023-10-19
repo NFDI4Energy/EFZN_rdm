@@ -281,15 +281,7 @@ Tools can help you to...
 The specific features and capabilities of research data management tools can vary widely depending on the tool and the intended use case.
 
     {{1-2}}
-In general, there are 6 steps when choosing the suitable tool:
-
-    {{1-2}}
-1.	Choose your tool
-2.	Plan a data management strategy
-3.	Set up the tool
-4.	Put in and manage your data
-5.	Collaborate and share your data
-6.	Preserve and archive your data
+Tools for RDM can be divided into three categories. Internal DM tools like [Coscine](https://www.coscine.de/) and [IndiScale](https://www.indiscale.com/) enable RDM within your group or organization, while tools like [Zenodo](https://zenodo.org/) support you in sharing research data with other people and organizations. DMP tools support you in setting up and maintaining your data management plan. 
 
 {{1-2}}| Tools for internal DM: | Tools to share and register your research data:  | DMP Tools   |
 | :--------- | :--------- | :--------- |
