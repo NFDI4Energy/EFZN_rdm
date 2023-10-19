@@ -309,7 +309,7 @@ The tools above provide additional help by letting you choose a set of questions
 >1. Title and Research Question
 >2. Project Partners and Institutions
 >
-> Depending on your settings, you can add other details required by the respective questionnaire.
+> Depending on your settings, you can add other details required by the respective questionnaire. For a quick start, we recommend [DMPOnline](https://dmponline.dcc.ac.uk/) here.
 
     {{2-3}}
 Congratulations! You have started your first DMP!
