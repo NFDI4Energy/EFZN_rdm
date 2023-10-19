@@ -268,12 +268,14 @@ Many public funding organizations require a DMP prior to granting funds for rese
 ## Tools
 
     {{0-1}}
-Tools can help you to...
+To support your RDM, you can use a wide variety of tools with different purposes. 
+
+RDM tools can help you to...
 
     {{0-1}}
 -	comply with data management requirements by providing guidance and templates for data management planning. They facilitate data sharing and preservation.
--	organize, analyze and visualize your data in order to  make it easier to draw insights and conclusions from your research. Many research projects generate large and complex datasets that can be difficult to manage without the right tools.
--	facilitate collaboration by allowing multiple researchers to access and analyze data.
+-	organize, analyze and visualize your data to  make it easier to draw insights and conclusions from your research. Many research projects generate large and complex datasets that can be difficult to manage without the right tools.
+-	facilitate collaboration by allowing multiple researchers to access and analyze the data.
 -	ensure accuracy and reliability of your data by providing features such as data validation, version control and audit trails.
 -	long-term preserve your data with backups, archives, and structured metadata.
 
