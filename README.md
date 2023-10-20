@@ -356,7 +356,7 @@ First, you need to choose the specific conditions that you want to apply to your
 
 2.	__ShareAlike (SA):__ If others use your work, they are required to share it under the same conditions that you specified.
 
-3.	__NoDerivatives (ND):__ This license allows reusers to copy and distribute the material in unadapted form only. Reusers may transform or build upon the material for their own purpose, but are not allowed to distribute the modified work. 
+3.	__NoDerivatives (ND):__ This license allows reusers to transform or build upon the material for their own purposes. They may publish and distribute only the unedited form of the material.
 
 4.	__NonCommercial (NC):__ This feature allows the reuse of your work only for non-commercial purposes.
 
@@ -391,7 +391,7 @@ When giving attribution to a Creative Commons-licensed work, it's important to f
 __It's Quiz Time!__
 
     {{3}}
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=f611e136-2d43-4a6b-97b5-5c7e8beba099" width="100%" height="740" frameborder="0" allowfullscreen="allowfullscreen" title="Quiz - Licensing in RDM" ></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=4b1b18a5-b2a0-4729-93fe-2ddb58db9871" width="100%" height="740" frameborder="0" allowfullscreen="allowfullscreen" title="Quiz - Licensing in RDM" ></iframe>
 
 
 ### Access Rights
