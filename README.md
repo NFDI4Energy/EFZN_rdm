@@ -36,7 +36,7 @@ There are three possible ways to work with this course:
 3. Do you already have some knowledge of RDM? Great! Choose individual chapters that are of interest for your field of work by clicking on the plus signs.
 
 A quick word on the course format. The course is written in [Markdown](https://de.wikipedia.org/wiki/Markdown) and implemented in [LiaScript](https://liascript.github.io/). 
-In the upper right corner, you can switch between textbook mode, presentation mode and slides. You can have the course read aloud by clicking on the symbol at the bottom of the page in presentation mode. If you want to adapt the course for your use, you may do so by opening a branch on [GitHub](https://github.com/NFDI4Energy/EFZN_rdm) or downloading individual files. 
+In the upper right corner, you can switch between textbook mode, presentation mode and slides. You can have the course read aloud by clicking on the symbol at the bottom of the page in presentation mode. The best way for a stepwise navigation through the course is via the arrows at the bottom, because there might be subpages for several topics that are not displayed on the left sidebar. If you want to adapt the course for your use, you may do so by opening a branch on [GitHub](https://github.com/NFDI4Energy/EFZN_rdm) or downloading individual files. 
 
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=291a02e3-2fd0-4276-b49d-37c205fe945d" width="100%" height="840" frameborder="0" allowfullscreen="allowfullscreen" title="Research Data Management in the Energy Sector"></iframe>
 
@@ -115,7 +115,7 @@ If done right, RDM will...
    - Benefit from high quality datasets from other researchers.
    - Simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
 
-2. __...improve impact and speed up scientific progress:__
+2. __...improve scientific impact:__
 
     - Make research results reproducible and reusable, so others can verify and build upon your findings. This strengthens __integrity__ and increases your citations.
     - Improve your research reputation and increase your __visibility__.
@@ -132,7 +132,7 @@ If done right, RDM will...
 
     - Fulfill grant requirements and comply with practices conducted in industry and commerce in order to demonstrate a high-quality research output.
     - Ensure transparency since individual contributions are documented on-the-fly throughout the complete research and archiving process.
-    - Increase your chances of funding since many funding organizations require a DMP.
+    - Increase your chances of funding since many funding organizations require a Data Management Plan ([DMP](#data-management-plan)).
 
 
 
@@ -216,7 +216,8 @@ The main idea behind the FAIR principles is: __As open as possible, as closed as
 >
 > Look closely at the graph to identify which measures especially apply to your area of work and data types you are using.
 
-![FAIR Guiding Principles](img/FAIR.png "Fair Guiding Principles by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://www.go-fair.org/fair-principles/")
+<object data="https://cdn.jsdelivr.net/gh/NFDI4Energy/EFZN_rdm@main/img/FAIR.svg" type="image/svg+xml"></object>Fair Guiding Principles by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en), Source: https://www.go-fair.org/fair-principles/
+
 
 <!-- --{{0}}--
 As open as possible, as closed as necessary. This is the main idea behind the FAIR principles. The acronym stands for: Findable, Accessible, Interoperable and Re-Usable.
@@ -264,12 +265,66 @@ Many public funding organizations require a DMP prior to granting funds for rese
 |[German Ministry of Education and Research (BMBF)](https://www.bmbf.de/bmbf/de/forschung/digitale-wirtschaft-und-gesellschaft/aktionsplan-forschungsdaten/aktionsplan-forschungsdaten_node.html)   |Plan sometimes required|Content depends on the respective program||
 |[German Ministry for Digital and Transport (BMDV)](https://bmdv.bund.de)|Research Data Exploitation Plan sometimes required |Content depends on the respective program||
 
+## Tools
+
+    {{0-1}}
+Tools can help you to...
+
+    {{0-1}}
+-	comply with data management requirements by providing guidance and templates for data management planning. They facilitate data sharing and preservation.
+-	organize, analyze and visualize your data in order to  make it easier to draw insights and conclusions from your research. Many research projects generate large and complex datasets that can be difficult to manage without the right tools.
+-	facilitate collaboration by allowing multiple researchers to access and analyze data.
+-	ensure accuracy and reliability of your data by providing features such as data validation, version control and audit trails.
+-	long-term preserve your data with backups, archives, and structured metadata.
+
+    --{{1}}--
+The specific features and capabilities of research data management tools can vary widely depending on the tool and the intended use case.
+
+    {{1-2}}
+In general, there are 6 steps when choosing the suitable tool:
+
+    {{1-2}}
+1.	Choose your tool
+2.	Plan a data management strategy
+3.	Set up the tool
+4.	Put in and manage your data
+5.	Collaborate and share your data
+6.	Preserve and archive your data
+
+{{1-2}}| Tools for internal DM: | Tools to share and register your research data:  | DMP Tools   |
+| :--------- | :--------- | :--------- |
+| [Coscine](https://www.coscine.de/)    | [Zenodo](https://zenodo.org/)     | [RDMO](https://rdmorganiser.github.io/en/)   |
+| [IndiScale](https://www.indiscale.com/) | [Open Energy Platform](https://openenergy-platform.org/) |  [DMPOnline](https://dmponline.dcc.ac.uk/) |
+| |[GitHub](https://github.com/)/[GitLab](https://about.gitlab.com/) | [DMPTooI](https://dmptool.org/) |
+
+    {{1-2}}
+You can also create a DMP in a simple spreadsheet document (e.g. Excel).
+The tools above provide additional help by letting you choose a set of questions that you want to follow in your DMP. If you want to take a look at an example DMP, you can look [here](img/DMP_GridCapacity.pdf). We recommend to use RDMO or DMPOnline due to their broad spectrum of available questionnaires.
+
+    {{2-3}}
+> **DMP Task**:
+>
+> Now it is time to start your DMP! Choose a **tool** and a set of **questions** that you want to work with and enter your basic project parameters:
+>
+>1. Title and Research Question
+>2. Project Partners and Institutions
+>
+> Depending on your settings, you can add other details required by the respective questionnaire. For a quick start, we recommend [DMPOnline](https://dmponline.dcc.ac.uk/) here.
+
+    {{2-3}}
+Congratulations! You have started your first DMP!
+
+    {{3}}
+**It`s Quiz Time!**
+
+    {{3}}
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=2eb07210-a008-4e58-94d2-837aaeb0b438" width="100%" height ="750" frameborder="0" allowfullscreen="allowfullscreen" title="Tools for RDM" ></iframe>
 
 ## Legal Aspects
 
 Because research projects have very diverse legal requirements, consider the following areas and their relevance to your project and research data (RD).
 
-![Legal Areas in RDM](img/LegalAspects.png "Relevant Legal Areas.  Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).")
+![Legal Areas in RDM](img/LegalAspects.svg "Relevant Legal Areas.  Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).")
 
 > __Exercise:__
 >
@@ -541,7 +596,7 @@ The longevity of simulation outputs is harder to assess than that of observation
 - Publish enough output data to evaluate and reuse your findings, but not all simulation runs.
 - Some software may be released openly while others remain restricted due to security or proprietary concerns. In this case, the documentation should provide enough information to reproduce the process.
 
-{{1-2}}![simulation](img/simulation.png  "[Mullendore et. al. (2021):](https://doi.org/10.3389/fclim.2021.763420) Data and software elements to be preserved and shared by all projects.")
+{{1-2}}![software](img/Software.svg  "Own graphic based on [Mullendore et. al. (2021):](https://doi.org/10.3389/fclim.2021.763420) Data and software elements to be preserved and shared by all projects.")
 
     {{2-3}}
 __Checklist for RDM in simulation and software development:__
@@ -774,6 +829,13 @@ You can find a list of existing standards in the [RDA's Metadata Standards Catal
 
     
 {{2}}__Metadata Plan__
+
+{{2-3}}
+> **Exercise:**
+>
+> Enter the correct level of detail in the table below.
+>
+> **low - high - very high** 
 
      {{2-3}}
 | Type   | Function   |  Level of detail (low-very high)  | Effort required|
