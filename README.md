@@ -391,7 +391,7 @@ When giving attribution to a Creative Commons-licensed work, it's important to f
 __It's Quiz Time!__
 
     {{3}}
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=4b1b18a5-b2a0-4729-93fe-2ddb58db9871" width="100%" height="740" frameborder="0" allowfullscreen="allowfullscreen" title="Quiz - Licensing in RDM" ></iframe>
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render/4b1b18a5-b2a0-4729-93fe-2ddb58db9871" width="100%" height="740" frameborder="0" allowfullscreen="allowfullscreen" title="Quiz - Licensing in RDM" ></iframe>
 
 
 ### Access Rights
