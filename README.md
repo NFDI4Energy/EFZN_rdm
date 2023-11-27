@@ -43,31 +43,25 @@ In the upper right corner, you can switch between textbook mode, presentation mo
 
 ## What is Research Data Management?
 
-In early 2020, the COVID-19 disease, caused by the coronavirus SARS-CoV2, broke out globally, which led to the closure of many shops and businesses for quarantine reasons. The result, especially in the USA, was a large number of unemployed people who urgently needed money for their next rent payment, food or other expenses. As a consequence, the government set up a relief package for anyone who registers as unemployed - but the money didn't get to the people. This was a huge problem!
+We want to show two examples to showcase where good research data management can support you in your research and prevent problems.
 
-The reason for this was that critical systems collapsed on which COBOL is running. COBOL is a programming language that was developed in the late 1950s to control commercial applications. From today's perspective, the programming language is very outdated and no longer taught in the training of programmers. That is why there was no personnel to take care of the systems when they collapsed. Unfortunately, many applications with the outdated programming language are still running in the business sector.
+When a young researcher started on his PhD, he was told to work on unpublished data that had been collected 3 years prior. He received various folders that were full of data. After going through them, he found that there were several datasheets with duplicate names but different contents, scripts that nobody knew what they did or why and column names that were unclear and ambiguous. Moreover, the exact equipment and/or settings used for the experiments were unknown. Since several years had passed, not even extensive talks with the manufacturers of the used equipment or the data authors could make the data usable. In the end, the data could not be re-used.
 
 Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
 
-> **Exercise**: 
-> 
-> Suggest two possible process changes that could have prevented the outcome of the scenario.
+The Mars Climate Orbiter (MCO) was part of a NASA program to gather information on Mars. On December 11, 1998 the MCO was launched. The aim was for MCO to circuit Mars in a spherical orbit and perform measurements regarding the atmosphere and the climate of the planet. However, there was a problem during the maneuver and the space probe came too close to Mars and was lost.
 
-<details>
+The navigation problems resulted from the use of different units for calculations by the involved institutions. While the navigations team used the metric system, Lockheed Martin Astronautics, the American company that had produced the probe, used Anglo-American units of measurement. The conversion of the units (e.g. Newton-seconds vs. pound-seconds) was not always taken into account, thus leading to errors in course corrections.
 
-<summary> Solution (click to enlarge):</summary>
+In fact, NASA had made it clear in its "software interface specification" that the metric system should be used. The course correction program SM_FORCES by Lockhead Martin Aeronautics was not written in accordance with the official specifications and caused the loss of the spacecraft.
 
-There are several solutions possible: Existing systems should be questioned, since requirements can change and established habits can lead to problems from today's perspective. For example, at some point, data might no longer be able to be called up or might exist in formats that are increasingly difficult to be processed. A thorough documentation of the programs might also help in some cases to rebuild them in other languages. For timely relief, the administration called out to retired COBOL programmers to work on the issues.
+Source: [FDM Thüringen: Scarytales, Licensed under CC-BY 4.0](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html)
 
-</details>
+While maybe not as critical for society at large, scientists can face similar problems when doing their research: data are insufficiently labeled, have been overwritten, commercial computer programs have been discontinued, standards were not used, or process details were not recorded.
 
-<br>
+**Research Data Management (RDM)**  aims to break this dynamic by ensuring a sustainable and coherent strategy for all data types throughout the research process. This enables researchers to store, access, and re-use their own work effectively and safely as well as open their findings worldwide to improve on cross-disciplinary collaboration, monitoring, and replication.
 
-While maybe not as critical for society at large, scientists can face similar problems when trying to access old data or programs that were written for other purposes but are now needed for current tasks: Data are insufficiently labeled, have been overwritten, commercial computer programs have been discontinued or process details were not recorded.
-
-**Research Data Management (RDM)**  aims to break this dynamic by ensuring a sustainable and coherent strategy for all data types throughout the research process. This enables researchers to store, access and re-use their own work effectively and safely and opening their findings worldwide to improve on cross-disciplinary collaboration, monitoring and replication.
-
-RDM includes all activities associated with processing, storage, preserving and publication of research data.
+RDM includes all activities associated with processing, storage, preserving, and publication of research data.
 
 ### The Research Data Lifecycle
 
