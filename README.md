@@ -261,7 +261,7 @@ Many public funding organizations require a DMP prior to granting funds for rese
 
    {{0-1}}
 A completed RDM has been created for the project: "Self-healing flexibility aggregation". The project is about the application of distributed artificial intelligence in energy system research. Multiple distributed energy resources are combined into a self-organized, controllable flexibility pool that offers aggregated flexibility to the grid operator. The plan was created using [RDMO](https://rdmo.aip.de), which provides the creation of a DMP supporting multiple templates.
-Exemplary DMPs in various templates, a description of the project and the templates themselves can be found [online](https://cloud.uol.de/s/dXsWFGc48qjenPg).
+Exemplary DMPs in various templates, a description of the project and the templates themselves can be found [here](https://cloud.uol.de/s/dXsWFGc48qjenPg).
 
 ## Tools
 
