@@ -259,6 +259,10 @@ Many public funding organizations require a DMP prior to granting funds for rese
 |[German Ministry of Education and Research (BMBF)](https://www.bmbf.de/bmbf/de/forschung/digitale-wirtschaft-und-gesellschaft/aktionsplan-forschungsdaten/aktionsplan-forschungsdaten_node.html)   |Plan sometimes required|Content depends on the respective program||
 |[German Ministry for Digital and Transport (BMDV)](https://bmdv.bund.de)|Research Data Exploitation Plan sometimes required |Content depends on the respective program||
 
+   {{0-1}}
+A completed RDM has been created for the project: "Self-healing flexibility aggregation". The project is about the application of distributed artificial intelligence in energy system research. Multiple distributed energy resources are combined into a self-organized, controllable flexibility pool that offers aggregated flexibility to the grid operator. The plan was created using [RDMO](https://rdmo.aip.de), which provides the creation of a DMP supporting multiple templates.
+Exemplary DMPs in various templates, a description of the project and the templates themselves can be found [here](https://cloud.uol.de/s/dXsWFGc48qjenPg).
+
 ## Tools
 
     {{0-1}}
