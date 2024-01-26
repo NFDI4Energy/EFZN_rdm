@@ -263,7 +263,15 @@ Many public funding organizations require a DMP prior to granting funds for rese
 A completed RDM has been created for the project: "Self-healing flexibility aggregation". The project is about the application of distributed artificial intelligence in energy system research. Multiple distributed energy resources are combined into a self-organized, controllable flexibility pool that offers aggregated flexibility to the grid operator. The plan was created using [RDMO](https://rdmo.aip.de), which provides the creation of a DMP supporting multiple templates.
 Exemplary DMPs in various templates, a description of the project and the templates themselves can be found [here](https://cloud.uol.de/s/dXsWFGc48qjenPg).
 
-## Tools
+
+
+## Infrastructure
+
+To better handle research data, specific tools and services are needed. On the one side, they can support you in the handling of research data and software. On the other side, they can provide places to store data and/or metadata. Within this chapter, you can learn more about different existing tools and resources.
+
+In Germany, the German National Research Data Infrastructure is a huge initiative supported by the states and the federal government which wants to improve and further develop the infrastructure for research data. If you want to learn more about the NFDI in general, check out [this video](https://www.youtube.com/watch?v=uJ01g9m8uE4). For the energy domain, NFDI4Energy is the responsible consortium. You can check out their latest developments on [their website](https://nfdi4energy.uol.de/).
+
+### Tools
 
     {{0-1}}
 Tools can help you to...
@@ -309,136 +317,6 @@ Congratulations! You have started your first DMP!
 
     {{3}}
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=2eb07210-a008-4e58-94d2-837aaeb0b438" width="100%" height ="750" frameborder="0" allowfullscreen="allowfullscreen" title="Tools for RDM" ></iframe>
-
-## Legal Aspects
-
-Because research projects have very diverse legal requirements, consider the following areas and their relevance to your project and research data (RD).
-
-![Legal Areas in RDM](img/LegalAspects.svg "Relevant Legal Areas.  Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).")
-
-> __Exercise:__
->
-> Which legal questions do you need to clarify with your funder or institution?
-
-### Licenses
-
-     {{0-1}}
-The internet has made it incredibly easy for people to share and collaborate. However, copyright laws can often pose obstacles to this process. Generally, others cannot use or remix your work without obtaining your permission first.
-But what if you want to encourage others to reuse your work? In such cases, you may consider publishing your work under a [Creative Commons](https://creativecommons.org/) license or [GNU General Public License](https://www.gnu.org/licenses/).
-
-
-    {{0-1}}
-Creative Commons licenses are a set of copyright licenses that allow creators to grant others permission to use their work. They are designed to be easily understood and applied, providing a flexible framework for sharing and collaboration. By assigning a Creative Commons license, researchers can clearly communicate how others can use, distribute, modify, and build upon their work.
-
-    {{0-1}}
-For software, you may also use a [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), guaranteeing end users the four freedoms to run, study, share, and modify the software. For other options to license software, you can consult [this Wikipedia comparison](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses).
-
-    {{0-1}}
-So "free" licenses provide you with the flexibility to choose which rights you wish to retain and allow you to clearly communicate to others how they can use your work. This way, you can strike a balance between protecting your rights as author and fostering a culture of sharing and collaboration on the internet.
-
-    {{1}}
-__Step 1: Selecting License Features__
-
-    {{1-2}}
-First, you need to choose the specific conditions that you want to apply to your work. Here are the "building blocks" to consider:
-
-    {{1-2}}
-1.	__Attribution (BY):__ requires to give attribution to the creator.
-
-2.	__ShareAlike (SA):__ If others use your work, they are required to share it under the same conditions that you specified.
-
-3.	__NoDerivatives (ND):__ This license allows reusers to transform or build upon the material for their own purposes. They may publish and distribute only the unedited form of the material.
-
-4.	__NonCommercial (NC):__ This feature allows the reuse of your work only for non-commercial purposes.
-
-
-{{1-2}} These features can now be combined to make the license of your choice:
-
-    {{1-2}}
-![CC License Requirements](img/CCLicenseChart.png "Foter.com (2015): CC License Requirements. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
-
-    {{1-2}}
-You may also choose to give your work to the Public Domain and resign all rights you have by assigning "CC0".
-
-    {{2}}
-__Step 2: Obtaining a License__
-
-    {{2-3}}
-When giving attribution to a Creative Commons-licensed work, it's important to follow certain guidelines. A useful mnemonic to remember is __TASL__, which represents the key elements to include:
-
-    {{2-3}}
-1.	Title: Include the name of the material if it has been provided. This helps to identify the specific work you are attributing.
-2.	Author: Clearly state the name of the person or entity that owns the material. This gives credit to the original creator of the work.
-3.	Source: Mention where you found the material. Provide the URL or hyperlink that directs others to the location where the work is hosted. This allows others to easily access the original source.
-4.	License: Specify the Creative Commons license that applies to the work. Simply saying "Creative Commons" is not sufficient. Name the CC license and provide a direct link to the license text. This informs others of the rights and permissions granted by the license.
-
-
-{{2-3}} A final word on "openness": you might be tempted to protect as many of your rights as possible. Try to think the other way around, though: how open can you make your data? For example, a researcher from a commercial institution might be prohibited to use your data because of its NC-license or someone else might be forced to reproduce datasets because they are licensed under CC-BY-ND.
-
-    {{2-3}}
-![Degrees of Freedom](img/Foter.com_infographic_CC.jpg "Foter.com (2015): Degrees of Freedom. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
-
-    {{3}}
-__It's Quiz Time!__
-
-    {{3}}
-<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=587d9a6c-9889-440d-ba19-2f16d2d5f23b&amp;version=1.8" width="100%" height="740" frameborder="0" allowfullscreen="allowfullscreen" title="Quiz - Licensing in RDM" ></iframe>
-
-
-### Access Rights
-
-    {{0-1}}
-If you want to limit access to your published data, this does not contradict the FAIR guidelines, but you should make the access scheme transparent (e.g. by using appropriate licenses) and give access to as much detail as possible.
-
-
-    {{0-1}}
-Try to assign roles to all collaborators. Each role is associated with a set of access rights that are necessary to carry out the duties and tasks associated with that role.
-The following principles are typically followed:
-
-    {{0-1}}
-1.	__Principle of least privilege:__ Individuals should be granted the minimum access rights necessary to perform their job functions effectively. Assigning excessive privileges increases the risk of unauthorized access or misuse of data.
-
-2.	__Role-based access control (RBAC):__ Assign roles to individuals and associating access rights with those roles. This simplifies the management of access rights as permissions are granted to roles rather than to individual users. Role assignment is based on the individual's job responsibilities, ensuring that access rights are aligned with their needs.
-
-3.	__Regular review and updates:__ Access rights and role assignments should be periodically reviewed and updated to reflect changes in job roles, responsibilities, or organizational structure.
-
-    {{1}}
-__It's Quiz Time!__
-
-    {{1}}
-1. What are some aspects of access security?
-
-     {{1}}
-    [[x]] Privacy, integrity, availability, and controllability (S)
-    [[ ]] Authentication, encryption, authorization, and auditing (L)
-    [[ ]] Authentication, vulnerability assessment, encryption, and monitoring (V)
-    [[ ]] Privacy, vulnerability assessment, authorization, and auditing (O)
-
-    {{1}}
-2.	What is a recommended practice for password protection?
-
-    {{1}}
-    [[ ]] Use sequential characters on the keyboard for easy memorization (B)
-    [[ ]] Use dictionary words to make passwords more secure (R)
-    [[x]] Use strong passwords with at least eight characters, including upper and lower case letters, special characters, and numbers (T)
-    [[ ]] Avoid using special characters and numbers in passwords (P)
-
-    {{1}}
-3.	What is the purpose of access rights and role assignment?
-
-    {{1}}
-    [[x]] To limit access to sensitive data to authorized individuals only (D)
-    [[ ]] To increase data availability for all users (U)
-    [[ ]] To delegate data backup responsibilities to multiple individuals (H)
-    [[ ]] To restrict data access based on file formats (A)
-
-
-## Infrastructure
-
-To better handle research data, specific tools and services are needed. On the one side, they can support you in the handling of research data and software. On the other side, they can provide places to store data and/or metadata. Within this chapter, you can learn more about different existing tools and resources.
-
-In Germany, the German National Research Data Infrastructure is a huge initiative supported by the states and the federal government which wants to improve and further develop the infrastructure for research data. If you want to learn more about the NFDI in general, check out [this video](https://www.youtube.com/watch?v=uJ01g9m8uE4). For the energy domain, NFDI4Energy is the responsible consortium. You can check out their latest developments on [their website](https://nfdi4energy.uol.de/).
-
 
 ### Data Types
 
@@ -720,6 +598,129 @@ __It's Quiz Time__
     [[ ]]Backup involves making multiple copies of data, while archiving involves storing final versions only. (R)
     [[ ]] Backup is the protection against data theft, while archiving is the prevention of data misuse. (U)
     [[x]] Backup is the (semi)automatic backup of all data, while archiving is the backup of selected data for long-term storage. (A)
+
+## Legal Aspects
+
+Because research projects have very diverse legal requirements, consider the following areas and their relevance to your project and research data (RD).
+
+![Legal Areas in RDM](img/LegalAspects.svg "Relevant Legal Areas.  Source: Biernacka et al. 2020. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).")
+
+> __Exercise:__
+>
+> Which legal questions do you need to clarify with your funder or institution?
+
+### Licenses
+
+     {{0-1}}
+The internet has made it incredibly easy for people to share and collaborate. However, copyright laws can often pose obstacles to this process. Generally, others cannot use or remix your work without obtaining your permission first.
+But what if you want to encourage others to reuse your work? In such cases, you may consider publishing your work under a [Creative Commons](https://creativecommons.org/) license or [GNU General Public License](https://www.gnu.org/licenses/).
+
+
+    {{0-1}}
+Creative Commons licenses are a set of copyright licenses that allow creators to grant others permission to use their work. They are designed to be easily understood and applied, providing a flexible framework for sharing and collaboration. By assigning a Creative Commons license, researchers can clearly communicate how others can use, distribute, modify, and build upon their work.
+
+    {{0-1}}
+For software, you may also use a [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), guaranteeing end users the four freedoms to run, study, share, and modify the software. For other options to license software, you can consult [this Wikipedia comparison](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses).
+
+    {{0-1}}
+So "free" licenses provide you with the flexibility to choose which rights you wish to retain and allow you to clearly communicate to others how they can use your work. This way, you can strike a balance between protecting your rights as author and fostering a culture of sharing and collaboration on the internet.
+
+    {{1}}
+__Step 1: Selecting License Features__
+
+    {{1-2}}
+First, you need to choose the specific conditions that you want to apply to your work. Here are the "building blocks" to consider:
+
+    {{1-2}}
+1.	__Attribution (BY):__ requires to give attribution to the creator.
+
+2.	__ShareAlike (SA):__ If others use your work, they are required to share it under the same conditions that you specified.
+
+3.	__NoDerivatives (ND):__ This license allows reusers to transform or build upon the material for their own purposes. They may publish and distribute only the unedited form of the material.
+
+4.	__NonCommercial (NC):__ This feature allows the reuse of your work only for non-commercial purposes.
+
+
+{{1-2}} These features can now be combined to make the license of your choice:
+
+    {{1-2}}
+![CC License Requirements](img/CCLicenseChart.png "Foter.com (2015): CC License Requirements. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
+
+    {{1-2}}
+You may also choose to give your work to the Public Domain and resign all rights you have by assigning "CC0".
+
+    {{2}}
+__Step 2: Obtaining a License__
+
+    {{2-3}}
+When giving attribution to a Creative Commons-licensed work, it's important to follow certain guidelines. A useful mnemonic to remember is __TASL__, which represents the key elements to include:
+
+    {{2-3}}
+1.	Title: Include the name of the material if it has been provided. This helps to identify the specific work you are attributing.
+2.	Author: Clearly state the name of the person or entity that owns the material. This gives credit to the original creator of the work.
+3.	Source: Mention where you found the material. Provide the URL or hyperlink that directs others to the location where the work is hosted. This allows others to easily access the original source.
+4.	License: Specify the Creative Commons license that applies to the work. Simply saying "Creative Commons" is not sufficient. Name the CC license and provide a direct link to the license text. This informs others of the rights and permissions granted by the license.
+
+
+{{2-3}} A final word on "openness": you might be tempted to protect as many of your rights as possible. Try to think the other way around, though: how open can you make your data? For example, a researcher from a commercial institution might be prohibited to use your data because of its NC-license or someone else might be forced to reproduce datasets because they are licensed under CC-BY-ND.
+
+    {{2-3}}
+![Degrees of Freedom](img/Foter.com_infographic_CC.jpg "Foter.com (2015): Degrees of Freedom. Cropped by A. Ahrens. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://foter.com/blog/how-to-attribute-creative-commons-photos/")
+
+    {{3}}
+__It's Quiz Time!__
+
+    {{3}}
+<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=587d9a6c-9889-440d-ba19-2f16d2d5f23b&amp;version=1.8" width="100%" height="740" frameborder="0" allowfullscreen="allowfullscreen" title="Quiz - Licensing in RDM" ></iframe>
+
+
+### Access Rights
+
+    {{0-1}}
+If you want to limit access to your published data, this does not contradict the FAIR guidelines, but you should make the access scheme transparent (e.g. by using appropriate licenses) and give access to as much detail as possible.
+
+
+    {{0-1}}
+Try to assign roles to all collaborators. Each role is associated with a set of access rights that are necessary to carry out the duties and tasks associated with that role.
+The following principles are typically followed:
+
+    {{0-1}}
+1.	__Principle of least privilege:__ Individuals should be granted the minimum access rights necessary to perform their job functions effectively. Assigning excessive privileges increases the risk of unauthorized access or misuse of data.
+
+2.	__Role-based access control (RBAC):__ Assign roles to individuals and associating access rights with those roles. This simplifies the management of access rights as permissions are granted to roles rather than to individual users. Role assignment is based on the individual's job responsibilities, ensuring that access rights are aligned with their needs.
+
+3.	__Regular review and updates:__ Access rights and role assignments should be periodically reviewed and updated to reflect changes in job roles, responsibilities, or organizational structure.
+
+    {{1}}
+__It's Quiz Time!__
+
+    {{1}}
+1. What are some aspects of access security?
+
+     {{1}}
+    [[x]] Privacy, integrity, availability, and controllability (S)
+    [[ ]] Authentication, encryption, authorization, and auditing (L)
+    [[ ]] Authentication, vulnerability assessment, encryption, and monitoring (V)
+    [[ ]] Privacy, vulnerability assessment, authorization, and auditing (O)
+
+    {{1}}
+2.	What is a recommended practice for password protection?
+
+    {{1}}
+    [[ ]] Use sequential characters on the keyboard for easy memorization (B)
+    [[ ]] Use dictionary words to make passwords more secure (R)
+    [[x]] Use strong passwords with at least eight characters, including upper and lower case letters, special characters, and numbers (T)
+    [[ ]] Avoid using special characters and numbers in passwords (P)
+
+    {{1}}
+3.	What is the purpose of access rights and role assignment?
+
+    {{1}}
+    [[x]] To limit access to sensitive data to authorized individuals only (D)
+    [[ ]] To increase data availability for all users (U)
+    [[ ]] To delegate data backup responsibilities to multiple individuals (H)
+    [[ ]] To restrict data access based on file formats (A)
+
 
 
 ## Metadata
