@@ -956,5 +956,7 @@ input == "worlds best data management planners" || input == "worldsbestdatamanag
 
 
 ![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
+* For any questions, comments or other ideas, please contact:
+     rdm-course@nfdi4energy.org.
 
 
