@@ -91,13 +91,17 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
     {{1-2}}
 __Benefits of RDM in your projects__
 
+    {{1-2}}
 Are you frustrated with the time you invest in searching for data? Do you want to apply structured RDM cost-effectively? But in the moment, you lack the expertise, resources, or incentives to share your data with your group and in your field?
 Perhaps you worry whether your data is transferable at all because some data have ethical or epistemological restrictions or your project includes many stakeholders with competing interests in your project? In this chapter, we will prove to you that RDM is not as tricky as you think.
 
+    {{1-2}}
 ![Benefits](img/Benefits.png "Benefits of RDM. By N. Seitz. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://www.go-fair.org/fair-principles/")
 
+    {{1-2}}
 If done right, RDM will...
 
+    {{1-2}}
 1. __...save time, resources, effort and money:__
 
    - Preserve time that is otherwise lost while searching for, recovering, and deciphering data.
@@ -132,36 +136,46 @@ If done right, RDM will...
     {{3}}
 __It's Quiz Time__
 
+    {{3}}
 1. RDM helps preserve time that is otherwise lost while:
 
+   {{3}}
     [[ ]] Collecting data (M)
     [[ ]] Analyzing data (A)
     [[x]] Searching for, recovering, and deciphering data (W)
     [[ ]] Archiving data (G)
 
+   {{3}}
 2. One of the benefits of RDM is making data:
 
+   {{3}}
     [[ ]] Irreversible (F)
     [[ ]] Obsolete (R)
     [[x]] Reusable (O)
     [[ ]] Inaccessible (S)
 
+   {{3}}
 3. RDM enables researchers to benefit from high-quality datasets from:
 
+   {{3}}
     [[ ]] Social media platforms (C)
     [[x]] Other researchers (R)
     [[ ]] Government agencies (L)
     [[ ]] Non-profit organizations (E)
 
+   {{3}}
 4. RDM can influence research developments:
 
+   {{3}}
     [[ ]] Immediately after the original research is completed (T)
     [[ ]] Only within the same discipline (U)
     [[x]] Continually, long after the original research is completed (L)
     [[ ]] Only across disciplines (D)
 
+   {{3}}
 5. One way RDM helps prevent errors is by:
 
+   {{3}}
     [[ ]] Encrypting data (S)
     [[ ]] Backing up data (Q)
     [[x]] Synchronizing records (D)
