@@ -104,10 +104,10 @@ If done right, RDM will...
     {{1-2}}
 1. __...save time, resources, effort and money:__
 
-   - Preserve time that is otherwise lost while searching for, recovering, and deciphering data.
-   - Make data reusable.
-   - Benefit from high quality datasets from other researchers.
-   - Simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
+    - Preserve time that is otherwise lost while searching for, recovering, and deciphering data.
+    - Make data reusable.
+    - Benefit from high quality datasets from other researchers.
+    - Simplify cooperation and collaboration (e.g. through better documentation and affiliation of the data collected).
 
 2. __...improve scientific impact:__
 
@@ -129,8 +129,8 @@ If done right, RDM will...
     - Increase your chances of funding since many funding organizations require a Data Management Plan ([DMP](#data-management-plan)).
 
 
-    {{2-3}}<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=8592e4d6-37e9-4bb1-a356-73803e3f3971&amp;version=1.6"  title="Henrik Wagner (TU Braunschweig) on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
 
+{{2-3}}<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=8592e4d6-37e9-4bb1-a356-73803e3f3971"  title="Henrik Wagner (TU Braunschweig) on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
 
     {{3}}
 __It's Quiz Time__
@@ -139,46 +139,46 @@ __It's Quiz Time__
 1. RDM helps preserve time that is otherwise lost while:
 
    {{3}}
-    [[ ]] Collecting data (M)
-    [[ ]] Analyzing data (A)
-    [[x]] Searching for, recovering, and deciphering data (W)
-    [[ ]] Archiving data (G)
+   [[ ]] Collecting data (M)
+   [[ ]] Analyzing data (A)
+   [[x]] Searching for, recovering, and deciphering data (W)
+   [[ ]] Archiving data (G)
 
    {{3}}
 2. One of the benefits of RDM is making data:
 
    {{3}}
-    [[ ]] Irreversible (F)
-    [[ ]] Obsolete (R)
-    [[x]] Reusable (O)
-    [[ ]] Inaccessible (S)
+   [[ ]] Irreversible (F)
+   [[ ]] Obsolete (R)
+   [[x]] Reusable (O)
+   [[ ]] Inaccessible (S)
 
    {{3}}
 3. RDM enables researchers to benefit from high-quality datasets from:
 
    {{3}}
-    [[ ]] Social media platforms (C)
-    [[x]] Other researchers (R)
-    [[ ]] Government agencies (L)
-    [[ ]] Non-profit organizations (E)
+   [[ ]] Social media platforms (C)
+   [[x]] Other researchers (R)
+   [[ ]] Government agencies (L)
+   [[ ]] Non-profit organizations (E)
 
    {{3}}
 4. RDM can influence research developments:
 
    {{3}}
-    [[ ]] Immediately after the original research is completed (T)
-    [[ ]] Only within the same discipline (U)
-    [[x]] Continually, long after the original research is completed (L)
-    [[ ]] Only across disciplines (D)
+   [[ ]] Immediately after the original research is completed (T)
+   [[ ]] Only within the same discipline (U)
+   [[x]] Continually, long after the original research is completed (L)
+   [[ ]] Only across disciplines (D)
 
    {{3}}
 5. One way RDM helps prevent errors is by:
 
    {{3}}
-    [[ ]] Encrypting data (S)
-    [[ ]] Backing up data (Q)
-    [[x]] Synchronizing records (D)
-    [[ ]] Archiving data (Y)
+   [[ ]] Encrypting data (S)
+   [[ ]] Backing up data (Q)
+   [[x]] Synchronizing records (D)
+   [[ ]] Archiving data (Y)
 
 ## Open Science and RDM
 
