@@ -130,7 +130,7 @@ If done right, RDM will...
 
 
 
-{{2-3}}<iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=8592e4d6-37e9-4bb1-a356-73803e3f3971"  title="Henrik Wagner (TU Braunschweig) on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
+{{2-3}}<frame src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=8592e4d6-37e9-4bb1-a356-73803e3f3971&amp;version=1.6"  title="Henrik Wagner (TU Braunschweig) on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
 
     {{3}}
 __It's Quiz Time__
