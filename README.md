@@ -84,24 +84,24 @@ The "Research Data Lifecycle" describes a cyclic process of data generation and 
 
 ### Benefits of RDM
 
-    {{0-1}}
+    {{0-0}}
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=e7272cc1-7e1a-409b-aff4-feb578a988a8" title="Prof. Dr.-Ing. Astrid Niesse on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
 
 
-    {{1-2}}
+    {{1-1}}
 __Benefits of RDM in your projects__
 
-    {{1-2}}
+    {{1-1}}
 Are you frustrated with the time you invest in searching for data? Do you want to apply structured RDM cost-effectively? But in the moment, you lack the expertise, resources, or incentives to share your data with your group and in your field?
 Perhaps you worry whether your data is transferable at all because some data have ethical or epistemological restrictions or your project includes many stakeholders with competing interests in your project? In this chapter, we will prove to you that RDM is not as tricky as you think.
 
-    {{1-2}}
+    {{1-1}}
 ![Benefits](img/Benefits.png "Benefits of RDM. By N. Seitz. Licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) Source: https://www.go-fair.org/fair-principles/")
 
-    {{1-2}}
+    {{1-1}}
 If done right, RDM will...
 
-    {{1-2}}
+    {{1-1}}
 1. __...save time, resources, effort and money:__
 
    - Preserve time that is otherwise lost while searching for, recovering, and deciphering data.
@@ -129,7 +129,7 @@ If done right, RDM will...
     - Increase your chances of funding since many funding organizations require a Data Management Plan ([DMP](#data-management-plan)).
 
 
-    {{2-3}}
+    {{2-2}}
 <iframe src="https://www.twillo.de/edu-sharing/eduservlet/render?node_id=8592e4d6-37e9-4bb1-a356-73803e3f3971"  title="Henrik Wagner (TU Braunschweig) on RDM" width="100%" height ="600" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
 
 
