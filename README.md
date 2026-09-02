@@ -922,6 +922,8 @@ input == "worlds best data management planners" || input == "worldsbestdatamanag
 
 ## Sources 
 
+* Ferenz, S., Ahrens, A., Heiken, J., Jandrich, A., Nieße, A., & Seitz, N. (2024, February 8). Open Training for Research Data Management in the Energy Domain. 1. NFDI4Energy Conference, Hanover, Germany. https://doi.org/10.5281/zenodo.10635422
+  
 * Biernacka, Katarzyna; Maik Bierwirth; Petra Buchholz, Dominika Dolzycka; Kerstin Helbig; Janna Neumann; Carolin Odebrecht; Cord Wiljes and Ulrike Wuttke:
   Train-the-Trainer Concept on Research Data Management.
   Version 3.0.
